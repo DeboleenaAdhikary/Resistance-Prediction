@@ -1,0 +1,933 @@
+GenomeId	CollectionYear	GenbankAccessions	GenomeName	GenomeStatus	IsolationCountry	IsolationSource	Species	Strain	GeographicGroup	HostCommonName	HostGroup	HostScientificName	StateProvince
+208964.381	2003	QZGA00000000	Pseudomonas aeruginosa PAO1 strain 2017-E	WGS	USA	individually-maintained laboratory-adapted strain of PAO1 acquired from C. Manoil, Univ. of Washington	Pseudomonas aeruginosa	2017-E	N/A	N/A	N/A	N/A	N/A
+208964.382	2003	QZGC00000000	Pseudomonas aeruginosa PAO1 strain 2017-G	WGS	USA	individually-maintained laboratory-adapted strain of PAO1 acquired from H. Nikaido, Univ. of California, Berkeley	Pseudomonas aeruginosa	2017-G	N/A	N/A	N/A	N/A	N/A
+208964.383	2003	QZGB00000000	Pseudomonas aeruginosa PAO1 strain 2017-F	WGS	USA	individually-maintained laboratory-adapted strain of PAO1 acquired from J. Goldberg, Univ. of Virginia	Pseudomonas aeruginosa	2017-F	N/A	N/A	N/A	N/A	N/A
+208964.384	2000	QZFW00000000	Pseudomonas aeruginosa PAO1 strain 2017-A	WGS	USA	individually-maintained laboratory-adapted strain of PAO1 acquired from R. Hancock, Univ. of British Columbia	Pseudomonas aeruginosa	2017-A	N/A	N/A	N/A	N/A	N/A
+208964.385	2003	QZGD00000000	Pseudomonas aeruginosa PAO1 strain 2017-H	WGS	USA	individually-maintained laboratory-adapted strain of PAO1 acquired from A. Prince, Columbia University	Pseudomonas aeruginosa	2017-H	N/A	N/A	N/A	N/A	N/A
+208964.386	2000	QZFY00000000	Pseudomonas aeruginosa PAO1 strain 2017-C	WGS	USA	individually-maintained laboratory-adapted strain of PAO1 acquired from E.P. Greenberg, Univ. of Washington	Pseudomonas aeruginosa	2017-C	N/A	N/A	N/A	N/A	N/A
+208964.387	2000	QZFX00000000	Pseudomonas aeruginosa PAO1 strain 2017-B	WGS	USA	individually-maintained laboratory-adapted strain of PAO1 acquired from J. Burns, Univ. of Washington	Pseudomonas aeruginosa	2017-B	N/A	N/A	N/A	N/A	N/A
+208964.388	2008	QZGE00000000	Pseudomonas aeruginosa PAO1 strain 2017-I	WGS	USA	individually-maintained laboratory-adapted strain of PAO1 acquired from C. Manoil, Univ. of Washington	Pseudomonas aeruginosa	2017-I	N/A	N/A	N/A	N/A	N/A
+208964.389	2001	QZFZ00000000	Pseudomonas aeruginosa PAO1 strain 2017-D	WGS	USA	individually-maintained laboratory-adapted strain of PAO1 acquired from D. Ohman, Virginia Commonwealth University	Pseudomonas aeruginosa	2017-D	N/A	N/A	N/A	N/A	N/A
+208964.400	2016		Pseudomonas aeruginosa PAO1	WGS	Australia	Australia	Pseudomonas aeruginosa	PAO1	Oceania	Human	Human	Homo sapiens	N/A
+287.1000	2009	JTRI00000000	Pseudomonas aeruginosa AZPAE14933	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE14933	N/A	Human	Human	Homo sapiens	N/A
+287.1001	2009	JTRJ00000000	Pseudomonas aeruginosa AZPAE14932	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14932	N/A	Human	Human	Homo sapiens	N/A
+287.1002	2009	JTRK00000000	Pseudomonas aeruginosa AZPAE14931	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14931	Europe	Human	Human	Homo sapiens	N/A
+287.1003	2009	JTRL00000000	Pseudomonas aeruginosa AZPAE14930	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE14930	Europe	Human	Human	Homo sapiens	N/A
+287.1004	2009	JTRM00000000	Pseudomonas aeruginosa AZPAE14929	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE14929	N/A	Human	Human	Homo sapiens	N/A
+287.1005	2008	JTRN00000000	Pseudomonas aeruginosa AZPAE14928	WGS	Brazil	urinary tract infection	Pseudomonas aeruginosa	AZPAE14928	South America	Human	Human	Homo sapiens	N/A
+287.1006	2008	JTRO00000000	Pseudomonas aeruginosa AZPAE14927	WGS	Brazil	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14927	South America	Human	Human	Homo sapiens	N/A
+287.1007	2008	JTRP00000000	Pseudomonas aeruginosa AZPAE14926	WGS	Brazil	urinary tract infection	Pseudomonas aeruginosa	AZPAE14926	South America	Human	Human	Homo sapiens	N/A
+287.1008	2008	JTRQ00000000	Pseudomonas aeruginosa AZPAE14925	WGS	Brazil	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14925	South America	Human	Human	Homo sapiens	N/A
+287.1009	2008	JTRR00000000	Pseudomonas aeruginosa AZPAE14924	WGS	Brazil	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14924	N/A	Human	Human	Homo sapiens	N/A
+287.1010	2008	JTRS00000000	Pseudomonas aeruginosa AZPAE14923	WGS	Brazil	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14923	N/A	Human	Human	Homo sapiens	N/A
+287.1011	2009	JTRT00000000	Pseudomonas aeruginosa AZPAE14922	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14922	N/A	Human	Human	Homo sapiens	N/A
+287.1012	2009	JTRU00000000	Pseudomonas aeruginosa AZPAE14921	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14921	Europe	Human	Human	Homo sapiens	N/A
+287.1013	2008	JTRV00000000	Pseudomonas aeruginosa AZPAE14920	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE14920	Europe	Human	Human	Homo sapiens	N/A
+287.1014	2008	JTRW00000000	Pseudomonas aeruginosa AZPAE14919	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14919	Europe	Human	Human	Homo sapiens	N/A
+287.1015	2008	JTRX00000000	Pseudomonas aeruginosa AZPAE14918	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14918	Europe	Human	Human	Homo sapiens	N/A
+287.1016	2008	JTRY00000000	Pseudomonas aeruginosa AZPAE14917	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14917	Europe	Human	Human	Homo sapiens	N/A
+287.1017	2008	JTRZ00000000	Pseudomonas aeruginosa AZPAE14916	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14916	Europe	Human	Human	Homo sapiens	N/A
+287.1018	2008	JTSA00000000	Pseudomonas aeruginosa AZPAE14915	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE14915	Europe	Human	Human	Homo sapiens	N/A
+287.1019	2008	JTSB00000000	Pseudomonas aeruginosa AZPAE14914	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE14914	Europe	Human	Human	Homo sapiens	N/A
+287.1020	2008	JTSC00000000	Pseudomonas aeruginosa AZPAE14913	WGS	Croatia	urinary tract infection	Pseudomonas aeruginosa	AZPAE14913	Europe	Human	Human	Homo sapiens	N/A
+287.1021	2008	JTSD00000000	Pseudomonas aeruginosa AZPAE14912	WGS	Croatia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14912	N/A	Human	Human	Homo sapiens	N/A
+287.1022	2008	JTSE00000000	Pseudomonas aeruginosa AZPAE14911	WGS	India	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14911	Asia	Human	Human	Homo sapiens	N/A
+287.1023	2008	JTSF00000000	Pseudomonas aeruginosa AZPAE14910	WGS	India	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14910	Asia	Human	Human	Homo sapiens	N/A
+287.1024	2008	JTSG00000000	Pseudomonas aeruginosa AZPAE14909	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14909	N/A	Human	Human	Homo sapiens	N/A
+287.1025	2008	JTSH00000000	Pseudomonas aeruginosa AZPAE14908	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14908	Europe	Human	Human	Homo sapiens	N/A
+287.1026	2008	JTSI00000000	Pseudomonas aeruginosa AZPAE14907	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14907	Asia	Human	Human	Homo sapiens	N/A
+287.1027	2008	JTSJ00000000	Pseudomonas aeruginosa AZPAE14906	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14906	N/A	Human	Human	Homo sapiens	N/A
+287.1028	2008	JTSK00000000	Pseudomonas aeruginosa AZPAE14905	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14905	N/A	Human	Human	Homo sapiens	N/A
+287.1029	2008	JTSL00000000	Pseudomonas aeruginosa AZPAE14904	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14904	N/A	Human	Human	Homo sapiens	N/A
+287.1030	2008	JTSM00000000	Pseudomonas aeruginosa AZPAE14903	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14903	Europe	Human	Human	Homo sapiens	N/A
+287.1031	2008	JTSN00000000	Pseudomonas aeruginosa AZPAE14902	WGS	Argentina	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14902	N/A	Human	Human	Homo sapiens	N/A
+287.1032	2008	JTSO00000000	Pseudomonas aeruginosa AZPAE14901	WGS	India	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14901	Asia	Human	Human	Homo sapiens	N/A
+287.1033	2008	JTSP00000000	Pseudomonas aeruginosa AZPAE14900	WGS	India	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14900	Asia	Human	Human	Homo sapiens	N/A
+287.1034	2008	JTSQ00000000	Pseudomonas aeruginosa AZPAE14899	WGS	India	urinary tract infection	Pseudomonas aeruginosa	AZPAE14899	Asia	Human	Human	Homo sapiens	N/A
+287.1035	2008	JTSR00000000	Pseudomonas aeruginosa AZPAE14898	WGS	India	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14898	Asia	Human	Human	Homo sapiens	N/A
+287.1036	2008	JTSS00000000	Pseudomonas aeruginosa AZPAE14897	WGS	India	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14897	Asia	Human	Human	Homo sapiens	N/A
+287.1037	2008	JTST00000000	Pseudomonas aeruginosa AZPAE14895	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14895	Europe	Human	Human	Homo sapiens	N/A
+287.1038	2008	JTSU00000000	Pseudomonas aeruginosa AZPAE14894	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14894	N/A	Human	Human	Homo sapiens	N/A
+287.1039	2008	JTSV00000000	Pseudomonas aeruginosa AZPAE14893	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE14893	N/A	Human	Human	Homo sapiens	N/A
+287.1040	2008	JTSW00000000	Pseudomonas aeruginosa AZPAE14892	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14892	N/A	Human	Human	Homo sapiens	N/A
+287.1041	2008	JTSX00000000	Pseudomonas aeruginosa AZPAE14891	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14891	Europe	Human	Human	Homo sapiens	N/A
+287.1042	2008	JTSY00000000	Pseudomonas aeruginosa AZPAE14890	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE14890	N/A	Human	Human	Homo sapiens	N/A
+287.1043	2008	JTSZ00000000	Pseudomonas aeruginosa AZPAE14889	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14889	Asia	Human	Human	Homo sapiens	N/A
+287.1044	2007	JTTA00000000	Pseudomonas aeruginosa AZPAE14888	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14888	N/A	Human	Human	Homo sapiens	N/A
+287.1045	2007	JTTB00000000	Pseudomonas aeruginosa AZPAE14887	WGS	Croatia	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14887	N/A	Human	Human	Homo sapiens	N/A
+287.1046	2007	JTTC00000000	Pseudomonas aeruginosa AZPAE14886	WGS	Croatia	urinary tract infection	Pseudomonas aeruginosa	AZPAE14886	N/A	Human	Human	Homo sapiens	N/A
+287.1047	2007	JTTD00000000	Pseudomonas aeruginosa AZPAE14885	WGS	Croatia	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14885	Europe	Human	Human	Homo sapiens	N/A
+287.1048	2007	JTTE00000000	Pseudomonas aeruginosa AZPAE14884	WGS	Croatia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14884	Europe	Human	Human	Homo sapiens	N/A
+287.1049	2007	JTTF00000000	Pseudomonas aeruginosa AZPAE14883	WGS	Croatia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14883	Europe	Human	Human	Homo sapiens	N/A
+287.1050	2007	JTTG00000000	Pseudomonas aeruginosa AZPAE14882	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14882	Europe	Human	Human	Homo sapiens	N/A
+287.1051	2007	JTTH00000000	Pseudomonas aeruginosa AZPAE14881	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14881	N/A	Human	Human	Homo sapiens	N/A
+287.1052	2007	JTTI00000000	Pseudomonas aeruginosa AZPAE14880	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14880	N/A	Human	Human	Homo sapiens	N/A
+287.1053	2007	JTTJ00000000	Pseudomonas aeruginosa AZPAE14879	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14879	N/A	Human	Human	Homo sapiens	N/A
+287.1054	2007	JTTK00000000	Pseudomonas aeruginosa AZPAE14878	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14878	N/A	Human	Human	Homo sapiens	N/A
+287.1055	2007	JTTL00000000	Pseudomonas aeruginosa AZPAE14877	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14877	North America	Human	Human	Homo sapiens	N/A
+287.1056	2007	JTTM00000000	Pseudomonas aeruginosa AZPAE14876	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14876	North America	Human	Human	Homo sapiens	N/A
+287.1057	2007	JTTN00000000	Pseudomonas aeruginosa AZPAE14875	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14875	North America	Human	Human	Homo sapiens	N/A
+287.1058	2007	JTTO00000000	Pseudomonas aeruginosa AZPAE14874	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14874	N/A	Human	Human	Homo sapiens	N/A
+287.1059	2007	JTTP00000000	Pseudomonas aeruginosa AZPAE14873	WGS	Argentina	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14873	South America	Human	Human	Homo sapiens	N/A
+287.1060	2007	JTTQ00000000	Pseudomonas aeruginosa AZPAE14872	WGS	Argentina	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14872	N/A	Human	Human	Homo sapiens	N/A
+287.1061	2007	JTTR00000000	Pseudomonas aeruginosa AZPAE14871	WGS	Argentina	urinary tract infection	Pseudomonas aeruginosa	AZPAE14871	South America	Human	Human	Homo sapiens	N/A
+287.1062	2007	JTTS00000000	Pseudomonas aeruginosa AZPAE14870	WGS	Argentina	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14870	N/A	Human	Human	Homo sapiens	N/A
+287.1063	2007	JTTT00000000	Pseudomonas aeruginosa AZPAE14869	WGS	Argentina	urinary tract infection	Pseudomonas aeruginosa	AZPAE14869	N/A	Human	Human	Homo sapiens	N/A
+287.1064	2007	JTTU00000000	Pseudomonas aeruginosa AZPAE14868	WGS	Argentina	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14868	South America	Human	Human	Homo sapiens	N/A
+287.10645	2014	CADCYC000000000	Pseudomonas aeruginosa strain PBIO724	WGS	Rwanda	tertiary hospital, surgery	Pseudomonas aeruginosa	PBIO724	Africa	N/A	N/A	Musca domestica	N/A
+287.10646	2014	CADCYH000000000	Pseudomonas aeruginosa strain PBIO712	WGS	Rwanda	tertiary hospital, gynecology	Pseudomonas aeruginosa	PBIO712	Africa	N/A	N/A	Musca domestica	N/A
+287.1065	2007	JTTV00000000	Pseudomonas aeruginosa AZPAE14867	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14867	N/A	Human	Human	Homo sapiens	N/A
+287.1066	2007	JTTW00000000	Pseudomonas aeruginosa AZPAE14866	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14866	Asia	Human	Human	Homo sapiens	N/A
+287.1067	2007	JTTX00000000	Pseudomonas aeruginosa AZPAE14865	WGS	India	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14865	N/A	Human	Human	Homo sapiens	N/A
+287.1068	2007	JTTY00000000	Pseudomonas aeruginosa AZPAE14864	WGS	India	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14864	Asia	Human	Human	Homo sapiens	N/A
+287.1069	2007	JTTZ00000000	Pseudomonas aeruginosa AZPAE14863	WGS	India	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14863	N/A	Human	Human	Homo sapiens	N/A
+287.1070	2007	JTUA00000000	Pseudomonas aeruginosa AZPAE14862	WGS	India	urinary tract infection	Pseudomonas aeruginosa	AZPAE14862	Asia	Human	Human	Homo sapiens	N/A
+287.1071	2007	JTUB00000000	Pseudomonas aeruginosa AZPAE14861	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14861	Europe	Human	Human	Homo sapiens	N/A
+287.1072	2007	JTUC00000000	Pseudomonas aeruginosa AZPAE14860	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14860	N/A	Human	Human	Homo sapiens	N/A
+287.1073	2007	JTUD00000000	Pseudomonas aeruginosa AZPAE14859	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE14859	Europe	Human	Human	Homo sapiens	N/A
+287.1074	2007	JTUE00000000	Pseudomonas aeruginosa AZPAE14858	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14858	Europe	Human	Human	Homo sapiens	N/A
+287.1075	2007	JTUF00000000	Pseudomonas aeruginosa AZPAE14857	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14857	Europe	Human	Human	Homo sapiens	N/A
+287.1076	2007	JTUG00000000	Pseudomonas aeruginosa AZPAE14856	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14856	Europe	Human	Human	Homo sapiens	N/A
+287.1077	2007	JTUH00000000	Pseudomonas aeruginosa AZPAE14855	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14855	Europe	Human	Human	Homo sapiens	N/A
+287.1078	2007	JTUI00000000	Pseudomonas aeruginosa AZPAE14853	WGS	Brazil	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14853	N/A	Human	Human	Homo sapiens	N/A
+287.1079	2005	JTUJ00000000	Pseudomonas aeruginosa AZPAE14852	WGS	Brazil	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14852	South America	Human	Human	Homo sapiens	N/A
+287.1080	2006	JTUK00000000	Pseudomonas aeruginosa AZPAE14851	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14851	N/A	Human	Human	Homo sapiens	N/A
+287.1081	2006	JTUL00000000	Pseudomonas aeruginosa AZPAE14850	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE14850	Europe	Human	Human	Homo sapiens	N/A
+287.1082	2006	JTUM00000000	Pseudomonas aeruginosa AZPAE14848	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14848	Europe	Human	Human	Homo sapiens	N/A
+287.1083	2006	JTUN00000000	Pseudomonas aeruginosa AZPAE14847	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14847	Europe	Human	Human	Homo sapiens	N/A
+287.1084	2006	JTUO00000000	Pseudomonas aeruginosa AZPAE14846	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14846	Europe	Human	Human	Homo sapiens	N/A
+287.1085	2006	JTUP00000000	Pseudomonas aeruginosa AZPAE14845	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14845	Europe	Human	Human	Homo sapiens	N/A
+287.1086	2006	JTUQ00000000	Pseudomonas aeruginosa AZPAE14844	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14844	North America	Human	Human	Homo sapiens	N/A
+287.1087	2006	JTUR00000000	Pseudomonas aeruginosa AZPAE14843	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE14843	N/A	Human	Human	Homo sapiens	N/A
+287.1088	2006	JTUS00000000	Pseudomonas aeruginosa AZPAE14842	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE14842	N/A	Human	Human	Homo sapiens	N/A
+287.1089	2006	JTUT00000000	Pseudomonas aeruginosa AZPAE14841	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14841	N/A	Human	Human	Homo sapiens	N/A
+287.1090	2006	JTUU00000000	Pseudomonas aeruginosa AZPAE14840	WGS	China	urinary tract infection	Pseudomonas aeruginosa	AZPAE14840	Asia	Human	Human	Homo sapiens	N/A
+287.1091	2006	JTUV00000000	Pseudomonas aeruginosa AZPAE14839	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14839	Asia	Human	Human	Homo sapiens	N/A
+287.1092	2006	JTUW00000000	Pseudomonas aeruginosa AZPAE14838	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14838	Asia	Human	Human	Homo sapiens	N/A
+287.1093	2006	JTUX00000000	Pseudomonas aeruginosa AZPAE14837	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14837	N/A	Human	Human	Homo sapiens	N/A
+287.1094	2006	JTUY00000000	Pseudomonas aeruginosa AZPAE14836	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14836	Asia	Human	Human	Homo sapiens	N/A
+287.1095	2006	JTUZ00000000	Pseudomonas aeruginosa AZPAE14835	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14835	N/A	Human	Human	Homo sapiens	N/A
+287.1096	2005	JTVA00000000	Pseudomonas aeruginosa AZPAE14834	WGS	Argentina	urinary tract infection	Pseudomonas aeruginosa	AZPAE14834	N/A	Human	Human	Homo sapiens	N/A
+287.1097	2005	JTVB00000000	Pseudomonas aeruginosa AZPAE14833	WGS	Argentina	urinary tract infection	Pseudomonas aeruginosa	AZPAE14833	N/A	Human	Human	Homo sapiens	N/A
+287.1098	2005	JTVC00000000	Pseudomonas aeruginosa AZPAE14832	WGS	Argentina	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14832	N/A	Human	Human	Homo sapiens	N/A
+287.1099	2005	JTVD00000000	Pseudomonas aeruginosa AZPAE14831	WGS	Argentina	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14831	N/A	Human	Human	Homo sapiens	N/A
+287.1100	2005	JTVE00000000	Pseudomonas aeruginosa AZPAE14830	WGS	Argentina	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14830	N/A	Human	Human	Homo sapiens	N/A
+287.1101	2005	JTVF00000000	Pseudomonas aeruginosa AZPAE14829	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14829	N/A	Human	Human	Homo sapiens	N/A
+287.1102	2005	JTVG00000000	Pseudomonas aeruginosa AZPAE14828	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14828	North America	Human	Human	Homo sapiens	N/A
+287.1103	2005	JTVH00000000	Pseudomonas aeruginosa AZPAE14827	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14827	N/A	Human	Human	Homo sapiens	N/A
+287.1104	2005	JTVI00000000	Pseudomonas aeruginosa AZPAE14826	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14826	N/A	Human	Human	Homo sapiens	N/A
+287.1105	2005	JTVJ00000000	Pseudomonas aeruginosa AZPAE14825	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14825	Europe	Human	Human	Homo sapiens	N/A
+287.1106	2005	JTVK00000000	Pseudomonas aeruginosa AZPAE14824	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14824	N/A	Human	Human	Homo sapiens	N/A
+287.1107	2005	JTVL00000000	Pseudomonas aeruginosa AZPAE14823	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14823	N/A	Human	Human	Homo sapiens	N/A
+287.1108	2004	JTVM00000000	Pseudomonas aeruginosa AZPAE14822	WGS	Brazil	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14822	N/A	Human	Human	Homo sapiens	N/A
+287.1109	2004	JTVN00000000	Pseudomonas aeruginosa AZPAE14821	WGS	Brazil	urinary tract infection	Pseudomonas aeruginosa	AZPAE14821	N/A	Human	Human	Homo sapiens	N/A
+287.1110	2004	JTVO00000000	Pseudomonas aeruginosa AZPAE14820	WGS	Brazil	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14820	South America	Human	Human	Homo sapiens	N/A
+287.1111	2004	JTVP00000000	Pseudomonas aeruginosa AZPAE14819	WGS	Brazil	urinary tract infection	Pseudomonas aeruginosa	AZPAE14819	N/A	Human	Human	Homo sapiens	N/A
+287.1112	2004	JTVQ00000000	Pseudomonas aeruginosa AZPAE14818	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14818	N/A	Human	Human	Homo sapiens	N/A
+287.1113	2004	JTVR00000000	Pseudomonas aeruginosa AZPAE14817	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE14817	Europe	Human	Human	Homo sapiens	N/A
+287.1114	2004	JTVS00000000	Pseudomonas aeruginosa AZPAE14816	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14816	Europe	Human	Human	Homo sapiens	N/A
+287.1115	2004	JTVT00000000	Pseudomonas aeruginosa AZPAE14815	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14815	N/A	Human	Human	Homo sapiens	N/A
+287.1116	2004	JTVU00000000	Pseudomonas aeruginosa AZPAE14814	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14814	N/A	Human	Human	Homo sapiens	N/A
+287.1117	2004	JTVV00000000	Pseudomonas aeruginosa AZPAE14813	WGS	India	urinary tract infection	Pseudomonas aeruginosa	AZPAE14813	Asia	Human	Human	Homo sapiens	N/A
+287.1118	2004	JTVW00000000	Pseudomonas aeruginosa AZPAE14812	WGS	India	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14812	N/A	Human	Human	Homo sapiens	N/A
+287.1119	2004	JTVX00000000	Pseudomonas aeruginosa AZPAE14811	WGS	India	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14811	N/A	Human	Human	Homo sapiens	N/A
+287.1120	2004	JTVY00000000	Pseudomonas aeruginosa AZPAE14810	WGS	India	urinary tract infection	Pseudomonas aeruginosa	AZPAE14810	Asia	Human	Human	Homo sapiens	N/A
+287.1121	2004	JTVZ00000000	Pseudomonas aeruginosa AZPAE14809	WGS	India	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14809	Asia	Human	Human	Homo sapiens	N/A
+287.1122	2012	JTWA00000000	Pseudomonas aeruginosa AZPAE14732	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14732	N/A	Human	Human	Homo sapiens	N/A
+287.1123	2012	JTWB00000000	Pseudomonas aeruginosa AZPAE14731	WGS	Italy	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14731	Europe	Human	Human	Homo sapiens	N/A
+287.1124	2012	JTWC00000000	Pseudomonas aeruginosa AZPAE14730	WGS	Italy	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14730	N/A	Human	Human	Homo sapiens	N/A
+287.1125	2012	JTWD00000000	Pseudomonas aeruginosa AZPAE14729	WGS	Italy	urinary tract infection	Pseudomonas aeruginosa	AZPAE14729	N/A	Human	Human	Homo sapiens	N/A
+287.1126	2012	JTWE00000000	Pseudomonas aeruginosa AZPAE14728	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14728	N/A	Human	Human	Homo sapiens	N/A
+287.1127	2012	JTWF00000000	Pseudomonas aeruginosa AZPAE14727	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14727	N/A	Human	Human	Homo sapiens	N/A
+287.1128	2012	JTWG00000000	Pseudomonas aeruginosa AZPAE14726	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE14726	N/A	Human	Human	Homo sapiens	N/A
+287.1129	2012	JTWH00000000	Pseudomonas aeruginosa AZPAE14725	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14725	N/A	Human	Human	Homo sapiens	N/A
+287.1130	2012	JTWI00000000	Pseudomonas aeruginosa AZPAE14724	WGS	Italy	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14724	N/A	Human	Human	Homo sapiens	N/A
+287.1131	2012	JTWJ00000000	Pseudomonas aeruginosa AZPAE14723	WGS	Italy	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14723	N/A	Human	Human	Homo sapiens	N/A
+287.1132	2012	JTWK00000000	Pseudomonas aeruginosa AZPAE14722	WGS	Italy	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14722	N/A	Human	Human	Homo sapiens	N/A
+287.1133	2012	JTWL00000000	Pseudomonas aeruginosa AZPAE14721	WGS	Colombia	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14721	N/A	Human	Human	Homo sapiens	N/A
+287.1134	2012	JTWM00000000	Pseudomonas aeruginosa AZPAE14720	WGS	Colombia	urinary tract infection	Pseudomonas aeruginosa	AZPAE14720	N/A	Human	Human	Homo sapiens	N/A
+287.1135	2012	JTWN00000000	Pseudomonas aeruginosa AZPAE14719	WGS	Colombia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14719	N/A	Human	Human	Homo sapiens	N/A
+287.1136	2012	JTWO00000000	Pseudomonas aeruginosa AZPAE14718	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14718	N/A	Human	Human	Homo sapiens	N/A
+287.1137	2012	JTWP00000000	Pseudomonas aeruginosa AZPAE14717	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14717	N/A	Human	Human	Homo sapiens	N/A
+287.1138	2012	JTWQ00000000	Pseudomonas aeruginosa AZPAE14716	WGS	Venezuela	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14716	N/A	Human	Human	Homo sapiens	N/A
+287.1139	2012	JTWR00000000	Pseudomonas aeruginosa AZPAE14715	WGS	Venezuela	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14715	N/A	Human	Human	Homo sapiens	N/A
+287.1140	2012	JTWS00000000	Pseudomonas aeruginosa AZPAE14714	WGS	Venezuela	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14714	N/A	Human	Human	Homo sapiens	N/A
+287.1141	2012	JTWT00000000	Pseudomonas aeruginosa AZPAE14713	WGS	Venezuela	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14713	N/A	Human	Human	Homo sapiens	N/A
+287.1142	2012	JTWU00000000	Pseudomonas aeruginosa AZPAE14712	WGS	Venezuela	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14712	N/A	Human	Human	Homo sapiens	N/A
+287.1143	2012	JTWV00000000	Pseudomonas aeruginosa AZPAE14711	WGS	Venezuela	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14711	N/A	Human	Human	Homo sapiens	N/A
+287.1144	2012	JTWW00000000	Pseudomonas aeruginosa AZPAE14710	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14710	N/A	Human	Human	Homo sapiens	N/A
+287.1145	2012	JTWX00000000	Pseudomonas aeruginosa AZPAE14708	WGS	Greece	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14708	N/A	Human	Human	Homo sapiens	N/A
+287.1146	2012	JTWY00000000	Pseudomonas aeruginosa AZPAE14707	WGS	Greece	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14707	N/A	Human	Human	Homo sapiens	N/A
+287.1147	2012	JTWZ00000000	Pseudomonas aeruginosa AZPAE14706	WGS	Greece	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14706	N/A	Human	Human	Homo sapiens	N/A
+287.1148	2012	JTXA00000000	Pseudomonas aeruginosa AZPAE14705	WGS	Greece	urinary tract infection	Pseudomonas aeruginosa	AZPAE14705	N/A	Human	Human	Homo sapiens	N/A
+287.1149	2012	JTXB00000000	Pseudomonas aeruginosa AZPAE14704	WGS	Greece	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14704	N/A	Human	Human	Homo sapiens	N/A
+287.1150	2012	JTXC00000000	Pseudomonas aeruginosa AZPAE14703	WGS	Philippines	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14703	N/A	Human	Human	Homo sapiens	N/A
+287.1151	2012	JTXD00000000	Pseudomonas aeruginosa AZPAE14702	WGS	Philippines	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14702	N/A	Human	Human	Homo sapiens	N/A
+287.1152	2012	JTXE00000000	Pseudomonas aeruginosa AZPAE14701	WGS	Philippines	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14701	N/A	Human	Human	Homo sapiens	N/A
+287.1153	2012	JTXF00000000	Pseudomonas aeruginosa AZPAE14700	WGS	Philippines	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14700	N/A	Human	Human	Homo sapiens	N/A
+287.1154	2012	JTXG00000000	Pseudomonas aeruginosa AZPAE14699	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14699	N/A	Human	Human	Homo sapiens	N/A
+287.1155	2012	JTXH00000000	Pseudomonas aeruginosa AZPAE14698	WGS	Israel	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14698	Asia	Human	Human	Homo sapiens	N/A
+287.1156	2012	JTXI00000000	Pseudomonas aeruginosa AZPAE14697	WGS	Israel	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14697	Asia	Human	Human	Homo sapiens	N/A
+287.1157	2012	JTXJ00000000	Pseudomonas aeruginosa AZPAE14695	WGS	Israel	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14695	Asia	Human	Human	Homo sapiens	N/A
+287.1158	2012	JTXK00000000	Pseudomonas aeruginosa AZPAE14694	WGS	Romania	urinary tract infection	Pseudomonas aeruginosa	AZPAE14694	N/A	Human	Human	Homo sapiens	N/A
+287.1159	2012	JTXL00000000	Pseudomonas aeruginosa AZPAE14693	WGS	Romania	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14693	Europe	Human	Human	Homo sapiens	N/A
+287.1160	2012	JTXM00000000	Pseudomonas aeruginosa AZPAE14692	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14692	N/A	Human	Human	Homo sapiens	N/A
+287.1161	2012	JTXN00000000	Pseudomonas aeruginosa AZPAE14691	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14691	N/A	Human	Human	Homo sapiens	N/A
+287.1162	2012	JTXO00000000	Pseudomonas aeruginosa AZPAE14690	WGS	Romania	urinary tract infection	Pseudomonas aeruginosa	AZPAE14690	N/A	Human	Human	Homo sapiens	N/A
+287.1163	2012	JTXP00000000	Pseudomonas aeruginosa AZPAE14689	WGS	Mexico	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14689	N/A	Human	Human	Homo sapiens	N/A
+287.1164	2012	JTXQ00000000	Pseudomonas aeruginosa AZPAE14688	WGS	Mexico	N/A	Pseudomonas aeruginosa	AZPAE14688	North America	Human	Human	Homo sapiens	N/A
+287.1165	2012	JTXR00000000	Pseudomonas aeruginosa AZPAE14687	WGS	Mexico	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14687	N/A	Human	Human	Homo sapiens	N/A
+287.1166	2010	JTXS00000000	Pseudomonas aeruginosa AZPAE14570	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE14570	N/A	Human	Human	Homo sapiens	N/A
+287.1167	2011	JTXT00000000	Pseudomonas aeruginosa AZPAE14566	WGS	China	urinary tract infection	Pseudomonas aeruginosa	AZPAE14566	N/A	Human	Human	Homo sapiens	N/A
+287.1168	2010	JTXU00000000	Pseudomonas aeruginosa AZPAE14557	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14557	Europe	Human	Human	Homo sapiens	N/A
+287.1169	2010	JTXV00000000	Pseudomonas aeruginosa AZPAE14554	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14554	N/A	Human	Human	Homo sapiens	N/A
+287.1170	2010	JTXW00000000	Pseudomonas aeruginosa AZPAE14550	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14550	Asia	Human	Human	Homo sapiens	N/A
+287.1171	2010	JTXX00000000	Pseudomonas aeruginosa AZPAE14538	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14538	Asia	Human	Human	Homo sapiens	N/A
+287.1172	2010	JTXY00000000	Pseudomonas aeruginosa AZPAE14535	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14535	N/A	Human	Human	Homo sapiens	N/A
+287.1173	2011	JTXZ00000000	Pseudomonas aeruginosa AZPAE14533	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14533	Europe	Human	Human	Homo sapiens	N/A
+287.1174	2010	JTYA00000000	Pseudomonas aeruginosa AZPAE14526	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14526	Europe	Human	Human	Homo sapiens	N/A
+287.1175	2011	JTYB00000000	Pseudomonas aeruginosa AZPAE14509	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE14509	Europe	Human	Human	Homo sapiens	N/A
+287.1176	2011	JTYC00000000	Pseudomonas aeruginosa AZPAE14505	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14505	Europe	Human	Human	Homo sapiens	N/A
+287.1177	2011	JTYD00000000	Pseudomonas aeruginosa AZPAE14499	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE14499	N/A	Human	Human	Homo sapiens	N/A
+287.1178	2011	JTYE00000000	Pseudomonas aeruginosa AZPAE14463	WGS	Colombia	urinary tract infection	Pseudomonas aeruginosa	AZPAE14463	N/A	Human	Human	Homo sapiens	N/A
+287.1179	2011	JTYF00000000	Pseudomonas aeruginosa AZPAE14453	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE14453	North America	Human	Human	Homo sapiens	N/A
+287.1180	2010	JTYG00000000	Pseudomonas aeruginosa AZPAE14443	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE14443	N/A	Human	Human	Homo sapiens	N/A
+287.1181	2010	JTYH00000000	Pseudomonas aeruginosa AZPAE14442	WGS	Taiwan	urinary tract infection	Pseudomonas aeruginosa	AZPAE14442	Asia	Human	Human	Homo sapiens	N/A
+287.1182	2010	JTYI00000000	Pseudomonas aeruginosa AZPAE14441	WGS	Taiwan	urinary tract infection	Pseudomonas aeruginosa	AZPAE14441	Asia	Human	Human	Homo sapiens	N/A
+287.1183	2010	JTYJ00000000	Pseudomonas aeruginosa AZPAE14437	WGS	Canada	urinary tract infection	Pseudomonas aeruginosa	AZPAE14437	N/A	Human	Human	Homo sapiens	N/A
+287.1184	2009	JTYK00000000	Pseudomonas aeruginosa AZPAE14422	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE14422	N/A	Human	Human	Homo sapiens	N/A
+287.1185	2009	JTYL00000000	Pseudomonas aeruginosa AZPAE14415	WGS	Portugal	urinary tract infection	Pseudomonas aeruginosa	AZPAE14415	N/A	Human	Human	Homo sapiens	N/A
+287.1186	2012	JTYM00000000	Pseudomonas aeruginosa AZPAE14410	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14410	Europe	Human	Human	Homo sapiens	N/A
+287.1187	2012	JTYN00000000	Pseudomonas aeruginosa AZPAE14404	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14404	Asia	Human	Human	Homo sapiens	N/A
+287.1188	2011	JTYO00000000	Pseudomonas aeruginosa AZPAE14403	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14403	N/A	Human	Human	Homo sapiens	N/A
+287.1189	2011	JTYP00000000	Pseudomonas aeruginosa AZPAE14402	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14402	Europe	Human	Human	Homo sapiens	N/A
+287.1190	2011	JTYQ00000000	Pseudomonas aeruginosa AZPAE14398	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14398	N/A	Human	Human	Homo sapiens	N/A
+287.1191	2011	JTYR00000000	Pseudomonas aeruginosa AZPAE14395	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14395	Europe	Human	Human	Homo sapiens	N/A
+287.1192	2011	JTYS00000000	Pseudomonas aeruginosa AZPAE14394	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14394	N/A	Human	Human	Homo sapiens	N/A
+287.1193	2011	JTYT00000000	Pseudomonas aeruginosa AZPAE14393	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14393	N/A	Human	Human	Homo sapiens	N/A
+287.1194	2011	JTYU00000000	Pseudomonas aeruginosa AZPAE14390	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14390	Asia	Human	Human	Homo sapiens	N/A
+287.1195	2010	JTYV00000000	Pseudomonas aeruginosa AZPAE14381	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14381	N/A	Human	Human	Homo sapiens	N/A
+287.1196	2010	JTYW00000000	Pseudomonas aeruginosa AZPAE14379	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14379	Europe	Human	Human	Homo sapiens	N/A
+287.1197	2010	JTYX00000000	Pseudomonas aeruginosa AZPAE14373	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14373	Europe	Human	Human	Homo sapiens	N/A
+287.1198	2010	JTYY00000000	Pseudomonas aeruginosa AZPAE14372	WGS	Hong Kong	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14372	Asia	Human	Human	Homo sapiens	N/A
+287.1199	2010	JTYZ00000000	Pseudomonas aeruginosa AZPAE14359	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14359	N/A	Human	Human	Homo sapiens	N/A
+287.1200	2010	JTZA00000000	Pseudomonas aeruginosa AZPAE14353	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14353	N/A	Human	Human	Homo sapiens	N/A
+287.1201	2010	JTZB00000000	Pseudomonas aeruginosa AZPAE14352	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14352	Europe	Human	Human	Homo sapiens	N/A
+287.1202	2010	JTZC00000000	Pseudomonas aeruginosa AZPAE13880	WGS	Mexico	N/A	Pseudomonas aeruginosa	AZPAE13880	N/A	Human	Human	Homo sapiens	N/A
+287.1203	2010	JTZD00000000	Pseudomonas aeruginosa AZPAE13879	WGS	Argentina	N/A	Pseudomonas aeruginosa	AZPAE13879	N/A	Human	Human	Homo sapiens	N/A
+287.1204	2010	JTZE00000000	Pseudomonas aeruginosa AZPAE13877	WGS	Romania	N/A	Pseudomonas aeruginosa	AZPAE13877	N/A	Human	Human	Homo sapiens	N/A
+287.1205	2010	JTZF00000000	Pseudomonas aeruginosa AZPAE13876	WGS	Portugal	N/A	Pseudomonas aeruginosa	AZPAE13876	N/A	Human	Human	Homo sapiens	N/A
+287.1206	2010	JTZG00000000	Pseudomonas aeruginosa AZPAE13872	WGS	Mexico	N/A	Pseudomonas aeruginosa	AZPAE13872	N/A	Human	Human	Homo sapiens	N/A
+287.1207	2010	JTZH00000000	Pseudomonas aeruginosa AZPAE13866	WGS	China	N/A	Pseudomonas aeruginosa	AZPAE13866	Asia	Human	Human	Homo sapiens	N/A
+287.1208	2010	JTZI00000000	Pseudomonas aeruginosa AZPAE13864	WGS	India	N/A	Pseudomonas aeruginosa	AZPAE13864	Asia	Human	Human	Homo sapiens	N/A
+287.1209	2010	JTZJ00000000	Pseudomonas aeruginosa AZPAE13860	WGS	India	N/A	Pseudomonas aeruginosa	AZPAE13860	N/A	Human	Human	Homo sapiens	N/A
+287.1210	2010	JTZK00000000	Pseudomonas aeruginosa AZPAE13858	WGS	India	N/A	Pseudomonas aeruginosa	AZPAE13858	Asia	Human	Human	Homo sapiens	N/A
+287.1211	2010	JTZL00000000	Pseudomonas aeruginosa AZPAE13856	WGS	India	N/A	Pseudomonas aeruginosa	AZPAE13856	N/A	Human	Human	Homo sapiens	N/A
+287.1212	2010	JTZM00000000	Pseudomonas aeruginosa AZPAE13853	WGS	India	N/A	Pseudomonas aeruginosa	AZPAE13853	Asia	Human	Human	Homo sapiens	N/A
+287.1213	2010	JTZN00000000	Pseudomonas aeruginosa AZPAE13850	WGS	India	N/A	Pseudomonas aeruginosa	AZPAE13850	N/A	Human	Human	Homo sapiens	N/A
+287.1214	2010	JTZO00000000	Pseudomonas aeruginosa AZPAE13848	WGS	India	N/A	Pseudomonas aeruginosa	AZPAE13848	N/A	Human	Human	Homo sapiens	N/A
+287.1215	2009	JTZP00000000	Pseudomonas aeruginosa AZPAE13757	WGS	Canada	respiratory tract infection	Pseudomonas aeruginosa	AZPAE13757	North America	Human	Human	Homo sapiens	N/A
+287.1216	2009	JTZQ00000000	Pseudomonas aeruginosa AZPAE13756	WGS	Canada	respiratory tract infection	Pseudomonas aeruginosa	AZPAE13756	N/A	Human	Human	Homo sapiens	N/A
+287.1217	2007	JTZR00000000	Pseudomonas aeruginosa AZPAE12423	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12423	N/A	Human	Human	Homo sapiens	N/A
+287.1218	2007	JTZS00000000	Pseudomonas aeruginosa AZPAE12422	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12422	North America	Human	Human	Homo sapiens	N/A
+287.1219	2007	JTZT00000000	Pseudomonas aeruginosa AZPAE12421	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12421	N/A	Human	Human	Homo sapiens	N/A
+287.1220	2007	JTZU00000000	Pseudomonas aeruginosa AZPAE12420	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12420	N/A	Human	Human	Homo sapiens	N/A
+287.1221	2007	JTZV00000000	Pseudomonas aeruginosa AZPAE12419	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12419	North America	Human	Human	Homo sapiens	N/A
+287.1222	2007	JTZW00000000	Pseudomonas aeruginosa AZPAE12418	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12418	N/A	Human	Human	Homo sapiens	N/A
+287.1223	2007	JTZX00000000	Pseudomonas aeruginosa AZPAE12417	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12417	North America	Human	Human	Homo sapiens	N/A
+287.1224	2007	JTZY00000000	Pseudomonas aeruginosa AZPAE12416	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12416	N/A	Human	Human	Homo sapiens	N/A
+287.1225	2007	JTZZ00000000	Pseudomonas aeruginosa AZPAE12415	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12415	North America	Human	Human	Homo sapiens	N/A
+287.1226	2007	JUAA00000000	Pseudomonas aeruginosa AZPAE12414	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12414	North America	Human	Human	Homo sapiens	N/A
+287.1227	2007	JUAB00000000	Pseudomonas aeruginosa AZPAE12413	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12413	North America	Human	Human	Homo sapiens	N/A
+287.1228	2007	JUAC00000000	Pseudomonas aeruginosa AZPAE12412	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12412	North America	Human	Human	Homo sapiens	N/A
+287.1229	2007	JUAD00000000	Pseudomonas aeruginosa AZPAE12411	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12411	North America	Human	Human	Homo sapiens	N/A
+287.1230	2007	JUAE00000000	Pseudomonas aeruginosa AZPAE12410	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12410	North America	Human	Human	Homo sapiens	N/A
+287.1231	2007	JUAF00000000	Pseudomonas aeruginosa AZPAE12409	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12409	N/A	Human	Human	Homo sapiens	N/A
+287.1232	2005	JUAG00000000	Pseudomonas aeruginosa AZPAE12156	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12156	N/A	Human	Human	Homo sapiens	New York
+287.1233	2005	JUAH00000000	Pseudomonas aeruginosa AZPAE12155	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12155	North America	Human	Human	Homo sapiens	New York
+287.1234	2005	JUAI00000000	Pseudomonas aeruginosa AZPAE12154	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12154	North America	Human	Human	Homo sapiens	New York
+287.1235	2005	JUAJ00000000	Pseudomonas aeruginosa AZPAE12153	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12153	N/A	Human	Human	Homo sapiens	New York
+287.1237	2005	JUAL00000000	Pseudomonas aeruginosa AZPAE12151	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12151	North America	Human	Human	Homo sapiens	New York
+287.1238	2005	JUAM00000000	Pseudomonas aeruginosa AZPAE12150	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12150	N/A	Human	Human	Homo sapiens	New York
+287.1239	2005	JUAN00000000	Pseudomonas aeruginosa AZPAE12149	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12149	North America	Human	Human	Homo sapiens	New York
+287.1240	2005	JUAO00000000	Pseudomonas aeruginosa AZPAE12148	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12148	North America	Human	Human	Homo sapiens	New York
+287.1241	2005	JUAP00000000	Pseudomonas aeruginosa AZPAE12147	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12147	North America	Human	Human	Homo sapiens	New York
+287.1242	2005	JUAQ00000000	Pseudomonas aeruginosa AZPAE12146	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12146	North America	Human	Human	Homo sapiens	New York
+287.1243	2005	JUAR00000000	Pseudomonas aeruginosa AZPAE12145	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12145	North America	Human	Human	Homo sapiens	New York
+287.12440	N/A		Pseudomonas aeruginosa strain CH4443	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4443	N/A	Human	Human	Homo sapiens	N/A
+287.12441	N/A		Pseudomonas aeruginosa strain CH4411	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4411	N/A	Human	Human	Homo sapiens	N/A
+287.12442	N/A		Pseudomonas aeruginosa strain CH4433	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4433	N/A	Human	Human	Homo sapiens	N/A
+287.12443	N/A		Pseudomonas aeruginosa strain CH4418	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4418	N/A	Human	Human	Homo sapiens	N/A
+287.12444	N/A		Pseudomonas aeruginosa strain CH4438	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4438	N/A	Human	Human	Homo sapiens	N/A
+287.12445	N/A		Pseudomonas aeruginosa strain CH4489	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4489	N/A	Human	Human	Homo sapiens	N/A
+287.12446	N/A		Pseudomonas aeruginosa strain CH4446	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4446	N/A	Human	Human	Homo sapiens	N/A
+287.12447	N/A		Pseudomonas aeruginosa strain CH4602	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4602	N/A	Human	Human	Homo sapiens	N/A
+287.12448	N/A		Pseudomonas aeruginosa strain CH4584	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4584	N/A	Human	Human	Homo sapiens	N/A
+287.12449	N/A		Pseudomonas aeruginosa strain CH4549	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4549	N/A	Human	Human	Homo sapiens	N/A
+287.1245	2005	JUAT00000000	Pseudomonas aeruginosa AZPAE12143	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12143	North America	Human	Human	Homo sapiens	New York
+287.12450	N/A		Pseudomonas aeruginosa strain CH4560	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4560	N/A	Human	Human	Homo sapiens	N/A
+287.12451	N/A		Pseudomonas aeruginosa strain CH4528	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4528	N/A	Human	Human	Homo sapiens	N/A
+287.12452	N/A		Pseudomonas aeruginosa strain CH4548	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4548	N/A	Human	Human	Homo sapiens	N/A
+287.12453	N/A		Pseudomonas aeruginosa strain CH4509	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4509	N/A	Human	Human	Homo sapiens	N/A
+287.12454	N/A		Pseudomonas aeruginosa strain CH4591	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4591	N/A	Human	Human	Homo sapiens	N/A
+287.12455	N/A		Pseudomonas aeruginosa strain CH4520	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4520	N/A	Human	Human	Homo sapiens	N/A
+287.12456	N/A		Pseudomonas aeruginosa strain CH4704	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4704	N/A	Human	Human	Homo sapiens	N/A
+287.12457	N/A		Pseudomonas aeruginosa strain CH4703	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4703	N/A	Human	Human	Homo sapiens	N/A
+287.12458	N/A		Pseudomonas aeruginosa strain CH4755	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4755	N/A	Human	Human	Homo sapiens	N/A
+287.12459	N/A		Pseudomonas aeruginosa strain CH4745	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4745	N/A	Human	Human	Homo sapiens	N/A
+287.1246	2005	JUAU00000000	Pseudomonas aeruginosa AZPAE12142	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12142	North America	Human	Human	Homo sapiens	New York
+287.12460	N/A		Pseudomonas aeruginosa strain CH4757	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4757	N/A	Human	Human	Homo sapiens	N/A
+287.12461	N/A		Pseudomonas aeruginosa strain CH4780	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4780	N/A	Human	Human	Homo sapiens	N/A
+287.12462	N/A		Pseudomonas aeruginosa strain CH4766	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4766	N/A	Human	Human	Homo sapiens	N/A
+287.12463	N/A		Pseudomonas aeruginosa strain CH4733	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4733	N/A	Human	Human	Homo sapiens	N/A
+287.12464	N/A		Pseudomonas aeruginosa strain CH4634	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4634	N/A	Human	Human	Homo sapiens	N/A
+287.12465	N/A		Pseudomonas aeruginosa strain CH4684	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4684	N/A	Human	Human	Homo sapiens	N/A
+287.12466	N/A		Pseudomonas aeruginosa strain CH4681	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4681	N/A	Human	Human	Homo sapiens	N/A
+287.12467	N/A		Pseudomonas aeruginosa strain CH4990	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4990	N/A	Human	Human	Homo sapiens	N/A
+287.12468	N/A		Pseudomonas aeruginosa strain CH5206	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5206	N/A	Human	Human	Homo sapiens	N/A
+287.12469	N/A		Pseudomonas aeruginosa strain CH4914	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4914	N/A	Human	Human	Homo sapiens	N/A
+287.1247	2005	JUAV00000000	Pseudomonas aeruginosa AZPAE12140	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12140	North America	Human	Human	Homo sapiens	New York
+287.12470	N/A		Pseudomonas aeruginosa strain CH4916	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4916	N/A	Human	Human	Homo sapiens	N/A
+287.12471	N/A		Pseudomonas aeruginosa strain CH5193	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5193	N/A	Human	Human	Homo sapiens	N/A
+287.12472	N/A		Pseudomonas aeruginosa strain CH4860	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4860	N/A	Human	Human	Homo sapiens	N/A
+287.12473	N/A		Pseudomonas aeruginosa strain CH4840	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4840	N/A	Human	Human	Homo sapiens	N/A
+287.12474	N/A		Pseudomonas aeruginosa strain CH4785	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4785	N/A	Human	Human	Homo sapiens	N/A
+287.12475	N/A		Pseudomonas aeruginosa strain CH4891	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4891	N/A	Human	Human	Homo sapiens	N/A
+287.12476	N/A		Pseudomonas aeruginosa strain CH4862	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4862	N/A	Human	Human	Homo sapiens	N/A
+287.12477	N/A		Pseudomonas aeruginosa strain CH4877	WGS	Germany	N/A	Pseudomonas aeruginosa	CH4877	N/A	Human	Human	Homo sapiens	N/A
+287.12478	N/A		Pseudomonas aeruginosa strain CH5353	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5353	N/A	Human	Human	Homo sapiens	N/A
+287.12479	N/A		Pseudomonas aeruginosa strain CH5267	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5267	N/A	Human	Human	Homo sapiens	N/A
+287.1248	2005	JUAW00000000	Pseudomonas aeruginosa AZPAE12138	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12138	N/A	Human	Human	Homo sapiens	New York
+287.12480	N/A		Pseudomonas aeruginosa strain CH5262	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5262	N/A	Human	Human	Homo sapiens	N/A
+287.12481	N/A		Pseudomonas aeruginosa strain CH5334	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5334	N/A	Human	Human	Homo sapiens	N/A
+287.12482	N/A		Pseudomonas aeruginosa strain CH5291	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5291	N/A	Human	Human	Homo sapiens	N/A
+287.12483	N/A		Pseudomonas aeruginosa strain CH5362	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5362	N/A	Human	Human	Homo sapiens	N/A
+287.12484	N/A		Pseudomonas aeruginosa strain CH5356	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5356	N/A	Human	Human	Homo sapiens	N/A
+287.12485	N/A		Pseudomonas aeruginosa strain CH5462	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5462	N/A	Human	Human	Homo sapiens	N/A
+287.12486	N/A		Pseudomonas aeruginosa strain CH5432	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5432	N/A	Human	Human	Homo sapiens	N/A
+287.12487	N/A		Pseudomonas aeruginosa strain CH5387	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5387	N/A	Human	Human	Homo sapiens	N/A
+287.12488	N/A		Pseudomonas aeruginosa strain CH5363	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5363	N/A	Human	Human	Homo sapiens	N/A
+287.12489	N/A		Pseudomonas aeruginosa strain CH5550	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5550	N/A	Human	Human	Homo sapiens	N/A
+287.1249	2005	JUAX00000000	Pseudomonas aeruginosa AZPAE12137	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12137	North America	Human	Human	Homo sapiens	New York
+287.12490	N/A		Pseudomonas aeruginosa strain CH5597	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5597	N/A	Human	Human	Homo sapiens	N/A
+287.12491	N/A		Pseudomonas aeruginosa strain CH5591	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5591	N/A	Human	Human	Homo sapiens	N/A
+287.12492	N/A		Pseudomonas aeruginosa strain CH5596	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5596	N/A	Human	Human	Homo sapiens	N/A
+287.12493	N/A		Pseudomonas aeruginosa strain CH5551	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5551	N/A	Human	Human	Homo sapiens	N/A
+287.12494	N/A		Pseudomonas aeruginosa strain CH5621	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5621	N/A	Human	Human	Homo sapiens	N/A
+287.12495	N/A		Pseudomonas aeruginosa strain CH5478	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5478	N/A	Human	Human	Homo sapiens	N/A
+287.12496	N/A		Pseudomonas aeruginosa strain CH5531	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5531	N/A	Human	Human	Homo sapiens	N/A
+287.12497	N/A		Pseudomonas aeruginosa strain CH5548	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5548	N/A	Human	Human	Homo sapiens	N/A
+287.12498	N/A		Pseudomonas aeruginosa strain CH5464	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5464	N/A	Human	Human	Homo sapiens	N/A
+287.12499	N/A		Pseudomonas aeruginosa strain CH5528	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5528	N/A	Human	Human	Homo sapiens	N/A
+287.1250	2005	JUAY00000000	Pseudomonas aeruginosa AZPAE12136	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12136	North America	Human	Human	Homo sapiens	New York
+287.12500	N/A		Pseudomonas aeruginosa strain MHH15083	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH15083	N/A	Human	Human	Homo sapiens	N/A
+287.12501	N/A		Pseudomonas aeruginosa strain MHH0985	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH0985	N/A	Human	Human	Homo sapiens	N/A
+287.12502	N/A		Pseudomonas aeruginosa strain MHH15275	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH15275	N/A	Human	Human	Homo sapiens	N/A
+287.12503	N/A		Pseudomonas aeruginosa strain MHH1525	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH1525	N/A	Human	Human	Homo sapiens	N/A
+287.12504	N/A		Pseudomonas aeruginosa strain MHH0426	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH0426	N/A	Human	Human	Homo sapiens	N/A
+287.12505	N/A		Pseudomonas aeruginosa strain MHH0147	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH0147	N/A	Human	Human	Homo sapiens	N/A
+287.12506	N/A		Pseudomonas aeruginosa strain MHH0927	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH0927	N/A	Human	Human	Homo sapiens	N/A
+287.12507	N/A		Pseudomonas aeruginosa strain CH5695	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5695	N/A	Human	Human	Homo sapiens	N/A
+287.12508	N/A		Pseudomonas aeruginosa strain CH5688	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5688	N/A	Human	Human	Homo sapiens	N/A
+287.12509	N/A		Pseudomonas aeruginosa strain CH5638	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5638	N/A	Human	Human	Homo sapiens	N/A
+287.12510	N/A		Pseudomonas aeruginosa strain CH5666	WGS	Germany	N/A	Pseudomonas aeruginosa	CH5666	N/A	Human	Human	Homo sapiens	N/A
+287.12511	N/A		Pseudomonas aeruginosa strain MHH17441	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH17441	N/A	Human	Human	Homo sapiens	N/A
+287.12512	N/A		Pseudomonas aeruginosa strain MHH17501	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH17501	N/A	Human	Human	Homo sapiens	N/A
+287.12513	N/A		Pseudomonas aeruginosa strain MHH17546	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH17546	N/A	Human	Human	Homo sapiens	N/A
+287.12514	N/A		Pseudomonas aeruginosa strain MHH17783	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH17783	N/A	Human	Human	Homo sapiens	N/A
+287.12515	N/A		Pseudomonas aeruginosa strain MHH1883	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH1883	N/A	Human	Human	Homo sapiens	N/A
+287.12516	N/A		Pseudomonas aeruginosa strain MHH17767	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH17767	N/A	Human	Human	Homo sapiens	N/A
+287.12517	N/A		Pseudomonas aeruginosa strain MHH17247	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH17247	N/A	Human	Human	Homo sapiens	N/A
+287.12518	N/A		Pseudomonas aeruginosa strain MHH17233	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH17233	N/A	Human	Human	Homo sapiens	N/A
+287.12519	N/A		Pseudomonas aeruginosa strain MHH16951	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH16951	N/A	Human	Human	Homo sapiens	N/A
+287.12520	N/A		Pseudomonas aeruginosa strain MHH16379	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH16379	N/A	Human	Human	Homo sapiens	N/A
+287.12521	N/A		Pseudomonas aeruginosa strain MHH16798	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH16798	N/A	Human	Human	Homo sapiens	N/A
+287.12522	N/A		Pseudomonas aeruginosa strain ZG301975	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG301975	N/A	Human	Human	Homo sapiens	N/A
+287.12523	N/A		Pseudomonas aeruginosa strain ZG205864	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG205864	N/A	Human	Human	Homo sapiens	N/A
+287.12524	N/A		Pseudomonas aeruginosa strain ZG205710	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG205710	N/A	Human	Human	Homo sapiens	N/A
+287.12525	N/A		Pseudomonas aeruginosa strain ZG302359	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG302359	N/A	Human	Human	Homo sapiens	N/A
+287.12526	N/A		Pseudomonas aeruginosa strain ZG302370	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG302370	N/A	Human	Human	Homo sapiens	N/A
+287.12527	N/A		Pseudomonas aeruginosa strain ZG302367	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG302367	N/A	Human	Human	Homo sapiens	N/A
+287.12528	N/A		Pseudomonas aeruginosa strain ZG302368	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG302368	N/A	Human	Human	Homo sapiens	N/A
+287.12529	N/A		Pseudomonas aeruginosa strain ZG205565	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG205565	N/A	Human	Human	Homo sapiens	N/A
+287.12530	N/A		Pseudomonas aeruginosa strain ZG205694	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG205694	N/A	Human	Human	Homo sapiens	N/A
+287.12531	N/A		Pseudomonas aeruginosa strain ZG8038581181	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG8038581181	N/A	Human	Human	Homo sapiens	N/A
+287.12532	N/A		Pseudomonas aeruginosa strain ZG302451	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG302451	N/A	Human	Human	Homo sapiens	N/A
+287.12533	N/A		Pseudomonas aeruginosa strain ZG302442	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG302442	N/A	Human	Human	Homo sapiens	N/A
+287.12534	N/A		Pseudomonas aeruginosa strain ZG302431	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG302431	N/A	Human	Human	Homo sapiens	N/A
+287.12535	N/A		Pseudomonas aeruginosa strain ZG302432	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG302432	N/A	Human	Human	Homo sapiens	N/A
+287.12536	N/A		Pseudomonas aeruginosa strain ZG316694	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG316694	N/A	Human	Human	Homo sapiens	N/A
+287.12537	N/A		Pseudomonas aeruginosa strain ZG316704	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG316704	N/A	Human	Human	Homo sapiens	N/A
+287.12538	N/A		Pseudomonas aeruginosa strain ZG314777	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG314777	N/A	Human	Human	Homo sapiens	N/A
+287.12539	N/A		Pseudomonas aeruginosa strain ZG314738	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG314738	N/A	Human	Human	Homo sapiens	N/A
+287.12540	N/A		Pseudomonas aeruginosa strain ZG314696	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG314696	N/A	Human	Human	Homo sapiens	N/A
+287.12541	N/A		Pseudomonas aeruginosa strain ZG316716	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG316716	N/A	Human	Human	Homo sapiens	N/A
+287.12542	N/A		Pseudomonas aeruginosa strain MHH2419	WGS	Germany	N/A	Pseudomonas aeruginosa	MHH2419	N/A	Human	Human	Homo sapiens	N/A
+287.12543	N/A		Pseudomonas aeruginosa strain ZG302383	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG302383	N/A	Human	Human	Homo sapiens	N/A
+287.12544	N/A		Pseudomonas aeruginosa strain ZG02512057	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG02512057	N/A	Human	Human	Homo sapiens	N/A
+287.12545	N/A		Pseudomonas aeruginosa strain ZG02488718	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG02488718	N/A	Human	Human	Homo sapiens	N/A
+287.12546	N/A		Pseudomonas aeruginosa strain ZG5051896	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG5051896	N/A	Human	Human	Homo sapiens	N/A
+287.12547	N/A		Pseudomonas aeruginosa strain ZG8510487	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG8510487	N/A	Human	Human	Homo sapiens	N/A
+287.12548	N/A		Pseudomonas aeruginosa strain ZG5089456	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG5089456	N/A	Human	Human	Homo sapiens	N/A
+287.12549	N/A		Pseudomonas aeruginosa strain ZG8525123	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG8525123	N/A	Human	Human	Homo sapiens	N/A
+287.12550	N/A		Pseudomonas aeruginosa strain ZG8006959	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG8006959	N/A	Human	Human	Homo sapiens	N/A
+287.12551	N/A		Pseudomonas aeruginosa strain ZG5048010	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG5048010	N/A	Human	Human	Homo sapiens	N/A
+287.12552	N/A		Pseudomonas aeruginosa strain ZG5021922	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG5021922	N/A	Human	Human	Homo sapiens	N/A
+287.12553	N/A		Pseudomonas aeruginosa strain Vb20477	WGS	Germany	N/A	Pseudomonas aeruginosa	Vb20477	N/A	Human	Human	Homo sapiens	N/A
+287.12554	N/A		Pseudomonas aeruginosa strain Vb3320	WGS	Germany	N/A	Pseudomonas aeruginosa	Vb3320	N/A	Human	Human	Homo sapiens	N/A
+287.12555	N/A		Pseudomonas aeruginosa strain CF609_Iso3	WGS	Germany	N/A	Pseudomonas aeruginosa	CF609_Iso3	N/A	Human	Human	Homo sapiens	N/A
+287.12556	N/A		Pseudomonas aeruginosa strain F1689	WGS	Germany	N/A	Pseudomonas aeruginosa	F1689	N/A	Human	Human	Homo sapiens	N/A
+287.12557	N/A		Pseudomonas aeruginosa strain F1688	WGS	Germany	N/A	Pseudomonas aeruginosa	F1688	N/A	Human	Human	Homo sapiens	N/A
+287.12558	N/A		Pseudomonas aeruginosa strain F1706	WGS	Germany	N/A	Pseudomonas aeruginosa	F1706	N/A	Human	Human	Homo sapiens	N/A
+287.12559	N/A		Pseudomonas aeruginosa strain F1659	WGS	Germany	N/A	Pseudomonas aeruginosa	F1659	N/A	Human	Human	Homo sapiens	N/A
+287.12560	N/A		Pseudomonas aeruginosa strain F1697	WGS	Germany	N/A	Pseudomonas aeruginosa	F1697	N/A	Human	Human	Homo sapiens	N/A
+287.12561	N/A		Pseudomonas aeruginosa strain ZG322541	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG322541	N/A	Human	Human	Homo sapiens	N/A
+287.12562	N/A		Pseudomonas aeruginosa strain CF592_Iso2	WGS	Germany	N/A	Pseudomonas aeruginosa	CF592_Iso2	N/A	Human	Human	Homo sapiens	N/A
+287.12563	N/A		Pseudomonas aeruginosa strain ZG02420619	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG02420619	N/A	Human	Human	Homo sapiens	N/A
+287.12564	N/A		Pseudomonas aeruginosa strain ZG5003493	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG5003493	N/A	Human	Human	Homo sapiens	N/A
+287.12565	N/A		Pseudomonas aeruginosa strain ZG316722	WGS	Germany	N/A	Pseudomonas aeruginosa	ZG316722	N/A	Human	Human	Homo sapiens	N/A
+287.12566	N/A		Pseudomonas aeruginosa strain F1757	WGS	Germany	N/A	Pseudomonas aeruginosa	F1757	N/A	Human	Human	Homo sapiens	N/A
+287.12567	N/A		Pseudomonas aeruginosa strain F1752	WGS	Germany	N/A	Pseudomonas aeruginosa	F1752	N/A	Human	Human	Homo sapiens	N/A
+287.12568	N/A		Pseudomonas aeruginosa strain F1754	WGS	Germany	N/A	Pseudomonas aeruginosa	F1754	N/A	Human	Human	Homo sapiens	N/A
+287.12569	N/A		Pseudomonas aeruginosa strain F1727	WGS	Germany	N/A	Pseudomonas aeruginosa	F1727	N/A	Human	Human	Homo sapiens	N/A
+287.12570	N/A		Pseudomonas aeruginosa strain F1724	WGS	Germany	N/A	Pseudomonas aeruginosa	F1724	N/A	Human	Human	Homo sapiens	N/A
+287.12571	N/A		Pseudomonas aeruginosa strain F1741	WGS	Germany	N/A	Pseudomonas aeruginosa	F1741	N/A	Human	Human	Homo sapiens	N/A
+287.12572	N/A		Pseudomonas aeruginosa strain F1712	WGS	Germany	N/A	Pseudomonas aeruginosa	F1712	N/A	Human	Human	Homo sapiens	N/A
+287.12573	N/A		Pseudomonas aeruginosa strain F1758	WGS	Germany	N/A	Pseudomonas aeruginosa	F1758	N/A	Human	Human	Homo sapiens	N/A
+287.12574	N/A		Pseudomonas aeruginosa strain F1759	WGS	Germany	N/A	Pseudomonas aeruginosa	F1759	N/A	Human	Human	Homo sapiens	N/A
+287.12575	N/A		Pseudomonas aeruginosa strain F1775	WGS	Germany	N/A	Pseudomonas aeruginosa	F1775	N/A	Human	Human	Homo sapiens	N/A
+287.12576	N/A		Pseudomonas aeruginosa strain F1760	WGS	Germany	N/A	Pseudomonas aeruginosa	F1760	N/A	Human	Human	Homo sapiens	N/A
+287.12577	N/A		Pseudomonas aeruginosa strain F1764	WGS	Germany	N/A	Pseudomonas aeruginosa	F1764	N/A	Human	Human	Homo sapiens	N/A
+287.12578	N/A		Pseudomonas aeruginosa strain F1763	WGS	Germany	N/A	Pseudomonas aeruginosa	F1763	N/A	Human	Human	Homo sapiens	N/A
+287.12579	N/A		Pseudomonas aeruginosa strain F1796	WGS	Germany	N/A	Pseudomonas aeruginosa	F1796	N/A	Human	Human	Homo sapiens	N/A
+287.12580	N/A		Pseudomonas aeruginosa strain F1798	WGS	Germany	N/A	Pseudomonas aeruginosa	F1798	N/A	Human	Human	Homo sapiens	N/A
+287.12581	N/A		Pseudomonas aeruginosa strain F1795	WGS	Germany	N/A	Pseudomonas aeruginosa	F1795	N/A	Human	Human	Homo sapiens	N/A
+287.12582	N/A		Pseudomonas aeruginosa strain F1745	WGS	Germany	N/A	Pseudomonas aeruginosa	F1745	N/A	Human	Human	Homo sapiens	N/A
+287.12583	N/A		Pseudomonas aeruginosa strain F1746	WGS	Germany	N/A	Pseudomonas aeruginosa	F1746	N/A	Human	Human	Homo sapiens	N/A
+287.12584	N/A		Pseudomonas aeruginosa strain F1747	WGS	Germany	N/A	Pseudomonas aeruginosa	F1747	N/A	Human	Human	Homo sapiens	N/A
+287.12585	N/A		Pseudomonas aeruginosa strain F1748	WGS	Germany	N/A	Pseudomonas aeruginosa	F1748	N/A	Human	Human	Homo sapiens	N/A
+287.12586	N/A		Pseudomonas aeruginosa strain F1789	WGS	Germany	N/A	Pseudomonas aeruginosa	F1789	N/A	Human	Human	Homo sapiens	N/A
+287.12587	N/A		Pseudomonas aeruginosa strain F1787	WGS	Germany	N/A	Pseudomonas aeruginosa	F1787	N/A	Human	Human	Homo sapiens	N/A
+287.12588	N/A		Pseudomonas aeruginosa strain F1853	WGS	Germany	N/A	Pseudomonas aeruginosa	F1853	N/A	Human	Human	Homo sapiens	N/A
+287.12589	N/A		Pseudomonas aeruginosa strain F1810	WGS	Germany	N/A	Pseudomonas aeruginosa	F1810	N/A	Human	Human	Homo sapiens	N/A
+287.12590	N/A		Pseudomonas aeruginosa strain F1823	WGS	Germany	N/A	Pseudomonas aeruginosa	F1823	N/A	Human	Human	Homo sapiens	N/A
+287.12591	N/A		Pseudomonas aeruginosa strain F1812	WGS	Germany	N/A	Pseudomonas aeruginosa	F1812	N/A	Human	Human	Homo sapiens	N/A
+287.12592	N/A		Pseudomonas aeruginosa strain F1821	WGS	Germany	N/A	Pseudomonas aeruginosa	F1821	N/A	Human	Human	Homo sapiens	N/A
+287.12593	N/A		Pseudomonas aeruginosa strain F1869	WGS	Germany	N/A	Pseudomonas aeruginosa	F1869	N/A	Human	Human	Homo sapiens	N/A
+287.12594	N/A		Pseudomonas aeruginosa strain F1880	WGS	Germany	N/A	Pseudomonas aeruginosa	F1880	N/A	Human	Human	Homo sapiens	N/A
+287.12595	N/A		Pseudomonas aeruginosa strain F1864	WGS	Germany	N/A	Pseudomonas aeruginosa	F1864	N/A	Human	Human	Homo sapiens	N/A
+287.12596	N/A		Pseudomonas aeruginosa strain F1862	WGS	Germany	N/A	Pseudomonas aeruginosa	F1862	N/A	Human	Human	Homo sapiens	N/A
+287.12597	N/A		Pseudomonas aeruginosa strain F1800	WGS	Germany	N/A	Pseudomonas aeruginosa	F1800	N/A	Human	Human	Homo sapiens	N/A
+287.12598	N/A		Pseudomonas aeruginosa strain F1801	WGS	Germany	N/A	Pseudomonas aeruginosa	F1801	N/A	Human	Human	Homo sapiens	N/A
+287.12599	N/A		Pseudomonas aeruginosa strain F2000	WGS	Germany	N/A	Pseudomonas aeruginosa	F2000	N/A	Human	Human	Homo sapiens	N/A
+287.12600	N/A		Pseudomonas aeruginosa strain F1997	WGS	Germany	N/A	Pseudomonas aeruginosa	F1997	N/A	Human	Human	Homo sapiens	N/A
+287.12601	N/A		Pseudomonas aeruginosa strain F1968	WGS	Germany	N/A	Pseudomonas aeruginosa	F1968	N/A	Human	Human	Homo sapiens	N/A
+287.12602	N/A		Pseudomonas aeruginosa strain F1894	WGS	Germany	N/A	Pseudomonas aeruginosa	F1894	N/A	Human	Human	Homo sapiens	N/A
+287.12603	N/A		Pseudomonas aeruginosa strain F1883	WGS	Germany	N/A	Pseudomonas aeruginosa	F1883	N/A	Human	Human	Homo sapiens	N/A
+287.12604	N/A		Pseudomonas aeruginosa strain F1957	WGS	Germany	N/A	Pseudomonas aeruginosa	F1957	N/A	Human	Human	Homo sapiens	N/A
+287.12605	N/A		Pseudomonas aeruginosa strain F2003	WGS	Germany	N/A	Pseudomonas aeruginosa	F2003	N/A	Human	Human	Homo sapiens	N/A
+287.12606	N/A		Pseudomonas aeruginosa strain F2005	WGS	Germany	N/A	Pseudomonas aeruginosa	F2005	N/A	Human	Human	Homo sapiens	N/A
+287.12607	N/A		Pseudomonas aeruginosa strain F2006	WGS	Germany	N/A	Pseudomonas aeruginosa	F2006	N/A	Human	Human	Homo sapiens	N/A
+287.12608	N/A		Pseudomonas aeruginosa strain F1979	WGS	Germany	N/A	Pseudomonas aeruginosa	F1979	N/A	Human	Human	Homo sapiens	N/A
+287.12609	N/A		Pseudomonas aeruginosa strain F1983	WGS	Germany	N/A	Pseudomonas aeruginosa	F1983	N/A	Human	Human	Homo sapiens	N/A
+287.12610	N/A		Pseudomonas aeruginosa strain F2035	WGS	Germany	N/A	Pseudomonas aeruginosa	F2035	N/A	Human	Human	Homo sapiens	N/A
+287.12611	N/A		Pseudomonas aeruginosa strain F2040	WGS	Germany	N/A	Pseudomonas aeruginosa	F2040	N/A	Human	Human	Homo sapiens	N/A
+287.12612	N/A		Pseudomonas aeruginosa strain F2045	WGS	Germany	N/A	Pseudomonas aeruginosa	F2045	N/A	Human	Human	Homo sapiens	N/A
+287.12613	N/A		Pseudomonas aeruginosa strain F2044	WGS	Germany	N/A	Pseudomonas aeruginosa	F2044	N/A	Human	Human	Homo sapiens	N/A
+287.12614	N/A		Pseudomonas aeruginosa strain F2054	WGS	Germany	N/A	Pseudomonas aeruginosa	F2054	N/A	Human	Human	Homo sapiens	N/A
+287.12615	N/A		Pseudomonas aeruginosa strain F2020	WGS	Germany	N/A	Pseudomonas aeruginosa	F2020	N/A	Human	Human	Homo sapiens	N/A
+287.12616	N/A		Pseudomonas aeruginosa strain F2017	WGS	Germany	N/A	Pseudomonas aeruginosa	F2017	N/A	Human	Human	Homo sapiens	N/A
+287.12617	N/A		Pseudomonas aeruginosa strain F2034	WGS	Germany	N/A	Pseudomonas aeruginosa	F2034	N/A	Human	Human	Homo sapiens	N/A
+287.12618	N/A		Pseudomonas aeruginosa strain F2029	WGS	Germany	N/A	Pseudomonas aeruginosa	F2029	N/A	Human	Human	Homo sapiens	N/A
+287.12619	N/A		Pseudomonas aeruginosa strain F2030	WGS	Germany	N/A	Pseudomonas aeruginosa	F2030	N/A	Human	Human	Homo sapiens	N/A
+287.12620	N/A		Pseudomonas aeruginosa strain F2010	WGS	Germany	N/A	Pseudomonas aeruginosa	F2010	N/A	Human	Human	Homo sapiens	N/A
+287.12621	N/A		Pseudomonas aeruginosa strain F2075	WGS	Germany	N/A	Pseudomonas aeruginosa	F2075	N/A	Human	Human	Homo sapiens	N/A
+287.12622	N/A		Pseudomonas aeruginosa strain F2073	WGS	Germany	N/A	Pseudomonas aeruginosa	F2073	N/A	Human	Human	Homo sapiens	N/A
+287.12623	N/A		Pseudomonas aeruginosa strain F2081	WGS	Germany	N/A	Pseudomonas aeruginosa	F2081	N/A	Human	Human	Homo sapiens	N/A
+287.12624	N/A		Pseudomonas aeruginosa strain F2065	WGS	Germany	N/A	Pseudomonas aeruginosa	F2065	N/A	Human	Human	Homo sapiens	N/A
+287.12625	N/A		Pseudomonas aeruginosa strain F2084	WGS	Germany	N/A	Pseudomonas aeruginosa	F2084	N/A	Human	Human	Homo sapiens	N/A
+287.12626	N/A		Pseudomonas aeruginosa strain F2093	WGS	Germany	N/A	Pseudomonas aeruginosa	F2093	N/A	Human	Human	Homo sapiens	N/A
+287.12627	N/A		Pseudomonas aeruginosa strain F2097	WGS	Germany	N/A	Pseudomonas aeruginosa	F2097	N/A	Human	Human	Homo sapiens	N/A
+287.12628	N/A		Pseudomonas aeruginosa strain F2059	WGS	Germany	N/A	Pseudomonas aeruginosa	F2059	N/A	Human	Human	Homo sapiens	N/A
+287.12629	N/A		Pseudomonas aeruginosa strain F2064	WGS	Germany	N/A	Pseudomonas aeruginosa	F2064	N/A	Human	Human	Homo sapiens	N/A
+287.12630	N/A		Pseudomonas aeruginosa strain F2055	WGS	Germany	N/A	Pseudomonas aeruginosa	F2055	N/A	Human	Human	Homo sapiens	N/A
+287.12631	N/A		Pseudomonas aeruginosa strain F2056	WGS	Germany	N/A	Pseudomonas aeruginosa	F2056	N/A	Human	Human	Homo sapiens	N/A
+287.12632	N/A		Pseudomonas aeruginosa strain F2128	WGS	Germany	N/A	Pseudomonas aeruginosa	F2128	N/A	Human	Human	Homo sapiens	N/A
+287.12633	N/A		Pseudomonas aeruginosa strain F2148	WGS	Germany	N/A	Pseudomonas aeruginosa	F2148	N/A	Human	Human	Homo sapiens	N/A
+287.12634	N/A		Pseudomonas aeruginosa strain F2166	WGS	Germany	N/A	Pseudomonas aeruginosa	F2166	N/A	Human	Human	Homo sapiens	N/A
+287.12635	N/A		Pseudomonas aeruginosa strain F2165	WGS	Germany	N/A	Pseudomonas aeruginosa	F2165	N/A	Human	Human	Homo sapiens	N/A
+287.12636	N/A		Pseudomonas aeruginosa strain F2137	WGS	Germany	N/A	Pseudomonas aeruginosa	F2137	N/A	Human	Human	Homo sapiens	N/A
+287.12637	N/A		Pseudomonas aeruginosa strain F2230	WGS	Germany	N/A	Pseudomonas aeruginosa	F2230	N/A	Human	Human	Homo sapiens	N/A
+287.12638	N/A		Pseudomonas aeruginosa strain F2234	WGS	Germany	N/A	Pseudomonas aeruginosa	F2234	N/A	Human	Human	Homo sapiens	N/A
+287.12639	N/A		Pseudomonas aeruginosa strain M70565254	WGS	Germany	N/A	Pseudomonas aeruginosa	M70565254	N/A	Human	Human	Homo sapiens	N/A
+287.12640	N/A		Pseudomonas aeruginosa strain M70563004	WGS	Germany	N/A	Pseudomonas aeruginosa	M70563004	N/A	Human	Human	Homo sapiens	N/A
+287.12641	N/A		Pseudomonas aeruginosa strain F2208	WGS	Germany	N/A	Pseudomonas aeruginosa	F2208	N/A	Human	Human	Homo sapiens	N/A
+287.12642	N/A		Pseudomonas aeruginosa strain F2236	WGS	Germany	N/A	Pseudomonas aeruginosa	F2236	N/A	Human	Human	Homo sapiens	N/A
+287.12643	N/A		Pseudomonas aeruginosa strain F2235	WGS	Germany	N/A	Pseudomonas aeruginosa	F2235	N/A	Human	Human	Homo sapiens	N/A
+287.12644	N/A		Pseudomonas aeruginosa strain F2240	WGS	Germany	N/A	Pseudomonas aeruginosa	F2240	N/A	Human	Human	Homo sapiens	N/A
+287.12645	N/A		Pseudomonas aeruginosa strain M70564993	WGS	Germany	N/A	Pseudomonas aeruginosa	M70564993	N/A	Human	Human	Homo sapiens	N/A
+287.12646	N/A		Pseudomonas aeruginosa strain F2205	WGS	Germany	N/A	Pseudomonas aeruginosa	F2205	N/A	Human	Human	Homo sapiens	N/A
+287.12647	N/A		Pseudomonas aeruginosa strain F2172	WGS	Germany	N/A	Pseudomonas aeruginosa	F2172	N/A	Human	Human	Homo sapiens	N/A
+287.12648	N/A		Pseudomonas aeruginosa strain F2199	WGS	Germany	N/A	Pseudomonas aeruginosa	F2199	N/A	Human	Human	Homo sapiens	N/A
+287.12649	N/A		Pseudomonas aeruginosa strain F2167	WGS	Germany	N/A	Pseudomonas aeruginosa	F2167	N/A	Human	Human	Homo sapiens	N/A
+287.12650	N/A		Pseudomonas aeruginosa strain F2098	WGS	Germany	N/A	Pseudomonas aeruginosa	F2098	N/A	Human	Human	Homo sapiens	N/A
+287.12651	N/A		Pseudomonas aeruginosa strain F2119	WGS	Germany	N/A	Pseudomonas aeruginosa	F2119	N/A	Human	Human	Homo sapiens	N/A
+287.12652	N/A		Pseudomonas aeruginosa strain M70565897	WGS	Germany	N/A	Pseudomonas aeruginosa	M70565897	N/A	Human	Human	Homo sapiens	N/A
+287.12653	N/A		Pseudomonas aeruginosa strain F2176	WGS	Germany	N/A	Pseudomonas aeruginosa	F2176	N/A	Human	Human	Homo sapiens	N/A
+287.12654	N/A		Pseudomonas aeruginosa strain M70647319	WGS	Germany	N/A	Pseudomonas aeruginosa	M70647319	N/A	Human	Human	Homo sapiens	N/A
+287.12655	N/A		Pseudomonas aeruginosa strain M70649365	WGS	Germany	N/A	Pseudomonas aeruginosa	M70649365	N/A	Human	Human	Homo sapiens	N/A
+287.12656	N/A		Pseudomonas aeruginosa strain MS5	WGS	Germany	N/A	Pseudomonas aeruginosa	MS5	N/A	Human	Human	Homo sapiens	N/A
+287.12657	N/A		Pseudomonas aeruginosa strain ESP003	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP003	N/A	Human	Human	Homo sapiens	N/A
+287.12658	N/A		Pseudomonas aeruginosa strain ESP002	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP002	N/A	Human	Human	Homo sapiens	N/A
+287.12659	N/A		Pseudomonas aeruginosa strain MS1	WGS	Germany	N/A	Pseudomonas aeruginosa	MS1	N/A	Human	Human	Homo sapiens	N/A
+287.12660	N/A		Pseudomonas aeruginosa strain M70652746	WGS	Germany	N/A	Pseudomonas aeruginosa	M70652746	N/A	Human	Human	Homo sapiens	N/A
+287.12661	N/A		Pseudomonas aeruginosa strain M70663247	WGS	Germany	N/A	Pseudomonas aeruginosa	M70663247	N/A	Human	Human	Homo sapiens	N/A
+287.12662	N/A		Pseudomonas aeruginosa strain MS2	WGS	Germany	N/A	Pseudomonas aeruginosa	MS2	N/A	Human	Human	Homo sapiens	N/A
+287.12663	N/A		Pseudomonas aeruginosa strain M70656672	WGS	Germany	N/A	Pseudomonas aeruginosa	M70656672	N/A	Human	Human	Homo sapiens	N/A
+287.12664	N/A		Pseudomonas aeruginosa strain M70608424	WGS	Germany	N/A	Pseudomonas aeruginosa	M70608424	N/A	Human	Human	Homo sapiens	N/A
+287.12665	N/A		Pseudomonas aeruginosa strain M70638412	WGS	Germany	N/A	Pseudomonas aeruginosa	M70638412	N/A	Human	Human	Homo sapiens	N/A
+287.12666	N/A		Pseudomonas aeruginosa strain M70635118	WGS	Germany	N/A	Pseudomonas aeruginosa	M70635118	N/A	Human	Human	Homo sapiens	N/A
+287.12667	N/A		Pseudomonas aeruginosa strain M70604538	WGS	Germany	N/A	Pseudomonas aeruginosa	M70604538	N/A	Human	Human	Homo sapiens	N/A
+287.12668	N/A		Pseudomonas aeruginosa strain M70646050	WGS	Germany	N/A	Pseudomonas aeruginosa	M70646050	N/A	Human	Human	Homo sapiens	N/A
+287.12669	N/A		Pseudomonas aeruginosa strain M70640096	WGS	Germany	N/A	Pseudomonas aeruginosa	M70640096	N/A	Human	Human	Homo sapiens	N/A
+287.12670	N/A		Pseudomonas aeruginosa strain M70641593	WGS	Germany	N/A	Pseudomonas aeruginosa	M70641593	N/A	Human	Human	Homo sapiens	N/A
+287.12671	N/A		Pseudomonas aeruginosa strain M70639645	WGS	Germany	N/A	Pseudomonas aeruginosa	M70639645	N/A	Human	Human	Homo sapiens	N/A
+287.12672	N/A		Pseudomonas aeruginosa strain ESP006	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP006	N/A	Human	Human	Homo sapiens	N/A
+287.12673	N/A		Pseudomonas aeruginosa strain ESP004	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP004	N/A	Human	Human	Homo sapiens	N/A
+287.12674	N/A		Pseudomonas aeruginosa strain ESP009	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP009	N/A	Human	Human	Homo sapiens	N/A
+287.12675	N/A		Pseudomonas aeruginosa strain M70646077	WGS	Germany	N/A	Pseudomonas aeruginosa	M70646077	N/A	Human	Human	Homo sapiens	N/A
+287.12676	N/A		Pseudomonas aeruginosa strain ESP025	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP025	N/A	Human	Human	Homo sapiens	N/A
+287.12678	N/A		Pseudomonas aeruginosa strain ESP024	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP024	N/A	Human	Human	Homo sapiens	N/A
+287.12679	N/A		Pseudomonas aeruginosa strain ESP022	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP022	N/A	Human	Human	Homo sapiens	N/A
+287.12680	N/A		Pseudomonas aeruginosa strain ESP023	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP023	N/A	Human	Human	Homo sapiens	N/A
+287.12681	N/A		Pseudomonas aeruginosa strain ESP020	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP020	N/A	Human	Human	Homo sapiens	N/A
+287.12682	N/A		Pseudomonas aeruginosa strain ESP021	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP021	N/A	Human	Human	Homo sapiens	N/A
+287.12683	N/A		Pseudomonas aeruginosa strain ESP015	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP015	N/A	Human	Human	Homo sapiens	N/A
+287.12684	N/A		Pseudomonas aeruginosa strain ESP012	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP012	N/A	Human	Human	Homo sapiens	N/A
+287.12685	N/A		Pseudomonas aeruginosa strain ESP013	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP013	N/A	Human	Human	Homo sapiens	N/A
+287.12686	N/A		Pseudomonas aeruginosa strain ESP011	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP011	N/A	Human	Human	Homo sapiens	N/A
+287.12687	N/A		Pseudomonas aeruginosa strain ESP029	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP029	N/A	Human	Human	Homo sapiens	N/A
+287.12688	N/A		Pseudomonas aeruginosa strain ESP028	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP028	N/A	Human	Human	Homo sapiens	N/A
+287.12689	N/A		Pseudomonas aeruginosa strain ESP034	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP034	N/A	Human	Human	Homo sapiens	N/A
+287.12690	N/A		Pseudomonas aeruginosa strain ESP033	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP033	N/A	Human	Human	Homo sapiens	N/A
+287.12691	N/A		Pseudomonas aeruginosa strain ESP032	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP032	N/A	Human	Human	Homo sapiens	N/A
+287.12692	N/A		Pseudomonas aeruginosa strain ESP039	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP039	N/A	Human	Human	Homo sapiens	N/A
+287.12693	N/A		Pseudomonas aeruginosa strain ESP037	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP037	N/A	Human	Human	Homo sapiens	N/A
+287.12694	N/A		Pseudomonas aeruginosa strain ESP038	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP038	N/A	Human	Human	Homo sapiens	N/A
+287.12695	N/A		Pseudomonas aeruginosa strain ESP036	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP036	N/A	Human	Human	Homo sapiens	N/A
+287.12696	N/A		Pseudomonas aeruginosa strain ESP035	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP035	N/A	Human	Human	Homo sapiens	N/A
+287.12697	N/A		Pseudomonas aeruginosa strain ESP031	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP031	N/A	Human	Human	Homo sapiens	N/A
+287.12698	N/A		Pseudomonas aeruginosa strain ESP044	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP044	N/A	Human	Human	Homo sapiens	N/A
+287.12699	N/A		Pseudomonas aeruginosa strain ESP059	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP059	N/A	Human	Human	Homo sapiens	N/A
+287.12700	N/A		Pseudomonas aeruginosa strain ESP058	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP058	N/A	Human	Human	Homo sapiens	N/A
+287.12701	N/A		Pseudomonas aeruginosa strain ESP055	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP055	N/A	Human	Human	Homo sapiens	N/A
+287.12702	N/A		Pseudomonas aeruginosa strain ESP053	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP053	N/A	Human	Human	Homo sapiens	N/A
+287.12703	N/A		Pseudomonas aeruginosa strain ESP050	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP050	N/A	Human	Human	Homo sapiens	N/A
+287.12704	N/A		Pseudomonas aeruginosa strain ESP047	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP047	N/A	Human	Human	Homo sapiens	N/A
+287.12705	N/A		Pseudomonas aeruginosa strain ESP040	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP040	N/A	Human	Human	Homo sapiens	N/A
+287.12706	N/A		Pseudomonas aeruginosa strain ESP043	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP043	N/A	Human	Human	Homo sapiens	N/A
+287.12707	N/A		Pseudomonas aeruginosa strain ESP064	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP064	N/A	Human	Human	Homo sapiens	N/A
+287.12708	N/A		Pseudomonas aeruginosa strain ESP066	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP066	N/A	Human	Human	Homo sapiens	N/A
+287.12709	N/A		Pseudomonas aeruginosa strain ESP071	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP071	N/A	Human	Human	Homo sapiens	N/A
+287.12710	N/A		Pseudomonas aeruginosa strain ESP068	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP068	N/A	Human	Human	Homo sapiens	N/A
+287.12711	N/A		Pseudomonas aeruginosa strain ESP070	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP070	N/A	Human	Human	Homo sapiens	N/A
+287.12712	N/A		Pseudomonas aeruginosa strain ESP072	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP072	N/A	Human	Human	Homo sapiens	N/A
+287.12713	N/A		Pseudomonas aeruginosa strain ESP063	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP063	N/A	Human	Human	Homo sapiens	N/A
+287.12714	N/A		Pseudomonas aeruginosa strain ESP060	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP060	N/A	Human	Human	Homo sapiens	N/A
+287.12715	N/A		Pseudomonas aeruginosa strain ESP061	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP061	N/A	Human	Human	Homo sapiens	N/A
+287.12716	N/A		Pseudomonas aeruginosa strain ESP046	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP046	N/A	Human	Human	Homo sapiens	N/A
+287.12717	N/A		Pseudomonas aeruginosa strain ESP057	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP057	N/A	Human	Human	Homo sapiens	N/A
+287.12718	N/A		Pseudomonas aeruginosa strain ESP069	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP069	N/A	Human	Human	Homo sapiens	N/A
+287.12719	N/A		Pseudomonas aeruginosa strain ESP067	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP067	N/A	Human	Human	Homo sapiens	N/A
+287.12720	N/A		Pseudomonas aeruginosa strain ESP073	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP073	N/A	Human	Human	Homo sapiens	N/A
+287.12721	N/A		Pseudomonas aeruginosa strain ESP076	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP076	N/A	Human	Human	Homo sapiens	N/A
+287.12722	N/A		Pseudomonas aeruginosa strain ESP075	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP075	N/A	Human	Human	Homo sapiens	N/A
+287.12723	N/A		Pseudomonas aeruginosa strain ESP079	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP079	N/A	Human	Human	Homo sapiens	N/A
+287.12724	N/A		Pseudomonas aeruginosa strain ESP077	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP077	N/A	Human	Human	Homo sapiens	N/A
+287.12725	N/A		Pseudomonas aeruginosa strain ESP078	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP078	N/A	Human	Human	Homo sapiens	N/A
+287.12726	N/A		Pseudomonas aeruginosa strain ESP081	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP081	N/A	Human	Human	Homo sapiens	N/A
+287.12727	N/A		Pseudomonas aeruginosa strain ESP074	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP074	N/A	Human	Human	Homo sapiens	N/A
+287.12728	N/A		Pseudomonas aeruginosa strain ESP084	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP084	N/A	Human	Human	Homo sapiens	N/A
+287.12729	N/A		Pseudomonas aeruginosa strain ESP082	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP082	N/A	Human	Human	Homo sapiens	N/A
+287.12730	N/A		Pseudomonas aeruginosa strain ESP083	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP083	N/A	Human	Human	Homo sapiens	N/A
+287.12731	N/A		Pseudomonas aeruginosa strain ESP091	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP091	N/A	Human	Human	Homo sapiens	N/A
+287.12732	N/A		Pseudomonas aeruginosa strain PSAE1872	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1872	N/A	Human	Human	Homo sapiens	N/A
+287.12733	N/A		Pseudomonas aeruginosa strain ESP088	WGS	Spain	N/A	Pseudomonas aeruginosa	ESP088	N/A	Human	Human	Homo sapiens	N/A
+287.12734	N/A		Pseudomonas aeruginosa strain PSAE2127	WGS	Hungary	N/A	Pseudomonas aeruginosa	PSAE2127	N/A	Human	Human	Homo sapiens	N/A
+287.12735	N/A		Pseudomonas aeruginosa strain PSAE1635	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1635	N/A	Human	Human	Homo sapiens	N/A
+287.12736	N/A		Pseudomonas aeruginosa strain PSAE1837	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1837	N/A	Human	Human	Homo sapiens	N/A
+287.12737	N/A		Pseudomonas aeruginosa strain PSAE1630	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1630	N/A	Human	Human	Homo sapiens	N/A
+287.12738	N/A		Pseudomonas aeruginosa strain PSAE1903	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1903	N/A	Human	Human	Homo sapiens	N/A
+287.12739	N/A		Pseudomonas aeruginosa strain PSAE1984	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1984	N/A	Human	Human	Homo sapiens	N/A
+287.12740	N/A		Pseudomonas aeruginosa strain PSAE1742	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1742	N/A	Human	Human	Homo sapiens	N/A
+287.12741	N/A		Pseudomonas aeruginosa strain PSAE1934	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1934	N/A	Human	Human	Homo sapiens	N/A
+287.12742	N/A		Pseudomonas aeruginosa strain PSAE2125	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE2125	N/A	Human	Human	Homo sapiens	N/A
+287.12743	N/A		Pseudomonas aeruginosa strain PSAE1745	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1745	N/A	Human	Human	Homo sapiens	N/A
+287.12744	N/A		Pseudomonas aeruginosa strain PSAE2126	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE2126	N/A	Human	Human	Homo sapiens	N/A
+287.12745	N/A		Pseudomonas aeruginosa strain PSAE1656	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1656	N/A	Human	Human	Homo sapiens	N/A
+287.12746	N/A		Pseudomonas aeruginosa strain PSAE1654	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1654	N/A	Human	Human	Homo sapiens	N/A
+287.12747	N/A		Pseudomonas aeruginosa strain PSAE1651	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1651	N/A	Human	Human	Homo sapiens	N/A
+287.12748	N/A		Pseudomonas aeruginosa strain PSAE1649	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1649	N/A	Human	Human	Homo sapiens	N/A
+287.12749	N/A		Pseudomonas aeruginosa strain PSAE1647	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1647	N/A	Human	Human	Homo sapiens	N/A
+287.12750	N/A		Pseudomonas aeruginosa strain PSAE1641	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1641	N/A	Human	Human	Homo sapiens	N/A
+287.12751	N/A		Pseudomonas aeruginosa strain PSAE1642	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1642	N/A	Human	Human	Homo sapiens	N/A
+287.12752	N/A		Pseudomonas aeruginosa strain PSAE1645	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1645	N/A	Human	Human	Homo sapiens	N/A
+287.12753	N/A		Pseudomonas aeruginosa strain PSAE1401	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1401	N/A	Human	Human	Homo sapiens	N/A
+287.12754	N/A		Pseudomonas aeruginosa strain PSAE1438	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1438	N/A	Human	Human	Homo sapiens	N/A
+287.12755	N/A		Pseudomonas aeruginosa strain PSAE1439	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1439	N/A	Human	Human	Homo sapiens	N/A
+287.12756	N/A		Pseudomonas aeruginosa strain PSAE1912	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1912	N/A	Human	Human	Homo sapiens	N/A
+287.12757	N/A		Pseudomonas aeruginosa strain PSAE1975	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1975	N/A	Human	Human	Homo sapiens	N/A
+287.12758	N/A		Pseudomonas aeruginosa strain PSAE1970	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE1970	N/A	Human	Human	Homo sapiens	N/A
+287.12759	N/A		Pseudomonas aeruginosa strain PSAE2139	WGS	Romania	N/A	Pseudomonas aeruginosa	PSAE2139	N/A	Human	Human	Homo sapiens	N/A
+287.12760	N/A		Pseudomonas aeruginosa strain PSAE2325	WGS	Germany	N/A	Pseudomonas aeruginosa	PSAE2325	N/A	Human	Human	Homo sapiens	N/A
+287.1301	2005	JUAZ00000000	Pseudomonas aeruginosa AZPAE12135	WGS	USA	cystic fibrosis isolate	Pseudomonas aeruginosa	AZPAE12135	North America	Human	Human	Homo sapiens	New York
+287.1477	2013	JYGC00000000	Pseudomonas aeruginosastrain MRSN12121 strain MRSN 20176	WGS	Afghanistan	Surveillance swab	Pseudomonas aeruginosa	MRSN 20176	Asia	Human	Human	Homo sapiens	N/A
+287.1482	2013	JFJU00000000	Pseudomonas aeruginosa strain MRSN18971	WGS	USA	skin	Pseudomonas aeruginosa	MRSN18971	N/A	Human	Human	Homo sapiens	N/A
+287.2563	2013	CP013989	Pseudomonas aeruginosa strain USDA-ARS-USMARC-41639	Complete	USA	nasopharynx	Pseudomonas aeruginosa	USDA-ARS-USMARC-41639	North America	Cow	Nonhuman Mammal	Bos taurus	Kansas
+287.2908	N/A	CP017149	Pseudomonas aeruginosa strain ATCC 15692	Complete	N/A	Infected wound	Pseudomonas aeruginosa	ATCC 15692	N/A	N/A	N/A	N/A	N/A
+287.2972	N/A	MPBP00000000	Pseudomonas aeruginosa strain AR_0103	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0103	N/A	N/A	N/A	N/A	N/A
+287.2973	N/A	MPBS00000000	Pseudomonas aeruginosa strain AR_0092	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0092	N/A	N/A	N/A	N/A	N/A
+287.2975	N/A	MPBQ00000000	Pseudomonas aeruginosa strain AR_0100	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0100	N/A	N/A	N/A	N/A	N/A
+287.2976	N/A	MPBO00000000	Pseudomonas aeruginosa strain AR_0105	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0105	N/A	N/A	N/A	N/A	N/A
+287.2977	N/A	MPBV00000000	Pseudomonas aeruginosa strain AR_0054	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0054	N/A	N/A	N/A	N/A	N/A
+287.2978	N/A	MPBU00000000	Pseudomonas aeruginosa strain AR_0064	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0064	N/A	N/A	N/A	N/A	N/A
+287.2979	N/A	MPBR00000000	Pseudomonas aeruginosa strain AR_0094	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0094	N/A	N/A	N/A	N/A	N/A
+287.2980	N/A	MPBN00000000	Pseudomonas aeruginosa strain AR_0108	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0108	N/A	N/A	N/A	N/A	N/A
+287.34432	2018		Pseudomonas aeruginosa 1D-259	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-259	N/A	N/A	N/A	Homo sapiens	N/A
+287.34433	2018		Pseudomonas aeruginosa 1D-245	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-245	N/A	N/A	N/A	Homo sapiens	N/A
+287.34434	2018		Pseudomonas aeruginosa 1D-241	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-241	N/A	N/A	N/A	Homo sapiens	N/A
+287.34435	2017		Pseudomonas aeruginosa ERR2931034	WGS	Germany	water	Pseudomonas aeruginosa	ERR2931034	N/A	N/A	N/A	N/A	N/A
+287.34436	2018		Pseudomonas aeruginosa 1D-257	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-257	N/A	N/A	N/A	Homo sapiens	N/A
+287.34437	2018		Pseudomonas aeruginosa 1D-244	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-244	N/A	N/A	N/A	Homo sapiens	N/A
+287.34438	2018		Pseudomonas aeruginosa 1D-250	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-250	N/A	N/A	N/A	Homo sapiens	N/A
+287.34439	2018		Pseudomonas aeruginosa 1D-240	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-240	N/A	N/A	N/A	Homo sapiens	N/A
+287.34440	2018		Pseudomonas aeruginosa 1D-492	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-492	N/A	N/A	N/A	Homo sapiens	N/A
+287.34441	2018		Pseudomonas aeruginosa 1D-256	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-256	N/A	N/A	N/A	Homo sapiens	N/A
+287.34442	2018		Pseudomonas aeruginosa 1D-254	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-254	N/A	N/A	N/A	Homo sapiens	N/A
+287.34443	2018		Pseudomonas aeruginosa 1D-253	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-253	N/A	N/A	N/A	Homo sapiens	N/A
+287.34444	2018		Pseudomonas aeruginosa 1D-242	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-242	N/A	N/A	N/A	Homo sapiens	N/A
+287.34445	2018		Pseudomonas aeruginosa 1D-251	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-251	N/A	N/A	N/A	Homo sapiens	N/A
+287.34446	2018		Pseudomonas aeruginosa 1D-249	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-249	N/A	N/A	N/A	Homo sapiens	N/A
+287.34822	2018		Pseudomonas aeruginosa 1D-248	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-248	N/A	N/A	N/A	Homo sapiens	N/A
+287.34823	2018		Pseudomonas aeruginosa 1D-247	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-247	N/A	N/A	N/A	Homo sapiens	N/A
+287.34824	2018		Pseudomonas aeruginosa 1D-246	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-246	N/A	N/A	N/A	Homo sapiens	N/A
+287.34825	2018		Pseudomonas aeruginosa 1D-243	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-243	N/A	N/A	N/A	Homo sapiens	N/A
+287.34826	2018		Pseudomonas aeruginosa 1D-252	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-252	N/A	N/A	N/A	Homo sapiens	N/A
+287.34828	2018		Pseudomonas aeruginosa 1D-258	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-258	N/A	N/A	N/A	Homo sapiens	N/A
+287.34830	2018		Pseudomonas aeruginosa 1D-255	WGS	Denmark	N/A	Pseudomonas aeruginosa	1D-255	N/A	N/A	N/A	Homo sapiens	N/A
+287.5685	N/A	CP027165	Pseudomonas aeruginosa strain AR_0360	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0360	N/A	N/A	N/A	N/A	N/A
+287.5686	N/A	CP027171	Pseudomonas aeruginosa strain AR_0354	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0354	N/A	N/A	N/A	N/A	N/A
+287.5687	N/A	CP027172,CP027173	Pseudomonas aeruginosa strain AR_0353	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0353	N/A	N/A	N/A	N/A	N/A
+287.5688	N/A	CP027174,CP027175,CP027176	Pseudomonas aeruginosa strain AR_0230	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0230	N/A	N/A	N/A	N/A	N/A
+287.5689	N/A	CP027169,CP027168,CP027170,CP027167	Pseudomonas aeruginosa strain AR_0356	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0356	N/A	N/A	N/A	N/A	N/A
+287.5690	N/A	CP027166	Pseudomonas aeruginosa strain AR_0357	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0357	N/A	N/A	N/A	N/A	N/A
+287.5701	N/A	PSQQ00000000	Pseudomonas aeruginosa strain AR_0355	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0355	N/A	N/A	N/A	N/A	N/A
+287.5702	N/A	PSQS00000000	Pseudomonas aeruginosa strain AR_0359	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0359	N/A	N/A	N/A	N/A	N/A
+287.5703	N/A	PSQR00000000	Pseudomonas aeruginosa strain AR_0358	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0358	N/A	N/A	N/A	N/A	N/A
+287.5704	N/A	PSQP00000000	Pseudomonas aeruginosa strain AR_0351	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0351	N/A	N/A	N/A	N/A	N/A
+287.5746	N/A	CP029147	Pseudomonas aeruginosa strain AR_0443	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0443	N/A	N/A	N/A	N/A	N/A
+287.5747	N/A	CP029148	Pseudomonas aeruginosa strain AR_0440	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0440	N/A	N/A	N/A	N/A	N/A
+287.5748	N/A	CP029097,CP029095,CP029096	Pseudomonas aeruginosa strain AR439	Complete	N/A	N/A	Pseudomonas aeruginosa	AR439	N/A	N/A	N/A	N/A	N/A
+287.5749	N/A	CP029090	Pseudomonas aeruginosa strain AR442	Complete	N/A	N/A	Pseudomonas aeruginosa	AR442	N/A	N/A	N/A	N/A	N/A
+287.5750	N/A	CP029088	Pseudomonas aeruginosa strain AR445	Complete	N/A	N/A	Pseudomonas aeruginosa	AR445	N/A	N/A	N/A	N/A	N/A
+287.5751	N/A	CP029093,CP029091,CP029092,CP029094	Pseudomonas aeruginosa strain AR441	Complete	N/A	N/A	Pseudomonas aeruginosa	AR441	N/A	N/A	N/A	N/A	N/A
+287.5752	N/A	CP029089	Pseudomonas aeruginosa strain AR444	Complete	N/A	N/A	Pseudomonas aeruginosa	AR444	N/A	N/A	N/A	N/A	N/A
+287.5778	N/A	CP027538	Pseudomonas aeruginosa strain AR_0095	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0095	N/A	N/A	N/A	N/A	N/A
+287.5955	N/A	CP029660	Pseudomonas aeruginosa strain AR_0446	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0446	N/A	N/A	N/A	N/A	N/A
+287.5956	2013	CP023255	Pseudomonas aeruginosa strain CCUG 70744	Complete	Sweden	sputum	Pseudomonas aeruginosa	CCUG 70744	Europe	Human	Human	Homo sapiens	N/A
+287.5959	N/A	CP029745	Pseudomonas aeruginosa strain AR_0110	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0110	N/A	N/A	N/A	N/A	N/A
+287.5969	N/A	QHCK00000000	Pseudomonas aeruginosa strain AR_0447	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0447	N/A	N/A	N/A	N/A	N/A
+287.5971	N/A	CP030351	Pseudomonas aeruginosa strain AR_460	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_460	N/A	N/A	N/A	N/A	N/A
+287.5972	N/A	CP030328	Pseudomonas aeruginosa strain AR_455	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_455	N/A	N/A	N/A	N/A	N/A
+287.5973	N/A	CP030327	Pseudomonas aeruginosa strain AR_458	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_458	N/A	N/A	N/A	N/A	N/A
+287.6326	N/A	QMGQ00000000	Pseudomonas aeruginosa strain AR_0459	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0459	N/A	N/A	N/A	N/A	N/A
+287.6327	N/A	QMGP00000000	Pseudomonas aeruginosa strain AR_0457	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0457	N/A	N/A	N/A	N/A	N/A
+287.6328	N/A	QMGO00000000	Pseudomonas aeruginosa strain AR_0456	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0456	N/A	N/A	N/A	N/A	N/A
+287.6329	N/A	QMGL00000000	Pseudomonas aeruginosa strain AR_0449	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0449	N/A	N/A	N/A	N/A	N/A
+287.6330	N/A	QMGI00000000	Pseudomonas aeruginosa strain AR_0241	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0241	N/A	N/A	N/A	N/A	N/A
+287.6331	N/A	QMGJ00000000	Pseudomonas aeruginosa strain AR_0352	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0352	N/A	N/A	N/A	N/A	N/A
+287.6492	N/A	CP032257,CP032256	Pseudomonas aeruginosa strain AR_0111	Complete	N/A	N/A	Pseudomonas aeruginosa	AR_0111	N/A	N/A	N/A	N/A	N/A
+287.7771	2007	RXTB00000000	Pseudomonas aeruginosa strain MRSN8914	WGS	USA	bone	Pseudomonas aeruginosa	MRSN8914	N/A	Human	Human	Homo sapiens	N/A
+287.7772	2007	RXTA00000000	Pseudomonas aeruginosa strain MRSN8915	WGS	USA	urine	Pseudomonas aeruginosa	MRSN8915	N/A	Human	Human	Homo sapiens	N/A
+287.7773	2010	RXSX00000000	Pseudomonas aeruginosa strain MRSN994	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN994	N/A	Human	Human	Homo sapiens	N/A
+287.7774	2012	RXTE00000000	Pseudomonas aeruginosa strain MRSN8139	WGS	USA	wound	Pseudomonas aeruginosa	MRSN8139	N/A	Human	Human	Homo sapiens	N/A
+287.7775	2012	RXTH00000000	Pseudomonas aeruginosa strain MRSN7014	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN7014	N/A	Human	Human	Homo sapiens	N/A
+287.7776	2007	RXTC00000000	Pseudomonas aeruginosa strain MRSN8912	WGS	USA	urine	Pseudomonas aeruginosa	MRSN8912	N/A	Human	Human	Homo sapiens	N/A
+287.7777	2012	RXTF00000000	Pseudomonas aeruginosa strain MRSN8136	WGS	USA	wound	Pseudomonas aeruginosa	MRSN8136	N/A	Human	Human	Homo sapiens	N/A
+287.7778	2012	RXTJ00000000	Pseudomonas aeruginosa strain MRSN6695	WGS	USA	urine	Pseudomonas aeruginosa	MRSN6695	N/A	Human	Human	Homo sapiens	N/A
+287.7779	2011	RXTL00000000	Pseudomonas aeruginosa strain MRSN6241	WGS	USA	wound	Pseudomonas aeruginosa	MRSN6241	N/A	Human	Human	Homo sapiens	N/A
+287.7780	2012	RXTK00000000	Pseudomonas aeruginosa strain MRSN6678	WGS	USA	sterile tissue	Pseudomonas aeruginosa	MRSN6678	N/A	Human	Human	Homo sapiens	N/A
+287.7781	2011	RXTM00000000	Pseudomonas aeruginosa strain MRSN6220	WGS	USA	wound	Pseudomonas aeruginosa	MRSN6220	N/A	Human	Human	Homo sapiens	N/A
+287.7782	2004	RXTO00000000	Pseudomonas aeruginosa strain MRSN5524	WGS	USA	urine	Pseudomonas aeruginosa	MRSN5524	N/A	Human	Human	Homo sapiens	N/A
+287.7783	2005	RXTN00000000	Pseudomonas aeruginosa strain MRSN5539	WGS	USA	sterile tissue	Pseudomonas aeruginosa	MRSN5539	N/A	Human	Human	Homo sapiens	N/A
+287.7784	2010	RXTP00000000	Pseudomonas aeruginosa strain MRSN552	WGS	USA	urine	Pseudomonas aeruginosa	MRSN552	N/A	Human	Human	Homo sapiens	N/A
+287.7785	2004	RXTQ00000000	Pseudomonas aeruginosa strain MRSN5519	WGS	USA	wound	Pseudomonas aeruginosa	MRSN5519	N/A	Human	Human	Homo sapiens	N/A
+287.7786	2011	RXTT00000000	Pseudomonas aeruginosa strain MRSN4841	WGS	USA	urine	Pseudomonas aeruginosa	MRSN4841	N/A	Human	Human	Homo sapiens	N/A
+287.7787	2005	RXTS00000000	Pseudomonas aeruginosa strain MRSN5498	WGS	USA	sterile tissue	Pseudomonas aeruginosa	MRSN5498	N/A	Human	Human	Homo sapiens	N/A
+287.7788	2017	RXTU00000000	Pseudomonas aeruginosa strain MRSN443463	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN443463	N/A	Human	Human	Homo sapiens	N/A
+287.7789	2010	RXUI00000000	Pseudomonas aeruginosa strain MRSN315	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN315	N/A	Human	Human	Homo sapiens	N/A
+287.7790	2013	RXUX00000000	Pseudomonas aeruginosa strain MRSN19711	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN19711	N/A	Human	Human	Homo sapiens	N/A
+287.7791	2013	RXUV00000000	Pseudomonas aeruginosa strain MRSN20190	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN20190	N/A	Human	Human	Homo sapiens	N/A
+287.7792	2012	RXSY00000000	Pseudomonas aeruginosa strain MRSN9873	WGS	USA	urine	Pseudomonas aeruginosa	MRSN9873	N/A	Human	Human	Homo sapiens	N/A
+287.7793	2012	RXSZ00000000	Pseudomonas aeruginosa strain MRSN9718	WGS	USA	urine	Pseudomonas aeruginosa	MRSN9718	N/A	Human	Human	Homo sapiens	N/A
+287.7794	2012	RXTD00000000	Pseudomonas aeruginosa strain MRSN8141	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN8141	N/A	Human	Human	Homo sapiens	N/A
+287.7795	2012	RXTG00000000	Pseudomonas aeruginosa strain MRSN8130	WGS	USA	blood	Pseudomonas aeruginosa	MRSN8130	N/A	Human	Human	Homo sapiens	N/A
+287.7796	2011	RXTI00000000	Pseudomonas aeruginosa strain MRSN6739	WGS	USA	urine	Pseudomonas aeruginosa	MRSN6739	N/A	Human	Human	Homo sapiens	N/A
+287.7797	2005	RXTR00000000	Pseudomonas aeruginosa strain MRSN5508	WGS	USA	sterile body fluid	Pseudomonas aeruginosa	MRSN5508	N/A	Human	Human	Homo sapiens	N/A
+287.7798	2016	RXTW00000000	Pseudomonas aeruginosa strain MRSN435288	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN435288	N/A	Human	Human	Homo sapiens	N/A
+287.7799	2010	RXUG00000000	Pseudomonas aeruginosa strain MRSN321	WGS	USA	wound	Pseudomonas aeruginosa	MRSN321	N/A	Human	Human	Homo sapiens	N/A
+287.7800	2014	RXUN00000000	Pseudomonas aeruginosa strain MRSN25678	WGS	USA	urine	Pseudomonas aeruginosa	MRSN25678	N/A	Human	Human	Homo sapiens	N/A
+287.7801	2013	RXVH00000000	Pseudomonas aeruginosa strain MRSN18754	WGS	USA	sterile tissue	Pseudomonas aeruginosa	MRSN18754	N/A	Human	Human	Homo sapiens	N/A
+287.7802	2016	RXTZ00000000	Pseudomonas aeruginosa strain MRSN390231	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN390231	N/A	Human	Human	Homo sapiens	N/A
+287.7803	2016	RXTV00000000	Pseudomonas aeruginosa strain MRSN436311	WGS	USA	urine	Pseudomonas aeruginosa	MRSN436311	N/A	Human	Human	Homo sapiens	N/A
+287.7804	2016	RXUA00000000	Pseudomonas aeruginosa strain MRSN373401	WGS	USA	urine	Pseudomonas aeruginosa	MRSN373401	N/A	Human	Human	Homo sapiens	N/A
+287.7805	2011	RXUB00000000	Pseudomonas aeruginosa strain MRSN3705	WGS	Guam	respiratory	Pseudomonas aeruginosa	MRSN3705	Oceania	Human	Human	Homo sapiens	N/A
+287.7806	2015	RXUK00000000	Pseudomonas aeruginosa strain MRSN29192	WGS	USA	urine	Pseudomonas aeruginosa	MRSN29192	N/A	Human	Human	Homo sapiens	N/A
+287.7807	2014	RXUM00000000	Pseudomonas aeruginosa strain MRSN25762	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN25762	N/A	Human	Human	Homo sapiens	N/A
+287.7808	2009	RXUP00000000	Pseudomonas aeruginosa strain MRSN2444	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN2444	N/A	Human	Human	Homo sapiens	N/A
+287.7809	2011	RXUU00000000	Pseudomonas aeruginosa strain MRSN3587	WGS	USA	urine	Pseudomonas aeruginosa	MRSN3587	N/A	Human	Human	Homo sapiens	N/A
+287.7810	2011	RXUT00000000	Pseudomonas aeruginosa strain MRSN2101	WGS	USA	wound	Pseudomonas aeruginosa	MRSN2101	N/A	Human	Human	Homo sapiens	N/A
+287.7811	2014	RXUQ00000000	Pseudomonas aeruginosa strain MRSN23861	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN23861	N/A	Human	Human	Homo sapiens	N/A
+287.7812	2013	RXUW00000000	Pseudomonas aeruginosa strain MRSN20176	WGS	Afghanistan	groin	Pseudomonas aeruginosa	MRSN20176	Asia	Human	Human	Homo sapiens	N/A
+287.7813	2010	RXUY00000000	Pseudomonas aeruginosa strain MRSN1948	WGS	USA	wound	Pseudomonas aeruginosa	MRSN1948	N/A	Human	Human	Homo sapiens	N/A
+287.7814	2010	RXVB00000000	Pseudomonas aeruginosa strain MRSN1906	WGS	USA	groin	Pseudomonas aeruginosa	MRSN1906	N/A	Human	Human	Homo sapiens	N/A
+287.7815	2010	RXUZ00000000	Pseudomonas aeruginosa strain MRSN1938	WGS	USA	urine	Pseudomonas aeruginosa	MRSN1938	N/A	Human	Human	Homo sapiens	N/A
+287.7816	2010	RXVD00000000	Pseudomonas aeruginosa strain MRSN1899	WGS	USA	groin	Pseudomonas aeruginosa	MRSN1899	N/A	Human	Human	Homo sapiens	N/A
+287.7817	2010	RXVC00000000	Pseudomonas aeruginosa strain MRSN1902	WGS	USA	groin	Pseudomonas aeruginosa	MRSN1902	N/A	Human	Human	Homo sapiens	N/A
+287.7818	2013	RXVE00000000	Pseudomonas aeruginosa strain MRSN18970	WGS	USA	wound	Pseudomonas aeruginosa	MRSN18970	N/A	Human	Human	Homo sapiens	N/A
+287.7819	2013	RXVK00000000	Pseudomonas aeruginosa strain MRSN17849	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN17849	N/A	Human	Human	Homo sapiens	N/A
+287.7820	2013	RXVO00000000	Pseudomonas aeruginosa strain MRSN16744	WGS	USA	sterile tissue	Pseudomonas aeruginosa	MRSN16744	N/A	Human	Human	Homo sapiens	N/A
+287.7821	2013	RXVP00000000	Pseudomonas aeruginosa strain MRSN16740	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN16740	N/A	Human	Human	Homo sapiens	N/A
+287.7822	2010	RXVM00000000	Pseudomonas aeruginosa strain MRSN1688	WGS	USA	urine	Pseudomonas aeruginosa	MRSN1688	N/A	Human	Human	Homo sapiens	N/A
+287.7823	2013	RXVQ00000000	Pseudomonas aeruginosa strain MRSN16383	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN16383	N/A	Human	Human	Homo sapiens	N/A
+287.7824	2013	RXVR00000000	Pseudomonas aeruginosa strain MRSN16345	WGS	USA	urine	Pseudomonas aeruginosa	MRSN16345	N/A	Human	Human	Homo sapiens	N/A
+287.7825	2010	RXVU00000000	Pseudomonas aeruginosa strain MRSN1613	WGS	USA	groin	Pseudomonas aeruginosa	MRSN1613	N/A	Human	Human	Homo sapiens	N/A
+287.7826	2010	RXVW00000000	Pseudomonas aeruginosa strain MRSN1601	WGS	USA	wound	Pseudomonas aeruginosa	MRSN1601	N/A	Human	Human	Homo sapiens	N/A
+287.7827	2010	RXVX00000000	Pseudomonas aeruginosa strain MRSN1583	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN1583	N/A	Human	Human	Homo sapiens	N/A
+287.7828	2010	RXVT00000000	Pseudomonas aeruginosa strain MRSN1617	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN1617	N/A	Human	Human	Homo sapiens	N/A
+287.7829	2010	RXWC00000000	Pseudomonas aeruginosa strain MRSN1388	WGS	USA	groin	Pseudomonas aeruginosa	MRSN1388	N/A	Human	Human	Homo sapiens	N/A
+287.7830	2013	RXVZ00000000	Pseudomonas aeruginosa strain MRSN15678	WGS	USA	wound	Pseudomonas aeruginosa	MRSN15678	N/A	Human	Human	Homo sapiens	N/A
+287.7831	2013	RXWB00000000	Pseudomonas aeruginosa strain MRSN14981	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN14981	N/A	Human	Human	Homo sapiens	N/A
+287.7832	2016	RXTX00000000	Pseudomonas aeruginosa strain MRSN409937	WGS	USA	N/A	Pseudomonas aeruginosa	MRSN409937	N/A	Human	Human	Homo sapiens	N/A
+287.7833	2015	RXUE00000000	Pseudomonas aeruginosa strain MRSN351791	WGS	USA	urine	Pseudomonas aeruginosa	MRSN351791	N/A	Human	Human	Homo sapiens	N/A
+287.7834	2015	RXUF00000000	Pseudomonas aeruginosa strain MRSN346179	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN346179	N/A	Human	Human	Homo sapiens	N/A
+287.7835	2015	RXUJ00000000	Pseudomonas aeruginosa strain MRSN30858	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN30858	N/A	Human	Human	Homo sapiens	N/A
+287.7836	2014	RXUL00000000	Pseudomonas aeruginosa strain MRSN26263	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN26263	N/A	Human	Human	Homo sapiens	N/A
+287.7837	2010	RXVA00000000	Pseudomonas aeruginosa strain MRSN1925	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN1925	N/A	Human	Human	Homo sapiens	N/A
+287.7838	2014	RXUO00000000	Pseudomonas aeruginosa strain MRSN25623	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN25623	N/A	Human	Human	Homo sapiens	N/A
+287.7839	2013	RXVI00000000	Pseudomonas aeruginosa strain MRSN18562	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN18562	N/A	Human	Human	Homo sapiens	N/A
+287.7840	2013	RXVS00000000	Pseudomonas aeruginosa strain MRSN16344	WGS	USA	wound	Pseudomonas aeruginosa	MRSN16344	N/A	Human	Human	Homo sapiens	N/A
+287.7841	2010	RXVV00000000	Pseudomonas aeruginosa strain MRSN1612	WGS	USA	ear	Pseudomonas aeruginosa	MRSN1612	N/A	Human	Human	Homo sapiens	N/A
+287.7842	2010	RXVL00000000	Pseudomonas aeruginosa strain MRSN1739	WGS	USA	blood	Pseudomonas aeruginosa	MRSN1739	N/A	Human	Human	Homo sapiens	N/A
+287.7843	2013	RXVN00000000	Pseudomonas aeruginosa strain MRSN16847	WGS	USA	groin	Pseudomonas aeruginosa	MRSN16847	N/A	Human	Human	Homo sapiens	N/A
+287.7844	2013	RXVY00000000	Pseudomonas aeruginosa strain MRSN15753	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN15753	N/A	Human	Human	Homo sapiens	N/A
+287.7845	2010	RXWD00000000	Pseudomonas aeruginosa strain MRSN1380	WGS	USA	groin	Pseudomonas aeruginosa	MRSN1380	N/A	Human	Human	Homo sapiens	N/A
+287.7846	2013	RXWA00000000	Pseudomonas aeruginosa strain MRSN15566	WGS	USA	urine	Pseudomonas aeruginosa	MRSN15566	N/A	Human	Human	Homo sapiens	N/A
+287.7847	2010	RXWE00000000	Pseudomonas aeruginosa strain MRSN1356	WGS	USA	groin	Pseudomonas aeruginosa	MRSN1356	N/A	Human	Human	Homo sapiens	N/A
+287.7848	2012	RXWH00000000	Pseudomonas aeruginosa strain MRSN12914	WGS	Afghanistan	urine	Pseudomonas aeruginosa	MRSN12914	Asia	Human	Human	Homo sapiens	N/A
+287.7849	2012	RXWK00000000	Pseudomonas aeruginosa strain MRSN12283	WGS	USA	urine	Pseudomonas aeruginosa	MRSN12283	N/A	Human	Human	Homo sapiens	N/A
+287.7850	2012	RXWJ00000000	Pseudomonas aeruginosa strain MRSN12365	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN12365	N/A	Human	Human	Homo sapiens	N/A
+287.7851	2015	RXUD00000000	Pseudomonas aeruginosa strain MRSN358800	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN358800	N/A	Human	Human	Homo sapiens	N/A
+287.7852	2012	RXWN00000000	Pseudomonas aeruginosa strain MRSN11538	WGS	USA	wound	Pseudomonas aeruginosa	MRSN11538	N/A	Human	Human	Homo sapiens	N/A
+287.7853	2012	RXWS00000000	Pseudomonas aeruginosa strain MRSN11278	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN11278	N/A	Human	Human	Homo sapiens	N/A
+287.7854	2012	RXWR00000000	Pseudomonas aeruginosa strain MRSN11281	WGS	USA	wound	Pseudomonas aeruginosa	MRSN11281	N/A	Human	Human	Homo sapiens	N/A
+287.7855	2012	RXWF00000000	Pseudomonas aeruginosa strain MRSN13488	WGS	USA	urine	Pseudomonas aeruginosa	MRSN13488	N/A	Human	Human	Homo sapiens	N/A
+287.7856	2010	RXWG00000000	Pseudomonas aeruginosa strain MRSN1344	WGS	USA	groin	Pseudomonas aeruginosa	MRSN1344	N/A	Human	Human	Homo sapiens	N/A
+287.7857	2012	RXWI00000000	Pseudomonas aeruginosa strain MRSN12368	WGS	USA	blood	Pseudomonas aeruginosa	MRSN12368	N/A	Human	Human	Homo sapiens	N/A
+287.7858	2012	RXWQ00000000	Pseudomonas aeruginosa strain MRSN11285	WGS	USA	urine	Pseudomonas aeruginosa	MRSN11285	N/A	Human	Human	Homo sapiens	N/A
+287.7859	2012	RXWL00000000	Pseudomonas aeruginosa strain MRSN12282	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN12282	N/A	Human	Human	Homo sapiens	N/A
+287.7860	2012	RXWO00000000	Pseudomonas aeruginosa strain MRSN11536	WGS	USA	wound	Pseudomonas aeruginosa	MRSN11536	N/A	Human	Human	Homo sapiens	N/A
+287.7861	2012	RXWP00000000	Pseudomonas aeruginosa strain MRSN11286	WGS	USA	wound	Pseudomonas aeruginosa	MRSN11286	N/A	Human	Human	Homo sapiens	N/A
+287.7862	2012	RXWM00000000	Pseudomonas aeruginosa strain MRSN11976	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN11976	N/A	Human	Human	Homo sapiens	N/A
+287.8027	2016	RXTY00000000	Pseudomonas aeruginosa strain MRSN401528	WGS	USA	urine	Pseudomonas aeruginosa	MRSN401528	N/A	Human	Human	Homo sapiens	N/A
+287.8028	2015	RXUC00000000	Pseudomonas aeruginosa strain MRSN369569	WGS	USA	N/A	Pseudomonas aeruginosa	MRSN369569	N/A	Human	Human	Homo sapiens	N/A
+287.8029	2010	RXUR00000000	Pseudomonas aeruginosa strain MRSN2144	WGS	USA	urine	Pseudomonas aeruginosa	MRSN2144	N/A	Human	Human	Homo sapiens	N/A
+287.8030	2013	RXVF00000000	Pseudomonas aeruginosa strain MRSN18855	WGS	USA	sterile tissue	Pseudomonas aeruginosa	MRSN18855	N/A	Human	Human	Homo sapiens	N/A
+287.8031	2011	RXUS00000000	Pseudomonas aeruginosa strain MRSN2108	WGS	USA	sterile tissue	Pseudomonas aeruginosa	MRSN2108	N/A	Human	Human	Homo sapiens	N/A
+287.8032	2013	RXVG00000000	Pseudomonas aeruginosa strain MRSN18803	WGS	USA	respiratory	Pseudomonas aeruginosa	MRSN18803	N/A	Human	Human	Homo sapiens	N/A
+287.8033	2010	RXUH00000000	Pseudomonas aeruginosa strain MRSN317	WGS	USA	wound	Pseudomonas aeruginosa	MRSN317	N/A	Human	Human	Homo sapiens	N/A
+287.8034	2013	RXVJ00000000	Pseudomonas aeruginosa strain MRSN18560	WGS	USA	wound	Pseudomonas aeruginosa	MRSN18560	N/A	Human	Human	Homo sapiens	N/A
+287.846	2004	JTMA00000000	Pseudomonas aeruginosa AZPAE15072	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE15072	Europe	Human	Human	Homo sapiens	N/A
+287.847	2004	JTMB00000000	Pseudomonas aeruginosa AZPAE15071	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15071	Europe	Human	Human	Homo sapiens	N/A
+287.848	2004	JTMC00000000	Pseudomonas aeruginosa AZPAE15070	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE15070	N/A	Human	Human	Homo sapiens	N/A
+287.8488	2015		Pseudomonas aeruginosa strain 115	WGS	USA	sputum	Pseudomonas aeruginosa	115	North America	Human	Human	Homo sapiens	Massachusetts
+287.849	2004	JTMD00000000	Pseudomonas aeruginosa AZPAE15069	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15069	N/A	Human	Human	Homo sapiens	N/A
+287.850	2004	JTME00000000	Pseudomonas aeruginosa AZPAE15068	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15068	Europe	Human	Human	Homo sapiens	N/A
+287.8500	2016		Pseudomonas aeruginosa strain 250	WGS	USA	sputum	Pseudomonas aeruginosa	250	North America	Human	Human	Homo sapiens	Massachusetts
+287.851	2004	JTMF00000000	Pseudomonas aeruginosa AZPAE15067	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15067	N/A	Human	Human	Homo sapiens	N/A
+287.8510	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0229	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0229	N/A	N/A	N/A	N/A	N/A
+287.8511	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0231	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0231	N/A	N/A	N/A	N/A	N/A
+287.8512	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0232	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0232	N/A	N/A	N/A	N/A	N/A
+287.8513	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0233	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0233	N/A	N/A	N/A	N/A	N/A
+287.8514	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0234	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0234	N/A	N/A	N/A	N/A	N/A
+287.8515	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0235	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0235	N/A	N/A	N/A	N/A	N/A
+287.8516	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0236	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0236	N/A	N/A	N/A	N/A	N/A
+287.8517	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0237	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0237	N/A	N/A	N/A	N/A	N/A
+287.8518	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0238	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0238	N/A	N/A	N/A	N/A	N/A
+287.8519	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0239	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0239	N/A	N/A	N/A	N/A	N/A
+287.852	2003	JTMG00000000	Pseudomonas aeruginosa AZPAE15066	WGS	Croatia	urinary tract infection	Pseudomonas aeruginosa	AZPAE15066	N/A	Human	Human	Homo sapiens	N/A
+287.8520	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0240	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0240	N/A	N/A	N/A	N/A	N/A
+287.8521	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0242	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0242	N/A	N/A	N/A	N/A	N/A
+287.8522	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0243	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0243	N/A	N/A	N/A	N/A	N/A
+287.8523	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0244	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0244	N/A	N/A	N/A	N/A	N/A
+287.8524	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0245	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0245	N/A	N/A	N/A	N/A	N/A
+287.8525	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0246	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0246	N/A	N/A	N/A	N/A	N/A
+287.8526	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0247	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0247	N/A	N/A	N/A	N/A	N/A
+287.8527	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0248	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0248	N/A	N/A	N/A	N/A	N/A
+287.8528	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0249	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0249	N/A	N/A	N/A	N/A	N/A
+287.8529	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0250	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0250	N/A	N/A	N/A	N/A	N/A
+287.853	2012	JTMH00000000	Pseudomonas aeruginosa AZPAE15065	WGS	Brazil	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15065	South America	Human	Human	Homo sapiens	N/A
+287.8530	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0251	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0251	N/A	N/A	N/A	N/A	N/A
+287.8531	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0252	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0252	N/A	N/A	N/A	N/A	N/A
+287.8532	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0253	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0253	N/A	N/A	N/A	N/A	N/A
+287.8533	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0254	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0254	N/A	N/A	N/A	N/A	N/A
+287.8534	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0255	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0255	N/A	N/A	N/A	N/A	N/A
+287.8535	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0256	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0256	N/A	N/A	N/A	N/A	N/A
+287.8536	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0257	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0257	N/A	N/A	N/A	N/A	N/A
+287.8537	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0258	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0258	N/A	N/A	N/A	N/A	N/A
+287.8538	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0260	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0260	N/A	N/A	N/A	N/A	N/A
+287.8539	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0259	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0259	N/A	N/A	N/A	N/A	N/A
+287.854	2012	JTMI00000000	Pseudomonas aeruginosa AZPAE15064	WGS	Brazil	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15064	South America	Human	Human	Homo sapiens	N/A
+287.8540	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0261	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0261	N/A	N/A	N/A	N/A	N/A
+287.8541	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0262	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0262	N/A	N/A	N/A	N/A	N/A
+287.8542	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0263	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0263	N/A	N/A	N/A	N/A	N/A
+287.8543	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0264	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0264	N/A	N/A	N/A	N/A	N/A
+287.8544	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0265	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0265	N/A	N/A	N/A	N/A	N/A
+287.8545	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0266	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0266	N/A	N/A	N/A	N/A	N/A
+287.8546	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0267	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0267	N/A	N/A	N/A	N/A	N/A
+287.8547	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0268	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0268	N/A	N/A	N/A	N/A	N/A
+287.8548	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0269	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0269	N/A	N/A	N/A	N/A	N/A
+287.8549	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0270	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0270	N/A	N/A	N/A	N/A	N/A
+287.855	2012	JTMJ00000000	Pseudomonas aeruginosa AZPAE15063	WGS	Brazil	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15063	N/A	Human	Human	Homo sapiens	N/A
+287.8550	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0271	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0271	N/A	N/A	N/A	N/A	N/A
+287.8551	N/A		Pseudomonas aeruginosa strain FDA-CDC-AR_0272	WGS	N/A	N/A	Pseudomonas aeruginosa	FDA-CDC-AR_0272	N/A	N/A	N/A	N/A	N/A
+287.856	2012	JTMK00000000	Pseudomonas aeruginosa AZPAE15062	WGS	Brazil	urinary tract infection	Pseudomonas aeruginosa	AZPAE15062	South America	Human	Human	Homo sapiens	N/A
+287.857	2012	JTML00000000	Pseudomonas aeruginosa AZPAE15061	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE15061	Europe	Human	Human	Homo sapiens	N/A
+287.858	2012	JTMM00000000	Pseudomonas aeruginosa AZPAE15060	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE15060	N/A	Human	Human	Homo sapiens	N/A
+287.859	2012	JTMN00000000	Pseudomonas aeruginosa AZPAE15059	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15059	N/A	Human	Human	Homo sapiens	N/A
+287.860	2012	JTMO00000000	Pseudomonas aeruginosa AZPAE15058	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15058	N/A	Human	Human	Homo sapiens	N/A
+287.861	2012	JTMP00000000	Pseudomonas aeruginosa AZPAE15057	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15057	Asia	Human	Human	Homo sapiens	N/A
+287.862	2012	JTMQ00000000	Pseudomonas aeruginosa AZPAE15056	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15056	Asia	Human	Human	Homo sapiens	N/A
+287.863	2012	JTMR00000000	Pseudomonas aeruginosa AZPAE15055	WGS	Colombia	urinary tract infection	Pseudomonas aeruginosa	AZPAE15055	South America	Human	Human	Homo sapiens	N/A
+287.864	2012	JTMS00000000	Pseudomonas aeruginosa AZPAE15054	WGS	Colombia	urinary tract infection	Pseudomonas aeruginosa	AZPAE15054	N/A	Human	Human	Homo sapiens	N/A
+287.865	2012	JTMT00000000	Pseudomonas aeruginosa AZPAE15053	WGS	Argentina	urinary tract infection	Pseudomonas aeruginosa	AZPAE15053	South America	Human	Human	Homo sapiens	N/A
+287.866	2012	JTMU00000000	Pseudomonas aeruginosa AZPAE15052	WGS	Argentina	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15052	South America	Human	Human	Homo sapiens	N/A
+287.867	2012	JTMV00000000	Pseudomonas aeruginosa AZPAE15051	WGS	Hong Kong	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15051	Asia	Human	Human	Homo sapiens	N/A
+287.868	2012	JTMW00000000	Pseudomonas aeruginosa AZPAE15050	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15050	Asia	Human	Human	Homo sapiens	N/A
+287.869	2012	JTMX00000000	Pseudomonas aeruginosa AZPAE15049	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE15049	N/A	Human	Human	Homo sapiens	N/A
+287.870	2012	JTMY00000000	Pseudomonas aeruginosa AZPAE15048	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE15048	Europe	Human	Human	Homo sapiens	N/A
+287.871	2012	JTMZ00000000	Pseudomonas aeruginosa AZPAE15047	WGS	Argentina	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15047	N/A	Human	Human	Homo sapiens	N/A
+287.872	2012	JTNA00000000	Pseudomonas aeruginosa AZPAE15046	WGS	Argentina	urinary tract infection	Pseudomonas aeruginosa	AZPAE15046	South America	Human	Human	Homo sapiens	N/A
+287.873	2011	JTNB00000000	Pseudomonas aeruginosa AZPAE15045	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE15045	Europe	Human	Human	Homo sapiens	N/A
+287.874	2012	JTNC00000000	Pseudomonas aeruginosa AZPAE15044	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15044	Europe	Human	Human	Homo sapiens	N/A
+287.875	2012	JTND00000000	Pseudomonas aeruginosa AZPAE15043	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15043	N/A	Human	Human	Homo sapiens	N/A
+287.876	2012	JTNE00000000	Pseudomonas aeruginosa AZPAE15042	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE15042	Europe	Human	Human	Homo sapiens	N/A
+287.877	2012	JTNF00000000	Pseudomonas aeruginosa AZPAE15041	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE15041	Europe	Human	Human	Homo sapiens	N/A
+287.878	2012	JTNG00000000	Pseudomonas aeruginosa AZPAE15040	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15040	Europe	Human	Human	Homo sapiens	N/A
+287.879	2012	JTNH00000000	Pseudomonas aeruginosa AZPAE15039	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE15039	N/A	Human	Human	Homo sapiens	N/A
+287.880	2012	JTNI00000000	Pseudomonas aeruginosa AZPAE15038	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15038	N/A	Human	Human	Homo sapiens	N/A
+287.881	2012	JTNJ00000000	Pseudomonas aeruginosa AZPAE15037	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15037	N/A	Human	Human	Homo sapiens	N/A
+287.882	2012	JTNK00000000	Pseudomonas aeruginosa AZPAE15036	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15036	Asia	Human	Human	Homo sapiens	N/A
+287.883	2011	JTNL00000000	Pseudomonas aeruginosa AZPAE15035	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15035	N/A	Human	Human	Homo sapiens	N/A
+287.884	2011	JTNM00000000	Pseudomonas aeruginosa AZPAE15034	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15034	N/A	Human	Human	Homo sapiens	N/A
+287.885	2011	JTNN00000000	Pseudomonas aeruginosa AZPAE15033	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15033	Europe	Human	Human	Homo sapiens	N/A
+287.886	2011	JTNO00000000	Pseudomonas aeruginosa AZPAE15032	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15032	Europe	Human	Human	Homo sapiens	N/A
+287.887	2011	JTNP00000000	Pseudomonas aeruginosa AZPAE15031	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15031	N/A	Human	Human	Homo sapiens	N/A
+287.8875	N/A	JYGB00000000	Pseudomonas aeruginosa strain MRSN 17623	WGS	USA	N/A	Pseudomonas aeruginosa	MRSN 17623	North America	Human	Human	Homo sapiens	N/A
+287.888	2011	JTNQ00000000	Pseudomonas aeruginosa AZPAE15030	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15030	Europe	Human	Human	Homo sapiens	N/A
+287.8884	N/A	MPBT00000000	Pseudomonas aeruginosa strain AR_0090	WGS	N/A	N/A	Pseudomonas aeruginosa	AR_0090	N/A	N/A	N/A	N/A	N/A
+287.889	2011	JTNR00000000	Pseudomonas aeruginosa AZPAE15029	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15029	N/A	Human	Human	Homo sapiens	N/A
+287.890	2011	JTNS00000000	Pseudomonas aeruginosa AZPAE15028	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15028	Europe	Human	Human	Homo sapiens	N/A
+287.891	2011	JTNT00000000	Pseudomonas aeruginosa AZPAE15027	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE15027	Europe	Human	Human	Homo sapiens	N/A
+287.892	2011	JTNU00000000	Pseudomonas aeruginosa AZPAE15026	WGS	Colombia	urinary tract infection	Pseudomonas aeruginosa	AZPAE15026	South America	Human	Human	Homo sapiens	N/A
+287.893	2011	JTNV00000000	Pseudomonas aeruginosa AZPAE15025	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE15025	Europe	Human	Human	Homo sapiens	N/A
+287.894	2011	JTNW00000000	Pseudomonas aeruginosa AZPAE15024	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15024	Europe	Human	Human	Homo sapiens	N/A
+287.895	2011	JTNX00000000	Pseudomonas aeruginosa AZPAE15023	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15023	Europe	Human	Human	Homo sapiens	N/A
+287.896	2011	JTNY00000000	Pseudomonas aeruginosa AZPAE15022	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE15022	Europe	Human	Human	Homo sapiens	N/A
+287.897	2011	JTNZ00000000	Pseudomonas aeruginosa AZPAE15021	WGS	Argentina	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15021	N/A	Human	Human	Homo sapiens	N/A
+287.898	2010	JTOA00000000	Pseudomonas aeruginosa AZPAE15020	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15020	Europe	Human	Human	Homo sapiens	N/A
+287.899	2010	JTOB00000000	Pseudomonas aeruginosa AZPAE15019	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15019	N/A	Human	Human	Homo sapiens	N/A
+287.900	2011	JTOC00000000	Pseudomonas aeruginosa AZPAE15018	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15018	North America	Human	Human	Homo sapiens	N/A
+287.901	2011	JTOD00000000	Pseudomonas aeruginosa AZPAE15017	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15017	North America	Human	Human	Homo sapiens	N/A
+287.902	2011	JTOE00000000	Pseudomonas aeruginosa AZPAE15016	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE15016	North America	Human	Human	Homo sapiens	N/A
+287.903	2011	JTOF00000000	Pseudomonas aeruginosa AZPAE15015	WGS	Germany	urinary tract infection	Pseudomonas aeruginosa	AZPAE15015	N/A	Human	Human	Homo sapiens	N/A
+287.904	2011	JTOG00000000	Pseudomonas aeruginosa AZPAE15014	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15014	Europe	Human	Human	Homo sapiens	N/A
+287.905	2011	JTOH00000000	Pseudomonas aeruginosa AZPAE15013	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15013	N/A	Human	Human	Homo sapiens	N/A
+287.906	2011	JTOI00000000	Pseudomonas aeruginosa AZPAE15012	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15012	Europe	Human	Human	Homo sapiens	N/A
+287.907	2010	JTOJ00000000	Pseudomonas aeruginosa AZPAE15011	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15011	Europe	Human	Human	Homo sapiens	N/A
+287.908	2010	JTOK00000000	Pseudomonas aeruginosa AZPAE15010	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15010	N/A	Human	Human	Homo sapiens	N/A
+287.909	2010	JTOL00000000	Pseudomonas aeruginosa AZPAE15009	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15009	N/A	Human	Human	Homo sapiens	N/A
+287.910	2010	JTOM00000000	Pseudomonas aeruginosa AZPAE15008	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE15008	Europe	Human	Human	Homo sapiens	N/A
+287.911	2010	JTON00000000	Pseudomonas aeruginosa AZPAE15007	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE15007	N/A	Human	Human	Homo sapiens	N/A
+287.912	2011	JTOO00000000	Pseudomonas aeruginosa AZPAE15006	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15006	N/A	Human	Human	Homo sapiens	N/A
+287.913	2011	JTOP00000000	Pseudomonas aeruginosa AZPAE15005	WGS	USA	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15005	N/A	Human	Human	Homo sapiens	N/A
+287.914	2011	JTOQ00000000	Pseudomonas aeruginosa AZPAE15004	WGS	Colombia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15004	South America	Human	Human	Homo sapiens	N/A
+287.915	2011	JTOR00000000	Pseudomonas aeruginosa AZPAE15003	WGS	Colombia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE15003	N/A	Human	Human	Homo sapiens	N/A
+287.916	2010	JTOS00000000	Pseudomonas aeruginosa AZPAE15002	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15002	N/A	Human	Human	Homo sapiens	N/A
+287.917	2011	JTOT00000000	Pseudomonas aeruginosa AZPAE15001	WGS	Colombia	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE15001	South America	Human	Human	Homo sapiens	N/A
+287.918	2010	JTOU00000000	Pseudomonas aeruginosa AZPAE15000	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE15000	N/A	Human	Human	Homo sapiens	N/A
+287.919	2010	JTOV00000000	Pseudomonas aeruginosa AZPAE14999	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14999	Europe	Human	Human	Homo sapiens	N/A
+287.920	2010	JTOW00000000	Pseudomonas aeruginosa AZPAE14998	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE14998	N/A	Human	Human	Homo sapiens	N/A
+287.921	2010	JTOX00000000	Pseudomonas aeruginosa AZPAE14997	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE14997	N/A	Human	Human	Homo sapiens	N/A
+287.922	2010	JTOY00000000	Pseudomonas aeruginosa AZPAE14996	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14996	Europe	Human	Human	Homo sapiens	N/A
+287.923	2010	JTOZ00000000	Pseudomonas aeruginosa AZPAE14995	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14995	Europe	Human	Human	Homo sapiens	N/A
+287.924	2010	JTPA00000000	Pseudomonas aeruginosa AZPAE14994	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14994	Europe	Human	Human	Homo sapiens	N/A
+287.925	2010	JTPB00000000	Pseudomonas aeruginosa AZPAE14993	WGS	Spain	urinary tract infection	Pseudomonas aeruginosa	AZPAE14993	Europe	Human	Human	Homo sapiens	N/A
+287.926	2010	JTPC00000000	Pseudomonas aeruginosa AZPAE14992	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14992	Europe	Human	Human	Homo sapiens	N/A
+287.927	2010	JTPD00000000	Pseudomonas aeruginosa AZPAE14991	WGS	Spain	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14991	N/A	Human	Human	Homo sapiens	N/A
+287.928	2010	JTPE00000000	Pseudomonas aeruginosa AZPAE14990	WGS	Hong Kong	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14990	Asia	Human	Human	Homo sapiens	N/A
+287.929	2010	JTPF00000000	Pseudomonas aeruginosa AZPAE14989	WGS	Hong Kong	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14989	Asia	Human	Human	Homo sapiens	N/A
+287.930	2010	JTPG00000000	Pseudomonas aeruginosa AZPAE14988	WGS	China	urinary tract infection	Pseudomonas aeruginosa	AZPAE14988	Asia	Human	Human	Homo sapiens	N/A
+287.931	2010	JTPH00000000	Pseudomonas aeruginosa AZPAE14987	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14987	N/A	Human	Human	Homo sapiens	N/A
+287.932	2010	JTPI00000000	Pseudomonas aeruginosa AZPAE14986	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14986	Asia	Human	Human	Homo sapiens	N/A
+287.933	2010	JTPJ00000000	Pseudomonas aeruginosa AZPAE14985	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14985	Asia	Human	Human	Homo sapiens	N/A
+287.934	2010	JTPK00000000	Pseudomonas aeruginosa AZPAE14984	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE14984	N/A	Human	Human	Homo sapiens	N/A
+287.951	2010	JTPL00000000	Pseudomonas aeruginosa AZPAE14983	WGS	Croatia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14983	N/A	Human	Human	Homo sapiens	N/A
+287.952	2010	JTPM00000000	Pseudomonas aeruginosa AZPAE14982	WGS	Croatia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14982	Europe	Human	Human	Homo sapiens	N/A
+287.953	2010	JTPN00000000	Pseudomonas aeruginosa AZPAE14981	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE14981	Europe	Human	Human	Homo sapiens	N/A
+287.954	2010	JTPO00000000	Pseudomonas aeruginosa AZPAE14980	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14980	North America	Human	Human	Homo sapiens	N/A
+287.955	2010	JTPP00000000	Pseudomonas aeruginosa AZPAE14979	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE14979	N/A	Human	Human	Homo sapiens	N/A
+287.956	2010	JTPQ00000000	Pseudomonas aeruginosa AZPAE14978	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE14978	N/A	Human	Human	Homo sapiens	N/A
+287.957	2010	JTPR00000000	Pseudomonas aeruginosa AZPAE14977	WGS	China	urinary tract infection	Pseudomonas aeruginosa	AZPAE14977	Asia	Human	Human	Homo sapiens	N/A
+287.958	2010	JTPS00000000	Pseudomonas aeruginosa AZPAE14976	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14976	Asia	Human	Human	Homo sapiens	N/A
+287.959	2010	JTPT00000000	Pseudomonas aeruginosa AZPAE14975	WGS	China	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14975	Asia	Human	Human	Homo sapiens	N/A
+287.960	2010	JTPU00000000	Pseudomonas aeruginosa AZPAE14974	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14974	N/A	Human	Human	Homo sapiens	N/A
+287.961	2010	JTPV00000000	Pseudomonas aeruginosa AZPAE14973	WGS	Germany	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14973	N/A	Human	Human	Homo sapiens	N/A
+287.962	2010	JTPW00000000	Pseudomonas aeruginosa AZPAE14972	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14972	Europe	Human	Human	Homo sapiens	N/A
+287.963	2010	JTPX00000000	Pseudomonas aeruginosa AZPAE14971	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14971	Asia	Human	Human	Homo sapiens	N/A
+287.964	2010	JTPY00000000	Pseudomonas aeruginosa AZPAE14970	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14970	N/A	Human	Human	Homo sapiens	N/A
+287.965	2010	JTPZ00000000	Pseudomonas aeruginosa AZPAE14969	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14969	N/A	Human	Human	Homo sapiens	N/A
+287.966	2009	JTQA00000000	Pseudomonas aeruginosa AZPAE14968	WGS	Croatia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14968	N/A	Human	Human	Homo sapiens	N/A
+287.967	2009	JTQB00000000	Pseudomonas aeruginosa AZPAE14967	WGS	Croatia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14967	Europe	Human	Human	Homo sapiens	N/A
+287.968	2009	JTQC00000000	Pseudomonas aeruginosa AZPAE14965	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14965	Europe	Human	Human	Homo sapiens	N/A
+287.969	2009	JTQD00000000	Pseudomonas aeruginosa AZPAE14964	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14964	Europe	Human	Human	Homo sapiens	N/A
+287.970	2009	JTQE00000000	Pseudomonas aeruginosa AZPAE14963	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14963	Europe	Human	Human	Homo sapiens	N/A
+287.971	2009	JTQF00000000	Pseudomonas aeruginosa AZPAE14962	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14962	Europe	Human	Human	Homo sapiens	N/A
+287.972	2009	JTQG00000000	Pseudomonas aeruginosa AZPAE14961	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14961	N/A	Human	Human	Homo sapiens	N/A
+287.973	2009	JTQH00000000	Pseudomonas aeruginosa AZPAE14960	WGS	Spain	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14960	Europe	Human	Human	Homo sapiens	N/A
+287.974	2009	JTQI00000000	Pseudomonas aeruginosa AZPAE14959	WGS	India	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14959	Asia	Human	Human	Homo sapiens	N/A
+287.975	2009	JTQJ00000000	Pseudomonas aeruginosa AZPAE14958	WGS	India	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14958	Asia	Human	Human	Homo sapiens	N/A
+287.976	2009	JTQK00000000	Pseudomonas aeruginosa AZPAE14957	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14957	Europe	Human	Human	Homo sapiens	N/A
+287.977	2009	JTQL00000000	Pseudomonas aeruginosa AZPAE14956	WGS	Germany	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14956	Europe	Human	Human	Homo sapiens	N/A
+287.978	2009	JTQM00000000	Pseudomonas aeruginosa AZPAE14955	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14955	Europe	Human	Human	Homo sapiens	N/A
+287.979	2009	JTQN00000000	Pseudomonas aeruginosa AZPAE14954	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14954	Europe	Human	Human	Homo sapiens	N/A
+287.980	2009	JTQO00000000	Pseudomonas aeruginosa AZPAE14953	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14953	N/A	Human	Human	Homo sapiens	N/A
+287.981	2009	JTQP00000000	Pseudomonas aeruginosa AZPAE14952	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14952	Asia	Human	Human	Homo sapiens	N/A
+287.982	2009	JTQQ00000000	Pseudomonas aeruginosa AZPAE14951	WGS	Argentina	urinary tract infection	Pseudomonas aeruginosa	AZPAE14951	South America	Human	Human	Homo sapiens	N/A
+287.983	2009	JTQR00000000	Pseudomonas aeruginosa AZPAE14950	WGS	Argentina	urinary tract infection	Pseudomonas aeruginosa	AZPAE14950	South America	Human	Human	Homo sapiens	N/A
+287.984	2009	JTQS00000000	Pseudomonas aeruginosa AZPAE14949	WGS	Argentina	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14949	N/A	Human	Human	Homo sapiens	N/A
+287.985	2009	JTQT00000000	Pseudomonas aeruginosa AZPAE14948	WGS	Argentina	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14948	South America	Human	Human	Homo sapiens	N/A
+287.986	2009	JTQU00000000	Pseudomonas aeruginosa AZPAE14947	WGS	China	urinary tract infection	Pseudomonas aeruginosa	AZPAE14947	Asia	Human	Human	Homo sapiens	N/A
+287.987	2009	JTQV00000000	Pseudomonas aeruginosa AZPAE14946	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE14946	North America	Human	Human	Homo sapiens	N/A
+287.988	2009	JTQW00000000	Pseudomonas aeruginosa AZPAE14945	WGS	USA	urinary tract infection	Pseudomonas aeruginosa	AZPAE14945	N/A	Human	Human	Homo sapiens	N/A
+287.989	2009	JTQX00000000	Pseudomonas aeruginosa AZPAE14944	WGS	USA	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14944	North America	Human	Human	Homo sapiens	N/A
+287.990	2009	JTQY00000000	Pseudomonas aeruginosa AZPAE14943	WGS	Colombia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14943	South America	Human	Human	Homo sapiens	N/A
+287.991	2009	JTQZ00000000	Pseudomonas aeruginosa AZPAE14942	WGS	Hong Kong	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14942	Asia	Human	Human	Homo sapiens	N/A
+287.992	2009	JTRA00000000	Pseudomonas aeruginosa AZPAE14941	WGS	China	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14941	Asia	Human	Human	Homo sapiens	N/A
+287.993	2009	JTRB00000000	Pseudomonas aeruginosa AZPAE14940	WGS	France	urinary tract infection	Pseudomonas aeruginosa	AZPAE14940	N/A	Human	Human	Homo sapiens	N/A
+287.994	2009	JTRC00000000	Pseudomonas aeruginosa AZPAE14939	WGS	Colombia	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14939	South America	Human	Human	Homo sapiens	N/A
+287.995	2008	JTRD00000000	Pseudomonas aeruginosa AZPAE14938	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14938	N/A	Human	Human	Homo sapiens	N/A
+287.996	2008	JTRE00000000	Pseudomonas aeruginosa AZPAE14937	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14937	Europe	Human	Human	Homo sapiens	N/A
+287.997	2008	JTRF00000000	Pseudomonas aeruginosa AZPAE14936	WGS	Brazil	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14936	South America	Human	Human	Homo sapiens	N/A
+287.998	2008	JTRG00000000	Pseudomonas aeruginosa AZPAE14935	WGS	France	respiratory tract infection	Pseudomonas aeruginosa	AZPAE14935	Europe	Human	Human	Homo sapiens	N/A
+287.999	2009	JTRH00000000	Pseudomonas aeruginosa AZPAE14934	WGS	France	itra-abdominal tract infection	Pseudomonas aeruginosa	AZPAE14934	Europe	Human	Human	Homo sapiens	N/A
