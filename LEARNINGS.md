@@ -14,4 +14,12 @@ To choose parameters that need to be tweaked in models (such as λ) without touc
 - HC5: genomes are grouped using a threshold of 5 allele differences.
 - HC50: the threshold is 50 allele differences.
 - HC200: the threshold is 200 allele differences.
-5. 
+5. Understanding HierCC like a beginner:
+Think of it like Russian nesting dolls or addresses; If two genomes share a cluster at HC5, they must share a cluster at HC50,further at HC200, etc.
+
+ Level                   | Example          | Contains                   
+------------------------ |------------------|---------------------------
+ Low cutoff (HC5)        | "Apartment 3B"   | Just you                   
+ Higher cutoff (HC50)    | "Building 3"     | You + neighbors in 3A, 3C  
+ Even higher (HC200)     | "Main Street"    | Whole street               
+ Highest (HC1000)        | "New York City"  | Millions of people         
