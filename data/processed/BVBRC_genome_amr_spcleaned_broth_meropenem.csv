@@ -1,0 +1,916 @@
+Taxon ID,Genome ID,Genome Name,Antibiotic,Resistant Phenotype,Measurement,Measurement Sign,Measurement Value,Measurement Unit,Laboratory Typing Method,Laboratory Typing Method Version,Laboratory Typing Platform,Vendor,Testing Standard,Testing Standard Year,Computational Method,Computational Method Version,Computational Method Performance,Evidence,Source,PubMed
+287,287.34439,Pseudomonas aeruginosa 1D-240,meropenem,,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34434,Pseudomonas aeruginosa 1D-241,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34444,Pseudomonas aeruginosa 1D-242,meropenem,,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34825,Pseudomonas aeruginosa 1D-243,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34437,Pseudomonas aeruginosa 1D-244,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34433,Pseudomonas aeruginosa 1D-245,meropenem,,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34824,Pseudomonas aeruginosa 1D-246,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34823,Pseudomonas aeruginosa 1D-247,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34822,Pseudomonas aeruginosa 1D-248,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34446,Pseudomonas aeruginosa 1D-249,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34438,Pseudomonas aeruginosa 1D-250,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34445,Pseudomonas aeruginosa 1D-251,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34826,Pseudomonas aeruginosa 1D-252,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34443,Pseudomonas aeruginosa 1D-253,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34442,Pseudomonas aeruginosa 1D-254,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34830,Pseudomonas aeruginosa 1D-255,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34441,Pseudomonas aeruginosa 1D-256,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34436,Pseudomonas aeruginosa 1D-257,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34828,Pseudomonas aeruginosa 1D-258,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34432,Pseudomonas aeruginosa 1D-259,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.34440,Pseudomonas aeruginosa 1D-492,meropenem,,<=1,<=,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,EUCAST,2017,,,,Laboratory Method,,35756053
+287,287.1301,Pseudomonas aeruginosa AZPAE12135,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1250,Pseudomonas aeruginosa AZPAE12136,meropenem,Susceptible,0.015,,0.015,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1249,Pseudomonas aeruginosa AZPAE12137,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1248,Pseudomonas aeruginosa AZPAE12138,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1247,Pseudomonas aeruginosa AZPAE12140,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1246,Pseudomonas aeruginosa AZPAE12142,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1245,Pseudomonas aeruginosa AZPAE12143,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1243,Pseudomonas aeruginosa AZPAE12145,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1242,Pseudomonas aeruginosa AZPAE12146,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1241,Pseudomonas aeruginosa AZPAE12147,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1240,Pseudomonas aeruginosa AZPAE12148,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1239,Pseudomonas aeruginosa AZPAE12149,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1238,Pseudomonas aeruginosa AZPAE12150,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1237,Pseudomonas aeruginosa AZPAE12151,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1235,Pseudomonas aeruginosa AZPAE12153,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1234,Pseudomonas aeruginosa AZPAE12154,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1233,Pseudomonas aeruginosa AZPAE12155,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1232,Pseudomonas aeruginosa AZPAE12156,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1231,Pseudomonas aeruginosa AZPAE12409,meropenem,Susceptible,0.03,,0.03,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1230,Pseudomonas aeruginosa AZPAE12410,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1229,Pseudomonas aeruginosa AZPAE12411,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1228,Pseudomonas aeruginosa AZPAE12412,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1227,Pseudomonas aeruginosa AZPAE12413,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1226,Pseudomonas aeruginosa AZPAE12414,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1225,Pseudomonas aeruginosa AZPAE12415,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1224,Pseudomonas aeruginosa AZPAE12416,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1223,Pseudomonas aeruginosa AZPAE12417,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1222,Pseudomonas aeruginosa AZPAE12418,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1221,Pseudomonas aeruginosa AZPAE12419,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1220,Pseudomonas aeruginosa AZPAE12420,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1219,Pseudomonas aeruginosa AZPAE12421,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1218,Pseudomonas aeruginosa AZPAE12422,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1217,Pseudomonas aeruginosa AZPAE12423,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1216,Pseudomonas aeruginosa AZPAE13756,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1215,Pseudomonas aeruginosa AZPAE13757,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1214,Pseudomonas aeruginosa AZPAE13848,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1213,Pseudomonas aeruginosa AZPAE13850,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1212,Pseudomonas aeruginosa AZPAE13853,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1211,Pseudomonas aeruginosa AZPAE13856,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1210,Pseudomonas aeruginosa AZPAE13858,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1209,Pseudomonas aeruginosa AZPAE13860,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1208,Pseudomonas aeruginosa AZPAE13864,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1207,Pseudomonas aeruginosa AZPAE13866,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1206,Pseudomonas aeruginosa AZPAE13872,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1205,Pseudomonas aeruginosa AZPAE13876,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1204,Pseudomonas aeruginosa AZPAE13877,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1203,Pseudomonas aeruginosa AZPAE13879,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1202,Pseudomonas aeruginosa AZPAE13880,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1201,Pseudomonas aeruginosa AZPAE14352,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1200,Pseudomonas aeruginosa AZPAE14353,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1199,Pseudomonas aeruginosa AZPAE14359,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1198,Pseudomonas aeruginosa AZPAE14372,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1197,Pseudomonas aeruginosa AZPAE14373,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1196,Pseudomonas aeruginosa AZPAE14379,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1195,Pseudomonas aeruginosa AZPAE14381,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1194,Pseudomonas aeruginosa AZPAE14390,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1193,Pseudomonas aeruginosa AZPAE14393,meropenem,Susceptible,0.125,,0.125,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1192,Pseudomonas aeruginosa AZPAE14394,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1191,Pseudomonas aeruginosa AZPAE14395,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1190,Pseudomonas aeruginosa AZPAE14398,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1189,Pseudomonas aeruginosa AZPAE14402,meropenem,Susceptible,0.03,,0.03,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1188,Pseudomonas aeruginosa AZPAE14403,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1187,Pseudomonas aeruginosa AZPAE14404,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1186,Pseudomonas aeruginosa AZPAE14410,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1185,Pseudomonas aeruginosa AZPAE14415,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1184,Pseudomonas aeruginosa AZPAE14422,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1183,Pseudomonas aeruginosa AZPAE14437,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1182,Pseudomonas aeruginosa AZPAE14441,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1181,Pseudomonas aeruginosa AZPAE14442,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1180,Pseudomonas aeruginosa AZPAE14443,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1179,Pseudomonas aeruginosa AZPAE14453,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1178,Pseudomonas aeruginosa AZPAE14463,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1177,Pseudomonas aeruginosa AZPAE14499,meropenem,Susceptible,0.125,,0.125,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1176,Pseudomonas aeruginosa AZPAE14505,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1175,Pseudomonas aeruginosa AZPAE14509,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1174,Pseudomonas aeruginosa AZPAE14526,meropenem,Susceptible,0.125,,0.125,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1173,Pseudomonas aeruginosa AZPAE14533,meropenem,Susceptible,0.125,,0.125,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1172,Pseudomonas aeruginosa AZPAE14535,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1171,Pseudomonas aeruginosa AZPAE14538,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1170,Pseudomonas aeruginosa AZPAE14550,meropenem,Susceptible,0.125,,0.125,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1169,Pseudomonas aeruginosa AZPAE14554,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1168,Pseudomonas aeruginosa AZPAE14557,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1167,Pseudomonas aeruginosa AZPAE14566,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1166,Pseudomonas aeruginosa AZPAE14570,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1165,Pseudomonas aeruginosa AZPAE14687,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1164,Pseudomonas aeruginosa AZPAE14688,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1163,Pseudomonas aeruginosa AZPAE14689,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1162,Pseudomonas aeruginosa AZPAE14690,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1161,Pseudomonas aeruginosa AZPAE14691,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1160,Pseudomonas aeruginosa AZPAE14692,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1159,Pseudomonas aeruginosa AZPAE14693,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1158,Pseudomonas aeruginosa AZPAE14694,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1157,Pseudomonas aeruginosa AZPAE14695,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1156,Pseudomonas aeruginosa AZPAE14697,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1155,Pseudomonas aeruginosa AZPAE14698,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1154,Pseudomonas aeruginosa AZPAE14699,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1153,Pseudomonas aeruginosa AZPAE14700,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1152,Pseudomonas aeruginosa AZPAE14701,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1151,Pseudomonas aeruginosa AZPAE14702,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1150,Pseudomonas aeruginosa AZPAE14703,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1149,Pseudomonas aeruginosa AZPAE14704,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1148,Pseudomonas aeruginosa AZPAE14705,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1147,Pseudomonas aeruginosa AZPAE14706,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1146,Pseudomonas aeruginosa AZPAE14707,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1145,Pseudomonas aeruginosa AZPAE14708,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1144,Pseudomonas aeruginosa AZPAE14710,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1143,Pseudomonas aeruginosa AZPAE14711,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1142,Pseudomonas aeruginosa AZPAE14712,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1141,Pseudomonas aeruginosa AZPAE14713,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1140,Pseudomonas aeruginosa AZPAE14714,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1139,Pseudomonas aeruginosa AZPAE14715,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1138,Pseudomonas aeruginosa AZPAE14716,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1137,Pseudomonas aeruginosa AZPAE14717,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1136,Pseudomonas aeruginosa AZPAE14718,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1135,Pseudomonas aeruginosa AZPAE14719,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1134,Pseudomonas aeruginosa AZPAE14720,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1133,Pseudomonas aeruginosa AZPAE14721,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1132,Pseudomonas aeruginosa AZPAE14722,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1131,Pseudomonas aeruginosa AZPAE14723,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1130,Pseudomonas aeruginosa AZPAE14724,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1129,Pseudomonas aeruginosa AZPAE14725,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1128,Pseudomonas aeruginosa AZPAE14726,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1127,Pseudomonas aeruginosa AZPAE14727,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1126,Pseudomonas aeruginosa AZPAE14728,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1125,Pseudomonas aeruginosa AZPAE14729,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1124,Pseudomonas aeruginosa AZPAE14730,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1123,Pseudomonas aeruginosa AZPAE14731,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1122,Pseudomonas aeruginosa AZPAE14732,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1121,Pseudomonas aeruginosa AZPAE14809,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1120,Pseudomonas aeruginosa AZPAE14810,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1119,Pseudomonas aeruginosa AZPAE14811,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1118,Pseudomonas aeruginosa AZPAE14812,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1117,Pseudomonas aeruginosa AZPAE14813,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1116,Pseudomonas aeruginosa AZPAE14814,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1115,Pseudomonas aeruginosa AZPAE14815,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1114,Pseudomonas aeruginosa AZPAE14816,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1113,Pseudomonas aeruginosa AZPAE14817,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1112,Pseudomonas aeruginosa AZPAE14818,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1111,Pseudomonas aeruginosa AZPAE14819,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1110,Pseudomonas aeruginosa AZPAE14820,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1109,Pseudomonas aeruginosa AZPAE14821,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1108,Pseudomonas aeruginosa AZPAE14822,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1107,Pseudomonas aeruginosa AZPAE14823,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1106,Pseudomonas aeruginosa AZPAE14824,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1105,Pseudomonas aeruginosa AZPAE14825,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1104,Pseudomonas aeruginosa AZPAE14826,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1103,Pseudomonas aeruginosa AZPAE14827,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1102,Pseudomonas aeruginosa AZPAE14828,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1101,Pseudomonas aeruginosa AZPAE14829,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1100,Pseudomonas aeruginosa AZPAE14830,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1099,Pseudomonas aeruginosa AZPAE14831,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1098,Pseudomonas aeruginosa AZPAE14832,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1097,Pseudomonas aeruginosa AZPAE14833,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1096,Pseudomonas aeruginosa AZPAE14834,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1095,Pseudomonas aeruginosa AZPAE14835,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1094,Pseudomonas aeruginosa AZPAE14836,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1093,Pseudomonas aeruginosa AZPAE14837,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1092,Pseudomonas aeruginosa AZPAE14838,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1091,Pseudomonas aeruginosa AZPAE14839,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1090,Pseudomonas aeruginosa AZPAE14840,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1089,Pseudomonas aeruginosa AZPAE14841,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1088,Pseudomonas aeruginosa AZPAE14842,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1087,Pseudomonas aeruginosa AZPAE14843,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1086,Pseudomonas aeruginosa AZPAE14844,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1085,Pseudomonas aeruginosa AZPAE14845,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1084,Pseudomonas aeruginosa AZPAE14846,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1083,Pseudomonas aeruginosa AZPAE14847,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1082,Pseudomonas aeruginosa AZPAE14848,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1081,Pseudomonas aeruginosa AZPAE14850,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1080,Pseudomonas aeruginosa AZPAE14851,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1079,Pseudomonas aeruginosa AZPAE14852,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1078,Pseudomonas aeruginosa AZPAE14853,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1077,Pseudomonas aeruginosa AZPAE14855,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1076,Pseudomonas aeruginosa AZPAE14856,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1075,Pseudomonas aeruginosa AZPAE14857,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1074,Pseudomonas aeruginosa AZPAE14858,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1073,Pseudomonas aeruginosa AZPAE14859,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1072,Pseudomonas aeruginosa AZPAE14860,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1071,Pseudomonas aeruginosa AZPAE14861,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1070,Pseudomonas aeruginosa AZPAE14862,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1069,Pseudomonas aeruginosa AZPAE14863,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1068,Pseudomonas aeruginosa AZPAE14864,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1067,Pseudomonas aeruginosa AZPAE14865,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1066,Pseudomonas aeruginosa AZPAE14866,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1065,Pseudomonas aeruginosa AZPAE14867,meropenem,Susceptible,0.03,,0.03,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1064,Pseudomonas aeruginosa AZPAE14868,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1063,Pseudomonas aeruginosa AZPAE14869,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1062,Pseudomonas aeruginosa AZPAE14870,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1061,Pseudomonas aeruginosa AZPAE14871,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1060,Pseudomonas aeruginosa AZPAE14872,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1059,Pseudomonas aeruginosa AZPAE14873,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1058,Pseudomonas aeruginosa AZPAE14874,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1057,Pseudomonas aeruginosa AZPAE14875,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1056,Pseudomonas aeruginosa AZPAE14876,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1055,Pseudomonas aeruginosa AZPAE14877,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1054,Pseudomonas aeruginosa AZPAE14878,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1053,Pseudomonas aeruginosa AZPAE14879,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1052,Pseudomonas aeruginosa AZPAE14880,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1051,Pseudomonas aeruginosa AZPAE14881,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1050,Pseudomonas aeruginosa AZPAE14882,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1049,Pseudomonas aeruginosa AZPAE14883,meropenem,Susceptible,0.03,,0.03,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1048,Pseudomonas aeruginosa AZPAE14884,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1047,Pseudomonas aeruginosa AZPAE14885,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1046,Pseudomonas aeruginosa AZPAE14886,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1045,Pseudomonas aeruginosa AZPAE14887,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1044,Pseudomonas aeruginosa AZPAE14888,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1043,Pseudomonas aeruginosa AZPAE14889,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1042,Pseudomonas aeruginosa AZPAE14890,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1041,Pseudomonas aeruginosa AZPAE14891,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1040,Pseudomonas aeruginosa AZPAE14892,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1039,Pseudomonas aeruginosa AZPAE14893,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1038,Pseudomonas aeruginosa AZPAE14894,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1037,Pseudomonas aeruginosa AZPAE14895,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1036,Pseudomonas aeruginosa AZPAE14897,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1035,Pseudomonas aeruginosa AZPAE14898,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1034,Pseudomonas aeruginosa AZPAE14899,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1033,Pseudomonas aeruginosa AZPAE14900,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1032,Pseudomonas aeruginosa AZPAE14901,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1031,Pseudomonas aeruginosa AZPAE14902,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1030,Pseudomonas aeruginosa AZPAE14903,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1029,Pseudomonas aeruginosa AZPAE14904,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1028,Pseudomonas aeruginosa AZPAE14905,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1027,Pseudomonas aeruginosa AZPAE14906,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1026,Pseudomonas aeruginosa AZPAE14907,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1025,Pseudomonas aeruginosa AZPAE14908,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1024,Pseudomonas aeruginosa AZPAE14909,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1023,Pseudomonas aeruginosa AZPAE14910,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1022,Pseudomonas aeruginosa AZPAE14911,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1021,Pseudomonas aeruginosa AZPAE14912,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1020,Pseudomonas aeruginosa AZPAE14913,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1019,Pseudomonas aeruginosa AZPAE14914,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1018,Pseudomonas aeruginosa AZPAE14915,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1017,Pseudomonas aeruginosa AZPAE14916,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1016,Pseudomonas aeruginosa AZPAE14917,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1015,Pseudomonas aeruginosa AZPAE14918,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1014,Pseudomonas aeruginosa AZPAE14919,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1013,Pseudomonas aeruginosa AZPAE14920,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1012,Pseudomonas aeruginosa AZPAE14921,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1011,Pseudomonas aeruginosa AZPAE14922,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1010,Pseudomonas aeruginosa AZPAE14923,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1009,Pseudomonas aeruginosa AZPAE14924,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1008,Pseudomonas aeruginosa AZPAE14925,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1007,Pseudomonas aeruginosa AZPAE14926,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1006,Pseudomonas aeruginosa AZPAE14927,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1005,Pseudomonas aeruginosa AZPAE14928,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1004,Pseudomonas aeruginosa AZPAE14929,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1003,Pseudomonas aeruginosa AZPAE14930,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1002,Pseudomonas aeruginosa AZPAE14931,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1001,Pseudomonas aeruginosa AZPAE14932,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.1000,Pseudomonas aeruginosa AZPAE14933,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.999,Pseudomonas aeruginosa AZPAE14934,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.998,Pseudomonas aeruginosa AZPAE14935,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.997,Pseudomonas aeruginosa AZPAE14936,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.996,Pseudomonas aeruginosa AZPAE14937,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.995,Pseudomonas aeruginosa AZPAE14938,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.994,Pseudomonas aeruginosa AZPAE14939,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.993,Pseudomonas aeruginosa AZPAE14940,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.992,Pseudomonas aeruginosa AZPAE14941,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.991,Pseudomonas aeruginosa AZPAE14942,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.990,Pseudomonas aeruginosa AZPAE14943,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.989,Pseudomonas aeruginosa AZPAE14944,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.988,Pseudomonas aeruginosa AZPAE14945,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.987,Pseudomonas aeruginosa AZPAE14946,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.986,Pseudomonas aeruginosa AZPAE14947,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.985,Pseudomonas aeruginosa AZPAE14948,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.984,Pseudomonas aeruginosa AZPAE14949,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.983,Pseudomonas aeruginosa AZPAE14950,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.982,Pseudomonas aeruginosa AZPAE14951,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.981,Pseudomonas aeruginosa AZPAE14952,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.980,Pseudomonas aeruginosa AZPAE14953,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.979,Pseudomonas aeruginosa AZPAE14954,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.978,Pseudomonas aeruginosa AZPAE14955,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.977,Pseudomonas aeruginosa AZPAE14956,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.976,Pseudomonas aeruginosa AZPAE14957,meropenem,Susceptible,0.03,,0.03,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.975,Pseudomonas aeruginosa AZPAE14958,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.974,Pseudomonas aeruginosa AZPAE14959,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.973,Pseudomonas aeruginosa AZPAE14960,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.972,Pseudomonas aeruginosa AZPAE14961,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.971,Pseudomonas aeruginosa AZPAE14962,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.970,Pseudomonas aeruginosa AZPAE14963,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.969,Pseudomonas aeruginosa AZPAE14964,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.968,Pseudomonas aeruginosa AZPAE14965,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.967,Pseudomonas aeruginosa AZPAE14967,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.966,Pseudomonas aeruginosa AZPAE14968,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.965,Pseudomonas aeruginosa AZPAE14969,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.964,Pseudomonas aeruginosa AZPAE14970,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.963,Pseudomonas aeruginosa AZPAE14971,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.962,Pseudomonas aeruginosa AZPAE14972,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.961,Pseudomonas aeruginosa AZPAE14973,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.960,Pseudomonas aeruginosa AZPAE14974,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.959,Pseudomonas aeruginosa AZPAE14975,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.958,Pseudomonas aeruginosa AZPAE14976,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.957,Pseudomonas aeruginosa AZPAE14977,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.956,Pseudomonas aeruginosa AZPAE14978,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.955,Pseudomonas aeruginosa AZPAE14979,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.954,Pseudomonas aeruginosa AZPAE14980,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.953,Pseudomonas aeruginosa AZPAE14981,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.952,Pseudomonas aeruginosa AZPAE14982,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.951,Pseudomonas aeruginosa AZPAE14983,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.934,Pseudomonas aeruginosa AZPAE14984,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.933,Pseudomonas aeruginosa AZPAE14985,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.932,Pseudomonas aeruginosa AZPAE14986,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.931,Pseudomonas aeruginosa AZPAE14987,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.930,Pseudomonas aeruginosa AZPAE14988,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.929,Pseudomonas aeruginosa AZPAE14989,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.928,Pseudomonas aeruginosa AZPAE14990,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.927,Pseudomonas aeruginosa AZPAE14991,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.926,Pseudomonas aeruginosa AZPAE14992,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.925,Pseudomonas aeruginosa AZPAE14993,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.924,Pseudomonas aeruginosa AZPAE14994,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.923,Pseudomonas aeruginosa AZPAE14995,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.922,Pseudomonas aeruginosa AZPAE14996,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.921,Pseudomonas aeruginosa AZPAE14997,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.920,Pseudomonas aeruginosa AZPAE14998,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.919,Pseudomonas aeruginosa AZPAE14999,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.918,Pseudomonas aeruginosa AZPAE15000,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.917,Pseudomonas aeruginosa AZPAE15001,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.916,Pseudomonas aeruginosa AZPAE15002,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.915,Pseudomonas aeruginosa AZPAE15003,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.914,Pseudomonas aeruginosa AZPAE15004,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.913,Pseudomonas aeruginosa AZPAE15005,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.912,Pseudomonas aeruginosa AZPAE15006,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.911,Pseudomonas aeruginosa AZPAE15007,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.910,Pseudomonas aeruginosa AZPAE15008,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.909,Pseudomonas aeruginosa AZPAE15009,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.908,Pseudomonas aeruginosa AZPAE15010,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.907,Pseudomonas aeruginosa AZPAE15011,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.906,Pseudomonas aeruginosa AZPAE15012,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.905,Pseudomonas aeruginosa AZPAE15013,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.904,Pseudomonas aeruginosa AZPAE15014,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.903,Pseudomonas aeruginosa AZPAE15015,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.902,Pseudomonas aeruginosa AZPAE15016,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.901,Pseudomonas aeruginosa AZPAE15017,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.900,Pseudomonas aeruginosa AZPAE15018,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.899,Pseudomonas aeruginosa AZPAE15019,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.898,Pseudomonas aeruginosa AZPAE15020,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.897,Pseudomonas aeruginosa AZPAE15021,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.896,Pseudomonas aeruginosa AZPAE15022,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.895,Pseudomonas aeruginosa AZPAE15023,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.894,Pseudomonas aeruginosa AZPAE15024,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.893,Pseudomonas aeruginosa AZPAE15025,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.892,Pseudomonas aeruginosa AZPAE15026,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.891,Pseudomonas aeruginosa AZPAE15027,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.890,Pseudomonas aeruginosa AZPAE15028,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.889,Pseudomonas aeruginosa AZPAE15029,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.888,Pseudomonas aeruginosa AZPAE15030,meropenem,Resistant,32,,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.887,Pseudomonas aeruginosa AZPAE15031,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.886,Pseudomonas aeruginosa AZPAE15032,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.885,Pseudomonas aeruginosa AZPAE15033,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.884,Pseudomonas aeruginosa AZPAE15034,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.883,Pseudomonas aeruginosa AZPAE15035,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.882,Pseudomonas aeruginosa AZPAE15036,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.881,Pseudomonas aeruginosa AZPAE15037,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.880,Pseudomonas aeruginosa AZPAE15038,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.879,Pseudomonas aeruginosa AZPAE15039,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.878,Pseudomonas aeruginosa AZPAE15040,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.877,Pseudomonas aeruginosa AZPAE15041,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.876,Pseudomonas aeruginosa AZPAE15042,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.875,Pseudomonas aeruginosa AZPAE15043,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.874,Pseudomonas aeruginosa AZPAE15044,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.873,Pseudomonas aeruginosa AZPAE15045,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.872,Pseudomonas aeruginosa AZPAE15046,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.871,Pseudomonas aeruginosa AZPAE15047,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.870,Pseudomonas aeruginosa AZPAE15048,meropenem,Intermediate,4,,4,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.869,Pseudomonas aeruginosa AZPAE15049,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.868,Pseudomonas aeruginosa AZPAE15050,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.867,Pseudomonas aeruginosa AZPAE15051,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.866,Pseudomonas aeruginosa AZPAE15052,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.865,Pseudomonas aeruginosa AZPAE15053,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.864,Pseudomonas aeruginosa AZPAE15054,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.863,Pseudomonas aeruginosa AZPAE15055,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.862,Pseudomonas aeruginosa AZPAE15056,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.861,Pseudomonas aeruginosa AZPAE15057,meropenem,Susceptible,0.5,,0.5,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.860,Pseudomonas aeruginosa AZPAE15058,meropenem,Susceptible,2,,2,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.859,Pseudomonas aeruginosa AZPAE15059,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.858,Pseudomonas aeruginosa AZPAE15060,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.857,Pseudomonas aeruginosa AZPAE15061,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.856,Pseudomonas aeruginosa AZPAE15062,meropenem,Susceptible,0.12,,0.12,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.855,Pseudomonas aeruginosa AZPAE15063,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.854,Pseudomonas aeruginosa AZPAE15064,meropenem,Resistant,16,,16,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.853,Pseudomonas aeruginosa AZPAE15065,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.852,Pseudomonas aeruginosa AZPAE15066,meropenem,Susceptible,0.06,,0.06,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.851,Pseudomonas aeruginosa AZPAE15067,meropenem,Susceptible,1,,1,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.850,Pseudomonas aeruginosa AZPAE15068,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.849,Pseudomonas aeruginosa AZPAE15069,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.848,Pseudomonas aeruginosa AZPAE15070,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.847,Pseudomonas aeruginosa AZPAE15071,meropenem,Resistant,8,,8,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.846,Pseudomonas aeruginosa AZPAE15072,meropenem,Susceptible,0.25,,0.25,mg/L,Broth dilution,,Sensititre,Thermo Fisher Scientific,CLSI,2013,,,,Laboratory Method,,25367914
+287,287.34435,Pseudomonas aeruginosa ERR2931034,meropenem,,>=16,>=,16,mg/L,Broth dilution,,VITEK 2,BioMerieux,"EUCAST,CLSI",2017,,,,Laboratory Method,,31849911
+287,287.8500,Pseudomonas aeruginosa strain 250,meropenem,Resistant,11,=,11,mg/L,Broth dilution,,VITEK 2,BioMerieux,CLSI,,,,,Laboratory Method,,
+287,287.2977,Pseudomonas aeruginosa strain AR_0054,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.2978,Pseudomonas aeruginosa strain AR_0064,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8884,Pseudomonas aeruginosa strain AR_0090,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.2973,Pseudomonas aeruginosa strain AR_0092,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.2979,Pseudomonas aeruginosa strain AR_0094,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5778,Pseudomonas aeruginosa strain AR_0095,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.2975,Pseudomonas aeruginosa strain AR_0100,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.2972,Pseudomonas aeruginosa strain AR_0103,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.2976,Pseudomonas aeruginosa strain AR_0105,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.2980,Pseudomonas aeruginosa strain AR_0108,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5959,Pseudomonas aeruginosa strain AR_0110,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.6492,Pseudomonas aeruginosa strain AR_0111,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5688,Pseudomonas aeruginosa strain AR_0230,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.6330,Pseudomonas aeruginosa strain AR_0241,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5704,Pseudomonas aeruginosa strain AR_0351,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.6331,Pseudomonas aeruginosa strain AR_0352,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5687,Pseudomonas aeruginosa strain AR_0353,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5686,Pseudomonas aeruginosa strain AR_0354,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5701,Pseudomonas aeruginosa strain AR_0355,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5689,Pseudomonas aeruginosa strain AR_0356,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5690,Pseudomonas aeruginosa strain AR_0357,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5703,Pseudomonas aeruginosa strain AR_0358,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5702,Pseudomonas aeruginosa strain AR_0359,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5685,Pseudomonas aeruginosa strain AR_0360,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5747,Pseudomonas aeruginosa strain AR_0440,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5746,Pseudomonas aeruginosa strain AR_0443,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5955,Pseudomonas aeruginosa strain AR_0446,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5969,Pseudomonas aeruginosa strain AR_0447,meropenem,Susceptible,==2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.6329,Pseudomonas aeruginosa strain AR_0449,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.6328,Pseudomonas aeruginosa strain AR_0456,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.6327,Pseudomonas aeruginosa strain AR_0457,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.6326,Pseudomonas aeruginosa strain AR_0459,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5972,Pseudomonas aeruginosa strain AR_455,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5973,Pseudomonas aeruginosa strain AR_458,meropenem,Susceptible,==2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5971,Pseudomonas aeruginosa strain AR_460,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5748,Pseudomonas aeruginosa strain AR439,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5751,Pseudomonas aeruginosa strain AR441,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5749,Pseudomonas aeruginosa strain AR442,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5752,Pseudomonas aeruginosa strain AR444,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5750,Pseudomonas aeruginosa strain AR445,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.5956,Pseudomonas aeruginosa strain CCUG 70744,meropenem,Resistant,>32,>,32,mg/L,Broth dilution,,E-test,BioMerieux,EUCAST,,,,,Laboratory Method,,
+287,287.12562,Pseudomonas aeruginosa strain CF592_Iso2,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12555,Pseudomonas aeruginosa strain CF609_Iso3,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12441,Pseudomonas aeruginosa strain CH4411,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12443,Pseudomonas aeruginosa strain CH4418,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12442,Pseudomonas aeruginosa strain CH4433,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12444,Pseudomonas aeruginosa strain CH4438,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12440,Pseudomonas aeruginosa strain CH4443,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12446,Pseudomonas aeruginosa strain CH4446,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12445,Pseudomonas aeruginosa strain CH4489,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12453,Pseudomonas aeruginosa strain CH4509,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12455,Pseudomonas aeruginosa strain CH4520,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12451,Pseudomonas aeruginosa strain CH4528,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12452,Pseudomonas aeruginosa strain CH4548,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12449,Pseudomonas aeruginosa strain CH4549,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12450,Pseudomonas aeruginosa strain CH4560,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12448,Pseudomonas aeruginosa strain CH4584,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12454,Pseudomonas aeruginosa strain CH4591,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12447,Pseudomonas aeruginosa strain CH4602,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12464,Pseudomonas aeruginosa strain CH4634,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12466,Pseudomonas aeruginosa strain CH4681,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12465,Pseudomonas aeruginosa strain CH4684,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12457,Pseudomonas aeruginosa strain CH4703,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12456,Pseudomonas aeruginosa strain CH4704,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12463,Pseudomonas aeruginosa strain CH4733,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12459,Pseudomonas aeruginosa strain CH4745,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12458,Pseudomonas aeruginosa strain CH4755,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12460,Pseudomonas aeruginosa strain CH4757,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12462,Pseudomonas aeruginosa strain CH4766,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12461,Pseudomonas aeruginosa strain CH4780,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12474,Pseudomonas aeruginosa strain CH4785,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12473,Pseudomonas aeruginosa strain CH4840,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12472,Pseudomonas aeruginosa strain CH4860,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12476,Pseudomonas aeruginosa strain CH4862,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12477,Pseudomonas aeruginosa strain CH4877,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12475,Pseudomonas aeruginosa strain CH4891,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12469,Pseudomonas aeruginosa strain CH4914,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12470,Pseudomonas aeruginosa strain CH4916,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12467,Pseudomonas aeruginosa strain CH4990,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12471,Pseudomonas aeruginosa strain CH5193,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12468,Pseudomonas aeruginosa strain CH5206,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12480,Pseudomonas aeruginosa strain CH5262,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12479,Pseudomonas aeruginosa strain CH5267,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12482,Pseudomonas aeruginosa strain CH5291,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12481,Pseudomonas aeruginosa strain CH5334,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12478,Pseudomonas aeruginosa strain CH5353,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12484,Pseudomonas aeruginosa strain CH5356,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12483,Pseudomonas aeruginosa strain CH5362,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12488,Pseudomonas aeruginosa strain CH5363,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12487,Pseudomonas aeruginosa strain CH5387,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12486,Pseudomonas aeruginosa strain CH5432,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12485,Pseudomonas aeruginosa strain CH5462,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12498,Pseudomonas aeruginosa strain CH5464,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12495,Pseudomonas aeruginosa strain CH5478,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12499,Pseudomonas aeruginosa strain CH5528,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12496,Pseudomonas aeruginosa strain CH5531,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12497,Pseudomonas aeruginosa strain CH5548,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12489,Pseudomonas aeruginosa strain CH5550,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12493,Pseudomonas aeruginosa strain CH5551,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12491,Pseudomonas aeruginosa strain CH5591,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12492,Pseudomonas aeruginosa strain CH5596,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12490,Pseudomonas aeruginosa strain CH5597,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12494,Pseudomonas aeruginosa strain CH5621,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12509,Pseudomonas aeruginosa strain CH5638,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12510,Pseudomonas aeruginosa strain CH5666,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12508,Pseudomonas aeruginosa strain CH5688,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12507,Pseudomonas aeruginosa strain CH5695,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12658,Pseudomonas aeruginosa strain ESP002,meropenem,,0.125,,0.125,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12657,Pseudomonas aeruginosa strain ESP003,meropenem,,0.125,,0.125,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12673,Pseudomonas aeruginosa strain ESP004,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12672,Pseudomonas aeruginosa strain ESP006,meropenem,,0.125,,0.125,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12674,Pseudomonas aeruginosa strain ESP009,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12686,Pseudomonas aeruginosa strain ESP011,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12684,Pseudomonas aeruginosa strain ESP012,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12685,Pseudomonas aeruginosa strain ESP013,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12683,Pseudomonas aeruginosa strain ESP015,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12681,Pseudomonas aeruginosa strain ESP020,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12682,Pseudomonas aeruginosa strain ESP021,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12679,Pseudomonas aeruginosa strain ESP022,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12680,Pseudomonas aeruginosa strain ESP023,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12678,Pseudomonas aeruginosa strain ESP024,meropenem,,0.125,,0.125,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12676,Pseudomonas aeruginosa strain ESP025,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12688,Pseudomonas aeruginosa strain ESP028,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12687,Pseudomonas aeruginosa strain ESP029,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12697,Pseudomonas aeruginosa strain ESP031,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12691,Pseudomonas aeruginosa strain ESP032,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12690,Pseudomonas aeruginosa strain ESP033,meropenem,,0.125,,0.125,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12689,Pseudomonas aeruginosa strain ESP034,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12696,Pseudomonas aeruginosa strain ESP035,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12695,Pseudomonas aeruginosa strain ESP036,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12693,Pseudomonas aeruginosa strain ESP037,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12694,Pseudomonas aeruginosa strain ESP038,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12692,Pseudomonas aeruginosa strain ESP039,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12705,Pseudomonas aeruginosa strain ESP040,meropenem,,0.125,,0.125,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12706,Pseudomonas aeruginosa strain ESP043,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12698,Pseudomonas aeruginosa strain ESP044,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12716,Pseudomonas aeruginosa strain ESP046,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12704,Pseudomonas aeruginosa strain ESP047,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12703,Pseudomonas aeruginosa strain ESP050,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12702,Pseudomonas aeruginosa strain ESP053,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12701,Pseudomonas aeruginosa strain ESP055,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12717,Pseudomonas aeruginosa strain ESP057,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12700,Pseudomonas aeruginosa strain ESP058,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12699,Pseudomonas aeruginosa strain ESP059,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12714,Pseudomonas aeruginosa strain ESP060,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12715,Pseudomonas aeruginosa strain ESP061,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12713,Pseudomonas aeruginosa strain ESP063,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12707,Pseudomonas aeruginosa strain ESP064,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12708,Pseudomonas aeruginosa strain ESP066,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12719,Pseudomonas aeruginosa strain ESP067,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12710,Pseudomonas aeruginosa strain ESP068,meropenem,,128,,128,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12718,Pseudomonas aeruginosa strain ESP069,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12711,Pseudomonas aeruginosa strain ESP070,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12709,Pseudomonas aeruginosa strain ESP071,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12712,Pseudomonas aeruginosa strain ESP072,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12720,Pseudomonas aeruginosa strain ESP073,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12727,Pseudomonas aeruginosa strain ESP074,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12722,Pseudomonas aeruginosa strain ESP075,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12721,Pseudomonas aeruginosa strain ESP076,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12724,Pseudomonas aeruginosa strain ESP077,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12725,Pseudomonas aeruginosa strain ESP078,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12723,Pseudomonas aeruginosa strain ESP079,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12726,Pseudomonas aeruginosa strain ESP081,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12729,Pseudomonas aeruginosa strain ESP082,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12730,Pseudomonas aeruginosa strain ESP083,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12728,Pseudomonas aeruginosa strain ESP084,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12733,Pseudomonas aeruginosa strain ESP088,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12731,Pseudomonas aeruginosa strain ESP091,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12559,Pseudomonas aeruginosa strain F1659,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12557,Pseudomonas aeruginosa strain F1688,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12556,Pseudomonas aeruginosa strain F1689,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12560,Pseudomonas aeruginosa strain F1697,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12558,Pseudomonas aeruginosa strain F1706,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12572,Pseudomonas aeruginosa strain F1712,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12570,Pseudomonas aeruginosa strain F1724,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12569,Pseudomonas aeruginosa strain F1727,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12571,Pseudomonas aeruginosa strain F1741,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12582,Pseudomonas aeruginosa strain F1745,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12583,Pseudomonas aeruginosa strain F1746,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12584,Pseudomonas aeruginosa strain F1747,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12585,Pseudomonas aeruginosa strain F1748,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12567,Pseudomonas aeruginosa strain F1752,meropenem,,128,,128,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12568,Pseudomonas aeruginosa strain F1754,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12566,Pseudomonas aeruginosa strain F1757,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12573,Pseudomonas aeruginosa strain F1758,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12574,Pseudomonas aeruginosa strain F1759,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12576,Pseudomonas aeruginosa strain F1760,meropenem,,128,,128,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12578,Pseudomonas aeruginosa strain F1763,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12577,Pseudomonas aeruginosa strain F1764,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12575,Pseudomonas aeruginosa strain F1775,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12587,Pseudomonas aeruginosa strain F1787,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12586,Pseudomonas aeruginosa strain F1789,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12581,Pseudomonas aeruginosa strain F1795,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12579,Pseudomonas aeruginosa strain F1796,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12580,Pseudomonas aeruginosa strain F1798,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12597,Pseudomonas aeruginosa strain F1800,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12598,Pseudomonas aeruginosa strain F1801,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12589,Pseudomonas aeruginosa strain F1810,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12591,Pseudomonas aeruginosa strain F1812,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12592,Pseudomonas aeruginosa strain F1821,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12590,Pseudomonas aeruginosa strain F1823,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12588,Pseudomonas aeruginosa strain F1853,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12596,Pseudomonas aeruginosa strain F1862,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12595,Pseudomonas aeruginosa strain F1864,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12593,Pseudomonas aeruginosa strain F1869,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12594,Pseudomonas aeruginosa strain F1880,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12603,Pseudomonas aeruginosa strain F1883,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12602,Pseudomonas aeruginosa strain F1894,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12604,Pseudomonas aeruginosa strain F1957,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12601,Pseudomonas aeruginosa strain F1968,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12608,Pseudomonas aeruginosa strain F1979,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12609,Pseudomonas aeruginosa strain F1983,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12600,Pseudomonas aeruginosa strain F1997,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12599,Pseudomonas aeruginosa strain F2000,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12605,Pseudomonas aeruginosa strain F2003,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12606,Pseudomonas aeruginosa strain F2005,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12607,Pseudomonas aeruginosa strain F2006,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12620,Pseudomonas aeruginosa strain F2010,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12616,Pseudomonas aeruginosa strain F2017,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12615,Pseudomonas aeruginosa strain F2020,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12618,Pseudomonas aeruginosa strain F2029,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12619,Pseudomonas aeruginosa strain F2030,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12617,Pseudomonas aeruginosa strain F2034,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12610,Pseudomonas aeruginosa strain F2035,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12611,Pseudomonas aeruginosa strain F2040,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12613,Pseudomonas aeruginosa strain F2044,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12612,Pseudomonas aeruginosa strain F2045,meropenem,,128,,128,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12614,Pseudomonas aeruginosa strain F2054,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12630,Pseudomonas aeruginosa strain F2055,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12631,Pseudomonas aeruginosa strain F2056,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12628,Pseudomonas aeruginosa strain F2059,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12629,Pseudomonas aeruginosa strain F2064,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12624,Pseudomonas aeruginosa strain F2065,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12622,Pseudomonas aeruginosa strain F2073,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12621,Pseudomonas aeruginosa strain F2075,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12623,Pseudomonas aeruginosa strain F2081,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12625,Pseudomonas aeruginosa strain F2084,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12626,Pseudomonas aeruginosa strain F2093,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12627,Pseudomonas aeruginosa strain F2097,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12650,Pseudomonas aeruginosa strain F2098,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12651,Pseudomonas aeruginosa strain F2119,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12632,Pseudomonas aeruginosa strain F2128,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12636,Pseudomonas aeruginosa strain F2137,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12633,Pseudomonas aeruginosa strain F2148,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12635,Pseudomonas aeruginosa strain F2165,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12634,Pseudomonas aeruginosa strain F2166,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12649,Pseudomonas aeruginosa strain F2167,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12647,Pseudomonas aeruginosa strain F2172,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12653,Pseudomonas aeruginosa strain F2176,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12648,Pseudomonas aeruginosa strain F2199,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12646,Pseudomonas aeruginosa strain F2205,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12641,Pseudomonas aeruginosa strain F2208,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12637,Pseudomonas aeruginosa strain F2230,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12638,Pseudomonas aeruginosa strain F2234,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12643,Pseudomonas aeruginosa strain F2235,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12642,Pseudomonas aeruginosa strain F2236,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12644,Pseudomonas aeruginosa strain F2240,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.8510,Pseudomonas aeruginosa strain FDA-CDC-AR_0229,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8511,Pseudomonas aeruginosa strain FDA-CDC-AR_0231,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8512,Pseudomonas aeruginosa strain FDA-CDC-AR_0232,meropenem,Intermediate,4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8513,Pseudomonas aeruginosa strain FDA-CDC-AR_0233,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8514,Pseudomonas aeruginosa strain FDA-CDC-AR_0234,meropenem,Susceptible,2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8515,Pseudomonas aeruginosa strain FDA-CDC-AR_0235,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8516,Pseudomonas aeruginosa strain FDA-CDC-AR_0236,meropenem,Susceptible,2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8517,Pseudomonas aeruginosa strain FDA-CDC-AR_0237,meropenem,Susceptible,2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8518,Pseudomonas aeruginosa strain FDA-CDC-AR_0238,meropenem,Susceptible,0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8519,Pseudomonas aeruginosa strain FDA-CDC-AR_0239,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8520,Pseudomonas aeruginosa strain FDA-CDC-AR_0240,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8521,Pseudomonas aeruginosa strain FDA-CDC-AR_0242,meropenem,Intermediate,4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8522,Pseudomonas aeruginosa strain FDA-CDC-AR_0243,meropenem,Resistant,8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8523,Pseudomonas aeruginosa strain FDA-CDC-AR_0244,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8524,Pseudomonas aeruginosa strain FDA-CDC-AR_0245,meropenem,Resistant,8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8525,Pseudomonas aeruginosa strain FDA-CDC-AR_0246,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8526,Pseudomonas aeruginosa strain FDA-CDC-AR_0247,meropenem,Susceptible,2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8527,Pseudomonas aeruginosa strain FDA-CDC-AR_0248,meropenem,Intermediate,4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8528,Pseudomonas aeruginosa strain FDA-CDC-AR_0249,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8529,Pseudomonas aeruginosa strain FDA-CDC-AR_0250,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8530,Pseudomonas aeruginosa strain FDA-CDC-AR_0251,meropenem,Susceptible,1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8531,Pseudomonas aeruginosa strain FDA-CDC-AR_0252,meropenem,Intermediate,4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8532,Pseudomonas aeruginosa strain FDA-CDC-AR_0253,meropenem,Susceptible,1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8533,Pseudomonas aeruginosa strain FDA-CDC-AR_0254,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8534,Pseudomonas aeruginosa strain FDA-CDC-AR_0255,meropenem,Resistant,8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8535,Pseudomonas aeruginosa strain FDA-CDC-AR_0256,meropenem,Intermediate,4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8536,Pseudomonas aeruginosa strain FDA-CDC-AR_0257,meropenem,Intermediate,4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8537,Pseudomonas aeruginosa strain FDA-CDC-AR_0258,meropenem,Susceptible,0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8539,Pseudomonas aeruginosa strain FDA-CDC-AR_0259,meropenem,Susceptible,0.5,=,0.5,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8538,Pseudomonas aeruginosa strain FDA-CDC-AR_0260,meropenem,Resistant,8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8540,Pseudomonas aeruginosa strain FDA-CDC-AR_0261,meropenem,Susceptible,0.5,=,0.5,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8541,Pseudomonas aeruginosa strain FDA-CDC-AR_0262,meropenem,Susceptible,1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8542,Pseudomonas aeruginosa strain FDA-CDC-AR_0263,meropenem,Susceptible,0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8543,Pseudomonas aeruginosa strain FDA-CDC-AR_0264,meropenem,Susceptible,2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8544,Pseudomonas aeruginosa strain FDA-CDC-AR_0265,meropenem,Resistant,8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8545,Pseudomonas aeruginosa strain FDA-CDC-AR_0266,meropenem,Resistant,8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8546,Pseudomonas aeruginosa strain FDA-CDC-AR_0267,meropenem,Intermediate,4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8547,Pseudomonas aeruginosa strain FDA-CDC-AR_0268,meropenem,Resistant,8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8548,Pseudomonas aeruginosa strain FDA-CDC-AR_0269,meropenem,Intermediate,4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8549,Pseudomonas aeruginosa strain FDA-CDC-AR_0270,meropenem,Susceptible,2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8550,Pseudomonas aeruginosa strain FDA-CDC-AR_0271,meropenem,Resistant,8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8551,Pseudomonas aeruginosa strain FDA-CDC-AR_0272,meropenem,Susceptible,2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.12640,Pseudomonas aeruginosa strain M70563004,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12645,Pseudomonas aeruginosa strain M70564993,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12639,Pseudomonas aeruginosa strain M70565254,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12652,Pseudomonas aeruginosa strain M70565897,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12667,Pseudomonas aeruginosa strain M70604538,meropenem,,128,,128,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12664,Pseudomonas aeruginosa strain M70608424,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12666,Pseudomonas aeruginosa strain M70635118,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12665,Pseudomonas aeruginosa strain M70638412,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12671,Pseudomonas aeruginosa strain M70639645,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12669,Pseudomonas aeruginosa strain M70640096,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12670,Pseudomonas aeruginosa strain M70641593,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12668,Pseudomonas aeruginosa strain M70646050,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12675,Pseudomonas aeruginosa strain M70646077,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12654,Pseudomonas aeruginosa strain M70647319,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12655,Pseudomonas aeruginosa strain M70649365,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12660,Pseudomonas aeruginosa strain M70652746,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12663,Pseudomonas aeruginosa strain M70656672,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12661,Pseudomonas aeruginosa strain M70663247,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12505,Pseudomonas aeruginosa strain MHH0147,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12504,Pseudomonas aeruginosa strain MHH0426,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12506,Pseudomonas aeruginosa strain MHH0927,meropenem,,0.125,,0.125,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12501,Pseudomonas aeruginosa strain MHH0985,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12500,Pseudomonas aeruginosa strain MHH15083,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12503,Pseudomonas aeruginosa strain MHH1525,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12502,Pseudomonas aeruginosa strain MHH15275,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12520,Pseudomonas aeruginosa strain MHH16379,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12521,Pseudomonas aeruginosa strain MHH16798,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12519,Pseudomonas aeruginosa strain MHH16951,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12518,Pseudomonas aeruginosa strain MHH17233,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12517,Pseudomonas aeruginosa strain MHH17247,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12511,Pseudomonas aeruginosa strain MHH17441,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12512,Pseudomonas aeruginosa strain MHH17501,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12513,Pseudomonas aeruginosa strain MHH17546,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12516,Pseudomonas aeruginosa strain MHH17767,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12514,Pseudomonas aeruginosa strain MHH17783,meropenem,,256,,256,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12542,Pseudomonas aeruginosa strain MHH2419,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.8875,Pseudomonas aeruginosa strain MRSN 17623,meropenem,Resistant,>=16,>=,16,mg/L,Broth dilution,,VITEK 2,BioMerieux,CLSI,,,,,Laboratory Method,,
+287,287.7853,Pseudomonas aeruginosa strain MRSN11278,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7854,Pseudomonas aeruginosa strain MRSN11281,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7858,Pseudomonas aeruginosa strain MRSN11285,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7861,Pseudomonas aeruginosa strain MRSN11286,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7860,Pseudomonas aeruginosa strain MRSN11536,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7852,Pseudomonas aeruginosa strain MRSN11538,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7862,Pseudomonas aeruginosa strain MRSN11976,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7859,Pseudomonas aeruginosa strain MRSN12282,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7849,Pseudomonas aeruginosa strain MRSN12283,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7850,Pseudomonas aeruginosa strain MRSN12365,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7857,Pseudomonas aeruginosa strain MRSN12368,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7848,Pseudomonas aeruginosa strain MRSN12914,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7856,Pseudomonas aeruginosa strain MRSN1344,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7855,Pseudomonas aeruginosa strain MRSN13488,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7847,Pseudomonas aeruginosa strain MRSN1356,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7845,Pseudomonas aeruginosa strain MRSN1380,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7829,Pseudomonas aeruginosa strain MRSN1388,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7831,Pseudomonas aeruginosa strain MRSN14981,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7846,Pseudomonas aeruginosa strain MRSN15566,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7830,Pseudomonas aeruginosa strain MRSN15678,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7844,Pseudomonas aeruginosa strain MRSN15753,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7827,Pseudomonas aeruginosa strain MRSN1583,meropenem,Susceptible,==0.5,=,0.5,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7826,Pseudomonas aeruginosa strain MRSN1601,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7841,Pseudomonas aeruginosa strain MRSN1612,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7825,Pseudomonas aeruginosa strain MRSN1613,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7828,Pseudomonas aeruginosa strain MRSN1617,meropenem,Susceptible,==2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7840,Pseudomonas aeruginosa strain MRSN16344,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7824,Pseudomonas aeruginosa strain MRSN16345,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7823,Pseudomonas aeruginosa strain MRSN16383,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7821,Pseudomonas aeruginosa strain MRSN16740,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7820,Pseudomonas aeruginosa strain MRSN16744,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7843,Pseudomonas aeruginosa strain MRSN16847,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7822,Pseudomonas aeruginosa strain MRSN1688,meropenem,Susceptible,==0.5,=,0.5,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7842,Pseudomonas aeruginosa strain MRSN1739,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7819,Pseudomonas aeruginosa strain MRSN17849,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8034,Pseudomonas aeruginosa strain MRSN18560,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7839,Pseudomonas aeruginosa strain MRSN18562,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7801,Pseudomonas aeruginosa strain MRSN18754,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8032,Pseudomonas aeruginosa strain MRSN18803,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8030,Pseudomonas aeruginosa strain MRSN18855,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7818,Pseudomonas aeruginosa strain MRSN18970,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.1482,Pseudomonas aeruginosa strain MRSN18971,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,VITEK 2,BioMerieux,CLSI,,,,,Laboratory Method,,
+287,287.7816,Pseudomonas aeruginosa strain MRSN1899,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7817,Pseudomonas aeruginosa strain MRSN1902,meropenem,Susceptible,==2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7814,Pseudomonas aeruginosa strain MRSN1906,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7837,Pseudomonas aeruginosa strain MRSN1925,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7815,Pseudomonas aeruginosa strain MRSN1938,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7813,Pseudomonas aeruginosa strain MRSN1948,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7790,Pseudomonas aeruginosa strain MRSN19711,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7812,Pseudomonas aeruginosa strain MRSN20176,meropenem,Susceptible,==2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7791,Pseudomonas aeruginosa strain MRSN20190,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7810,Pseudomonas aeruginosa strain MRSN2101,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8031,Pseudomonas aeruginosa strain MRSN2108,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8029,Pseudomonas aeruginosa strain MRSN2144,meropenem,Susceptible,==0.5,=,0.5,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7811,Pseudomonas aeruginosa strain MRSN23861,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7808,Pseudomonas aeruginosa strain MRSN2444,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7838,Pseudomonas aeruginosa strain MRSN25623,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7800,Pseudomonas aeruginosa strain MRSN25678,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7807,Pseudomonas aeruginosa strain MRSN25762,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7836,Pseudomonas aeruginosa strain MRSN26263,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7806,Pseudomonas aeruginosa strain MRSN29192,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7835,Pseudomonas aeruginosa strain MRSN30858,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7789,Pseudomonas aeruginosa strain MRSN315,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8033,Pseudomonas aeruginosa strain MRSN317,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7799,Pseudomonas aeruginosa strain MRSN321,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7834,Pseudomonas aeruginosa strain MRSN346179,meropenem,Susceptible,==0.5,=,0.5,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7833,Pseudomonas aeruginosa strain MRSN351791,meropenem,Susceptible,==0.5,=,0.5,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7809,Pseudomonas aeruginosa strain MRSN3587,meropenem,Susceptible,==0.5,=,0.5,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7851,Pseudomonas aeruginosa strain MRSN358800,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8028,Pseudomonas aeruginosa strain MRSN369569,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7805,Pseudomonas aeruginosa strain MRSN3705,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7804,Pseudomonas aeruginosa strain MRSN373401,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7802,Pseudomonas aeruginosa strain MRSN390231,meropenem,Susceptible,==2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.8027,Pseudomonas aeruginosa strain MRSN401528,meropenem,Susceptible,==2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7832,Pseudomonas aeruginosa strain MRSN409937,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7798,Pseudomonas aeruginosa strain MRSN435288,meropenem,Susceptible,<=0.25,<=,0.25,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7803,Pseudomonas aeruginosa strain MRSN436311,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7788,Pseudomonas aeruginosa strain MRSN443463,meropenem,Susceptible,==1,=,1,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7786,Pseudomonas aeruginosa strain MRSN4841,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7787,Pseudomonas aeruginosa strain MRSN5498,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7797,Pseudomonas aeruginosa strain MRSN5508,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7785,Pseudomonas aeruginosa strain MRSN5519,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7784,Pseudomonas aeruginosa strain MRSN552,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7782,Pseudomonas aeruginosa strain MRSN5524,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7783,Pseudomonas aeruginosa strain MRSN5539,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7781,Pseudomonas aeruginosa strain MRSN6220,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7779,Pseudomonas aeruginosa strain MRSN6241,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7780,Pseudomonas aeruginosa strain MRSN6678,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7778,Pseudomonas aeruginosa strain MRSN6695,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7796,Pseudomonas aeruginosa strain MRSN6739,meropenem,Susceptible,==2,=,2,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7775,Pseudomonas aeruginosa strain MRSN7014,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7795,Pseudomonas aeruginosa strain MRSN8130,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7777,Pseudomonas aeruginosa strain MRSN8136,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7774,Pseudomonas aeruginosa strain MRSN8139,meropenem,Intermediate,==4,=,4,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7794,Pseudomonas aeruginosa strain MRSN8141,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7776,Pseudomonas aeruginosa strain MRSN8912,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7771,Pseudomonas aeruginosa strain MRSN8914,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7772,Pseudomonas aeruginosa strain MRSN8915,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7793,Pseudomonas aeruginosa strain MRSN9718,meropenem,Resistant,==8,=,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7792,Pseudomonas aeruginosa strain MRSN9873,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.7773,Pseudomonas aeruginosa strain MRSN994,meropenem,Resistant,>8,>,8,mg/L,Broth dilution,,,,CLSI,,,,,Laboratory Method,,
+287,287.12662,Pseudomonas aeruginosa strain MS2,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12656,Pseudomonas aeruginosa strain MS5,meropenem,,0.125,,0.125,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12753,Pseudomonas aeruginosa strain PSAE1401,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12754,Pseudomonas aeruginosa strain PSAE1438,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12755,Pseudomonas aeruginosa strain PSAE1439,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12737,Pseudomonas aeruginosa strain PSAE1630,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12735,Pseudomonas aeruginosa strain PSAE1635,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12750,Pseudomonas aeruginosa strain PSAE1641,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12751,Pseudomonas aeruginosa strain PSAE1642,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12752,Pseudomonas aeruginosa strain PSAE1645,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12749,Pseudomonas aeruginosa strain PSAE1647,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12748,Pseudomonas aeruginosa strain PSAE1649,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12747,Pseudomonas aeruginosa strain PSAE1651,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12746,Pseudomonas aeruginosa strain PSAE1654,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12745,Pseudomonas aeruginosa strain PSAE1656,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12740,Pseudomonas aeruginosa strain PSAE1742,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12743,Pseudomonas aeruginosa strain PSAE1745,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12736,Pseudomonas aeruginosa strain PSAE1837,meropenem,,2,,2,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12732,Pseudomonas aeruginosa strain PSAE1872,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12738,Pseudomonas aeruginosa strain PSAE1903,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12756,Pseudomonas aeruginosa strain PSAE1912,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12741,Pseudomonas aeruginosa strain PSAE1934,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12758,Pseudomonas aeruginosa strain PSAE1970,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12757,Pseudomonas aeruginosa strain PSAE1975,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12739,Pseudomonas aeruginosa strain PSAE1984,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12742,Pseudomonas aeruginosa strain PSAE2125,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12744,Pseudomonas aeruginosa strain PSAE2126,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12734,Pseudomonas aeruginosa strain PSAE2127,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12759,Pseudomonas aeruginosa strain PSAE2139,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12760,Pseudomonas aeruginosa strain PSAE2325,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12553,Pseudomonas aeruginosa strain Vb20477,meropenem,,512,,512,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12554,Pseudomonas aeruginosa strain Vb3320,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12563,Pseudomonas aeruginosa strain ZG02420619,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12545,Pseudomonas aeruginosa strain ZG02488718,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12544,Pseudomonas aeruginosa strain ZG02512057,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12529,Pseudomonas aeruginosa strain ZG205565,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12530,Pseudomonas aeruginosa strain ZG205694,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12524,Pseudomonas aeruginosa strain ZG205710,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12523,Pseudomonas aeruginosa strain ZG205864,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12522,Pseudomonas aeruginosa strain ZG301975,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12525,Pseudomonas aeruginosa strain ZG302359,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12527,Pseudomonas aeruginosa strain ZG302367,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12528,Pseudomonas aeruginosa strain ZG302368,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12526,Pseudomonas aeruginosa strain ZG302370,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12543,Pseudomonas aeruginosa strain ZG302383,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12534,Pseudomonas aeruginosa strain ZG302431,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12535,Pseudomonas aeruginosa strain ZG302432,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12533,Pseudomonas aeruginosa strain ZG302442,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12532,Pseudomonas aeruginosa strain ZG302451,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12540,Pseudomonas aeruginosa strain ZG314696,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12539,Pseudomonas aeruginosa strain ZG314738,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12538,Pseudomonas aeruginosa strain ZG314777,meropenem,,4,,4,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12536,Pseudomonas aeruginosa strain ZG316694,meropenem,,0.5,,0.5,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12537,Pseudomonas aeruginosa strain ZG316704,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12541,Pseudomonas aeruginosa strain ZG316716,meropenem,,0.25,,0.25,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12565,Pseudomonas aeruginosa strain ZG316722,meropenem,,1,,1,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12561,Pseudomonas aeruginosa strain ZG322541,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12564,Pseudomonas aeruginosa strain ZG5003493,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12552,Pseudomonas aeruginosa strain ZG5021922,meropenem,,256,,256,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12551,Pseudomonas aeruginosa strain ZG5048010,meropenem,,256,,256,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12546,Pseudomonas aeruginosa strain ZG5051896,meropenem,,32,,32,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12548,Pseudomonas aeruginosa strain ZG5089456,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12550,Pseudomonas aeruginosa strain ZG8006959,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12531,Pseudomonas aeruginosa strain ZG8038581181,meropenem,,8,,8,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12547,Pseudomonas aeruginosa strain ZG8510487,meropenem,,64,,64,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.12549,Pseudomonas aeruginosa strain ZG8525123,meropenem,,16,,16,mg/L,Broth dilution,,,,CLSI,2018,,,,Laboratory Method,,32048461
+287,287.1477,Pseudomonas aeruginosastrain MRSN12121 strain MRSN 20176,meropenem,Susceptible,==4,=,4,mg/L,Broth dilution,,VITEK 2,BioMerieux,CLSI,,,,,Laboratory Method,,
